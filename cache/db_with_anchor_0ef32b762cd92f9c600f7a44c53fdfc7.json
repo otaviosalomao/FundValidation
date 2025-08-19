@@ -1,0 +1,150 @@
+{
+  "created_at": "2025-08-19T14:46:30.733250",
+  "ttl_hours": 12,
+  "cache_key": "db_with_anchor_0ef32b762cd92f9c600f7a44c53fdfc7",
+  "data": [
+    {
+      "FinancialInstrumentFundValueHistoryId": 2274375,
+      "FinancialInstrumentId": 1232,
+      "QuotaValue": "113.85900370",
+      "Name": "PORTO MANACÁ BANCÁRIOS FIF CIC RF REF DI CP - RESP LTDA",
+      "PositionDate": "2025-07-31 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2275081,
+      "FinancialInstrumentId": 1232,
+      "QuotaValue": "113.92162130",
+      "Name": "PORTO MANACÁ BANCÁRIOS FIF CIC RF REF DI CP - RESP LTDA",
+      "PositionDate": "2025-08-01 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2279762,
+      "FinancialInstrumentId": 1232,
+      "QuotaValue": "113.98382540",
+      "Name": "PORTO MANACÁ BANCÁRIOS FIF CIC RF REF DI CP - RESP LTDA",
+      "PositionDate": "2025-08-04 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2280265,
+      "FinancialInstrumentId": 1232,
+      "QuotaValue": "114.04581470",
+      "Name": "PORTO MANACÁ BANCÁRIOS FIF CIC RF REF DI CP - RESP LTDA",
+      "PositionDate": "2025-08-05 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2280917,
+      "FinancialInstrumentId": 1232,
+      "QuotaValue": "114.10817670",
+      "Name": "PORTO MANACÁ BANCÁRIOS FIF CIC RF REF DI CP - RESP LTDA",
+      "PositionDate": "2025-08-06 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2282705,
+      "FinancialInstrumentId": 1232,
+      "QuotaValue": "114.17010850",
+      "Name": "PORTO MANACÁ BANCÁRIOS FIF CIC RF REF DI CP - RESP LTDA",
+      "PositionDate": "2025-08-07 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2283099,
+      "FinancialInstrumentId": 1232,
+      "QuotaValue": "114.23240730",
+      "Name": "PORTO MANACÁ BANCÁRIOS FIF CIC RF REF DI CP - RESP LTDA",
+      "PositionDate": "2025-08-08 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2283697,
+      "FinancialInstrumentId": 1232,
+      "QuotaValue": "114.29542310",
+      "Name": "PORTO MANACÁ BANCÁRIOS FIF CIC RF REF DI CP - RESP LTDA",
+      "PositionDate": "2025-08-11 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2284289,
+      "FinancialInstrumentId": 1232,
+      "QuotaValue": "114.35812430",
+      "Name": "PORTO MANACÁ BANCÁRIOS FIF CIC RF REF DI CP - RESP LTDA",
+      "PositionDate": "2025-08-12 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2285133,
+      "FinancialInstrumentId": 1232,
+      "QuotaValue": "114.42180120",
+      "Name": "PORTO MANACÁ BANCÁRIOS FIF CIC RF REF DI CP - RESP LTDA",
+      "PositionDate": "2025-08-13 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2285709,
+      "FinancialInstrumentId": 1232,
+      "QuotaValue": "114.48443590",
+      "Name": "PORTO MANACÁ BANCÁRIOS FIF CIC RF REF DI CP - RESP LTDA",
+      "PositionDate": "2025-08-14 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2286394,
+      "FinancialInstrumentId": 1232,
+      "QuotaValue": "114.54712340",
+      "Name": "PORTO MANACÁ BANCÁRIOS FIF CIC RF REF DI CP - RESP LTDA",
+      "PositionDate": "2025-08-15 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2287154,
+      "FinancialInstrumentId": 1232,
+      "QuotaValue": "114.60976480",
+      "Name": "PORTO MANACÁ BANCÁRIOS FIF CIC RF REF DI CP - RESP LTDA",
+      "PositionDate": "2025-08-18 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    }
+  ]
+}

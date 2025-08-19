@@ -1,0 +1,139 @@
+{
+  "created_at": "2025-08-19T14:46:19.946589",
+  "ttl_hours": 12,
+  "cache_key": "db_with_anchor_3b7dfdfd0d7c1ba024c57f1bf8f333db",
+  "data": [
+    {
+      "FinancialInstrumentFundValueHistoryId": 2274962,
+      "FinancialInstrumentId": 1104,
+      "QuotaValue": "175.45784240",
+      "Name": "PORTO SEGURO IPÊ FIF CIC RF CRED PRIV LP - RESP LTDA",
+      "PositionDate": "2025-07-31 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2279878,
+      "FinancialInstrumentId": 1104,
+      "QuotaValue": "175.56052240",
+      "Name": "PORTO SEGURO IPÊ FIF CIC RF CRED PRIV LP - RESP LTDA",
+      "PositionDate": "2025-08-01 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2280236,
+      "FinancialInstrumentId": 1104,
+      "QuotaValue": "175.65433350",
+      "Name": "PORTO SEGURO IPÊ FIF CIC RF CRED PRIV LP - RESP LTDA",
+      "PositionDate": "2025-08-04 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2280999,
+      "FinancialInstrumentId": 1104,
+      "QuotaValue": "175.75143920",
+      "Name": "PORTO SEGURO IPÊ FIF CIC RF CRED PRIV LP - RESP LTDA",
+      "PositionDate": "2025-08-05 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2282648,
+      "FinancialInstrumentId": 1104,
+      "QuotaValue": "175.83932730",
+      "Name": "PORTO SEGURO IPÊ FIF CIC RF CRED PRIV LP - RESP LTDA",
+      "PositionDate": "2025-08-06 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2283190,
+      "FinancialInstrumentId": 1104,
+      "QuotaValue": "175.94017780",
+      "Name": "PORTO SEGURO IPÊ FIF CIC RF CRED PRIV LP - RESP LTDA",
+      "PositionDate": "2025-08-07 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2283632,
+      "FinancialInstrumentId": 1104,
+      "QuotaValue": "176.03525960",
+      "Name": "PORTO SEGURO IPÊ FIF CIC RF CRED PRIV LP - RESP LTDA",
+      "PositionDate": "2025-08-08 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2284219,
+      "FinancialInstrumentId": 1104,
+      "QuotaValue": "176.13802600",
+      "Name": "PORTO SEGURO IPÊ FIF CIC RF CRED PRIV LP - RESP LTDA",
+      "PositionDate": "2025-08-11 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2284883,
+      "FinancialInstrumentId": 1104,
+      "QuotaValue": "176.23499500",
+      "Name": "PORTO SEGURO IPÊ FIF CIC RF CRED PRIV LP - RESP LTDA",
+      "PositionDate": "2025-08-12 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2285593,
+      "FinancialInstrumentId": 1104,
+      "QuotaValue": "176.33395670",
+      "Name": "PORTO SEGURO IPÊ FIF CIC RF CRED PRIV LP - RESP LTDA",
+      "PositionDate": "2025-08-13 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2286446,
+      "FinancialInstrumentId": 1104,
+      "QuotaValue": "176.43300260",
+      "Name": "PORTO SEGURO IPÊ FIF CIC RF CRED PRIV LP - RESP LTDA",
+      "PositionDate": "2025-08-14 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2286794,
+      "FinancialInstrumentId": 1104,
+      "QuotaValue": "176.52747740",
+      "Name": "PORTO SEGURO IPÊ FIF CIC RF CRED PRIV LP - RESP LTDA",
+      "PositionDate": "2025-08-15 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    }
+  ]
+}

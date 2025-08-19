@@ -1,0 +1,139 @@
+{
+  "created_at": "2025-08-19T14:46:33.173106",
+  "ttl_hours": 12,
+  "cache_key": "db_with_anchor_c20d625245e6bc5276edf54891334b46",
+  "data": [
+    {
+      "FinancialInstrumentFundValueHistoryId": 2275435,
+      "FinancialInstrumentId": 1143,
+      "QuotaValue": "1.25333610",
+      "Name": "PORTO BAOBÁ FIC FI INCENTIVADOS INFRA RF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-07-31 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2279949,
+      "FinancialInstrumentId": 1143,
+      "QuotaValue": "1.25593630",
+      "Name": "PORTO BAOBÁ FIC FI INCENTIVADOS INFRA RF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-08-01 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2280633,
+      "FinancialInstrumentId": 1143,
+      "QuotaValue": "1.25911007",
+      "Name": "PORTO BAOBÁ FIC FI INCENTIVADOS INFRA RF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-08-04 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2281295,
+      "FinancialInstrumentId": 1143,
+      "QuotaValue": "1.25974695",
+      "Name": "PORTO BAOBÁ FIC FI INCENTIVADOS INFRA RF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-08-05 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2282673,
+      "FinancialInstrumentId": 1143,
+      "QuotaValue": "1.26102772",
+      "Name": "PORTO BAOBÁ FIC FI INCENTIVADOS INFRA RF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-08-06 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2283326,
+      "FinancialInstrumentId": 1143,
+      "QuotaValue": "1.26399468",
+      "Name": "PORTO BAOBÁ FIC FI INCENTIVADOS INFRA RF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-08-07 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2284009,
+      "FinancialInstrumentId": 1143,
+      "QuotaValue": "1.26465817",
+      "Name": "PORTO BAOBÁ FIC FI INCENTIVADOS INFRA RF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-08-08 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2284740,
+      "FinancialInstrumentId": 1143,
+      "QuotaValue": "1.26743966",
+      "Name": "PORTO BAOBÁ FIC FI INCENTIVADOS INFRA RF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-08-11 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2285325,
+      "FinancialInstrumentId": 1143,
+      "QuotaValue": "1.26999983",
+      "Name": "PORTO BAOBÁ FIC FI INCENTIVADOS INFRA RF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-08-12 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2285996,
+      "FinancialInstrumentId": 1143,
+      "QuotaValue": "1.27206616",
+      "Name": "PORTO BAOBÁ FIC FI INCENTIVADOS INFRA RF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-08-13 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2286541,
+      "FinancialInstrumentId": 1143,
+      "QuotaValue": "1.27258044",
+      "Name": "PORTO BAOBÁ FIC FI INCENTIVADOS INFRA RF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-08-14 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2287186,
+      "FinancialInstrumentId": 1143,
+      "QuotaValue": "1.27256232",
+      "Name": "PORTO BAOBÁ FIC FI INCENTIVADOS INFRA RF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-08-15 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "created_at": "2025-08-19T14:44:29.198144",
+  "ttl_hours": 24,
+  "cache_key": "api_d87d506236ca702cf052398b5d0578c9",
+  "data": {
+    "id": 315,
+    "periodo": 2,
+    "data": {
+      "DataUltimaAtualizacao": "2025-08-19T16:28:01.987Z",
+      "IsCache": true,
+      "DataInicial": "2025-01-01T00:00:00",
+      "DataFinal": "2025-08-19T00:00:00-03:00",
+      "Rentabilidades": [
+        {
+          "DataInicial": "2025-01-02T00:00:00Z",
+          "DataFinal": "2025-01-02T00:00:00",
+          "PercentualSobreBenchmark": 0.0,
+          "PercentualAcumuladoBenchmark": 0.0,
+          "PercentualAcumulado": 0.17137731136114392,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-01-03T00:00:00Z",
+          "DataFinal": "2025-01-03T00:00:00",
+          "PercentualSobreBenchmark": 2.6274322950908386,
+          "PercentualAcumuladoBenchmark": 0.04551316162889,
+          "PercentualAcumulado": 0.11958275071543474,
+          "NominalAcumulado": 0.0
+        }
+      ]
+    },
+    "status_code": 200
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "created_at": "2025-08-19T14:46:16.579315",
+  "ttl_hours": 12,
+  "cache_key": "db_with_anchor_1542c7d4b1041231cff19dcddb29273f",
+  "data": [
+    {
+      "FinancialInstrumentFundValueHistoryId": 2251971,
+      "FinancialInstrumentId": 1292,
+      "QuotaValue": "1.00000000",
+      "Name": "PORTO PAINEIRA CDI DEB A FIF FI INFRA RF CP - RESP LTDA - SUB II",
+      "PositionDate": "2025-07-16 00:00:00",
+      "PeriodoSelecionado": 5,
+      "DescricaoPeriodo": "DesdeDoisMilDezenove",
+      "DataInicioPeriodo": "2019-01-01",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2251972,
+      "FinancialInstrumentId": 1292,
+      "QuotaValue": "1.00000000",
+      "Name": "PORTO PAINEIRA CDI DEB A FIF FI INFRA RF CP - RESP LTDA - SUB II",
+      "PositionDate": "2025-07-17 00:00:00",
+      "PeriodoSelecionado": 5,
+      "DescricaoPeriodo": "DesdeDoisMilDezenove",
+      "DataInicioPeriodo": "2019-01-01",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2267138,
+      "FinancialInstrumentId": 1292,
+      "QuotaValue": "1.00060710",
+      "Name": "PORTO PAINEIRA CDI DEB A FIF FI INFRA RF CP - RESP LTDA - SUB II",
+      "PositionDate": "2025-07-18 00:00:00",
+      "PeriodoSelecionado": 5,
+      "DescricaoPeriodo": "DesdeDoisMilDezenove",
+      "DataInicioPeriodo": "2019-01-01",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2269368,
+      "FinancialInstrumentId": 1292,
+      "QuotaValue": "1.00112070",
+      "Name": "PORTO PAINEIRA CDI DEB A FIF FI INFRA RF CP - RESP LTDA - SUB II",
+      "PositionDate": "2025-07-21 00:00:00",
+      "PeriodoSelecionado": 5,
+      "DescricaoPeriodo": "DesdeDoisMilDezenove",
+      "DataInicioPeriodo": "2019-01-01",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2271308,
+      "FinancialInstrumentId": 1292,
+      "QuotaValue": "1.00183490",
+      "Name": "PORTO PAINEIRA CDI DEB A FIF FI INFRA RF CP - RESP LTDA - SUB II",
+      "PositionDate": "2025-07-22 00:00:00",
+      "PeriodoSelecionado": 5,
+      "DescricaoPeriodo": "DesdeDoisMilDezenove",
+      "DataInicioPeriodo": "2019-01-01",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2272007,
+      "FinancialInstrumentId": 1292,
+      "QuotaValue": "1.00240570",
+      "Name": "PORTO PAINEIRA CDI DEB A FIF FI INFRA RF CP - RESP LTDA - SUB II",
+      "PositionDate": "2025-07-23 00:00:00",
+      "PeriodoSelecionado": 5,
+      "DescricaoPeriodo": "DesdeDoisMilDezenove",
+      "DataInicioPeriodo": "2019-01-01",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2272645,
+      "FinancialInstrumentId": 1292,
+      "QuotaValue": "1.00290350",
+      "Name": "PORTO PAINEIRA CDI DEB A FIF FI INFRA RF CP - RESP LTDA - SUB II",
+      "PositionDate": "2025-07-24 00:00:00",
+      "PeriodoSelecionado": 5,
+      "DescricaoPeriodo": "DesdeDoisMilDezenove",
+      "DataInicioPeriodo": "2019-01-01",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2273301,
+      "FinancialInstrumentId": 1292,
+      "QuotaValue": "1.00359880",
+      "Name": "PORTO PAINEIRA CDI DEB A FIF FI INFRA RF CP - RESP LTDA - SUB II",
+      "PositionDate": "2025-07-25 00:00:00",
+      "PeriodoSelecionado": 5,
+      "DescricaoPeriodo": "DesdeDoisMilDezenove",
+      "DataInicioPeriodo": "2019-01-01",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2273889,
+      "FinancialInstrumentId": 1292,
+      "QuotaValue": "1.00440210",
+      "Name": "PORTO PAINEIRA CDI DEB A FIF FI INFRA RF CP - RESP LTDA - SUB II",
+      "PositionDate": "2025-07-28 00:00:00",
+      "PeriodoSelecionado": 5,
+      "DescricaoPeriodo": "DesdeDoisMilDezenove",
+      "DataInicioPeriodo": "2019-01-01",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2274599,
+      "FinancialInstrumentId": 1292,
+      "QuotaValue": "1.00508730",
+      "Name": "PORTO PAINEIRA CDI DEB A FIF FI INFRA RF CP - RESP LTDA - SUB II",
+      "PositionDate": "2025-07-29 00:00:00",
+      "PeriodoSelecionado": 5,
+      "DescricaoPeriodo": "DesdeDoisMilDezenove",
+      "DataInicioPeriodo": "2019-01-01",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2275230,
+      "FinancialInstrumentId": 1292,
+      "QuotaValue": "1.00550980",
+      "Name": "PORTO PAINEIRA CDI DEB A FIF FI INFRA RF CP - RESP LTDA - SUB II",
+      "PositionDate": "2025-07-30 00:00:00",
+      "PeriodoSelecionado": 5,
+      "DescricaoPeriodo": "DesdeDoisMilDezenove",
+      "DataInicioPeriodo": "2019-01-01",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2280011,
+      "FinancialInstrumentId": 1292,
+      "QuotaValue": "1.00575230",
+      "Name": "PORTO PAINEIRA CDI DEB A FIF FI INFRA RF CP - RESP LTDA - SUB II",
+      "PositionDate": "2025-07-31 00:00:00",
+      "PeriodoSelecionado": 5,
+      "DescricaoPeriodo": "DesdeDoisMilDezenove",
+      "DataInicioPeriodo": "2019-01-01",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2280556,
+      "FinancialInstrumentId": 1292,
+      "QuotaValue": "1.00654770",
+      "Name": "PORTO PAINEIRA CDI DEB A FIF FI INFRA RF CP - RESP LTDA - SUB II",
+      "PositionDate": "2025-08-01 00:00:00",
+      "PeriodoSelecionado": 5,
+      "DescricaoPeriodo": "DesdeDoisMilDezenove",
+      "DataInicioPeriodo": "2019-01-01",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2281207,
+      "FinancialInstrumentId": 1292,
+      "QuotaValue": "1.00726320",
+      "Name": "PORTO PAINEIRA CDI DEB A FIF FI INFRA RF CP - RESP LTDA - SUB II",
+      "PositionDate": "2025-08-04 00:00:00",
+      "PeriodoSelecionado": 5,
+      "DescricaoPeriodo": "DesdeDoisMilDezenove",
+      "DataInicioPeriodo": "2019-01-01",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2282535,
+      "FinancialInstrumentId": 1292,
+      "QuotaValue": "1.00777480",
+      "Name": "PORTO PAINEIRA CDI DEB A FIF FI INFRA RF CP - RESP LTDA - SUB II",
+      "PositionDate": "2025-08-05 00:00:00",
+      "PeriodoSelecionado": 5,
+      "DescricaoPeriodo": "DesdeDoisMilDezenove",
+      "DataInicioPeriodo": "2019-01-01",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2283207,
+      "FinancialInstrumentId": 1292,
+      "QuotaValue": "1.00852010",
+      "Name": "PORTO PAINEIRA CDI DEB A FIF FI INFRA RF CP - RESP LTDA - SUB II",
+      "PositionDate": "2025-08-06 00:00:00",
+      "PeriodoSelecionado": 5,
+      "DescricaoPeriodo": "DesdeDoisMilDezenove",
+      "DataInicioPeriodo": "2019-01-01",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2283948,
+      "FinancialInstrumentId": 1292,
+      "QuotaValue": "1.00960170",
+      "Name": "PORTO PAINEIRA CDI DEB A FIF FI INFRA RF CP - RESP LTDA - SUB II",
+      "PositionDate": "2025-08-07 00:00:00",
+      "PeriodoSelecionado": 5,
+      "DescricaoPeriodo": "DesdeDoisMilDezenove",
+      "DataInicioPeriodo": "2019-01-01",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2284239,
+      "FinancialInstrumentId": 1292,
+      "QuotaValue": "1.00987680",
+      "Name": "PORTO PAINEIRA CDI DEB A FIF FI INFRA RF CP - RESP LTDA - SUB II",
+      "PositionDate": "2025-08-08 00:00:00",
+      "PeriodoSelecionado": 5,
+      "DescricaoPeriodo": "DesdeDoisMilDezenove",
+      "DataInicioPeriodo": "2019-01-01",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2285111,
+      "FinancialInstrumentId": 1292,
+      "QuotaValue": "1.01066940",
+      "Name": "PORTO PAINEIRA CDI DEB A FIF FI INFRA RF CP - RESP LTDA - SUB II",
+      "PositionDate": "2025-08-11 00:00:00",
+      "PeriodoSelecionado": 5,
+      "DescricaoPeriodo": "DesdeDoisMilDezenove",
+      "DataInicioPeriodo": "2019-01-01",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2285780,
+      "FinancialInstrumentId": 1292,
+      "QuotaValue": "1.01176630",
+      "Name": "PORTO PAINEIRA CDI DEB A FIF FI INFRA RF CP - RESP LTDA - SUB II",
+      "PositionDate": "2025-08-12 00:00:00",
+      "PeriodoSelecionado": 5,
+      "DescricaoPeriodo": "DesdeDoisMilDezenove",
+      "DataInicioPeriodo": "2019-01-01",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2286268,
+      "FinancialInstrumentId": 1292,
+      "QuotaValue": "1.01243890",
+      "Name": "PORTO PAINEIRA CDI DEB A FIF FI INFRA RF CP - RESP LTDA - SUB II",
+      "PositionDate": "2025-08-13 00:00:00",
+      "PeriodoSelecionado": 5,
+      "DescricaoPeriodo": "DesdeDoisMilDezenove",
+      "DataInicioPeriodo": "2019-01-01",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2287219,
+      "FinancialInstrumentId": 1292,
+      "QuotaValue": "1.01296810",
+      "Name": "PORTO PAINEIRA CDI DEB A FIF FI INFRA RF CP - RESP LTDA - SUB II",
+      "PositionDate": "2025-08-14 00:00:00",
+      "PeriodoSelecionado": 5,
+      "DescricaoPeriodo": "DesdeDoisMilDezenove",
+      "DataInicioPeriodo": "2019-01-01",
+      "DataFimPeriodo": "2025-08-19"
+    }
+  ]
+}

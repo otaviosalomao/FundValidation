@@ -1,0 +1,139 @@
+{
+  "created_at": "2025-08-19T14:46:27.108919",
+  "ttl_hours": 12,
+  "cache_key": "db_with_anchor_ba146e6e9c9291f07bb19b587200759d",
+  "data": [
+    {
+      "FinancialInstrumentFundValueHistoryId": 2279566,
+      "FinancialInstrumentId": 1138,
+      "QuotaValue": "3.19266840",
+      "Name": "PORTO SEGURO ALOCAÇÃO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-07-31 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2280123,
+      "FinancialInstrumentId": 1138,
+      "QuotaValue": "3.20297980",
+      "Name": "PORTO SEGURO ALOCAÇÃO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-08-01 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2280806,
+      "FinancialInstrumentId": 1138,
+      "QuotaValue": "3.20905530",
+      "Name": "PORTO SEGURO ALOCAÇÃO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-08-04 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2281463,
+      "FinancialInstrumentId": 1138,
+      "QuotaValue": "3.21187040",
+      "Name": "PORTO SEGURO ALOCAÇÃO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-08-05 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2282852,
+      "FinancialInstrumentId": 1138,
+      "QuotaValue": "3.22087530",
+      "Name": "PORTO SEGURO ALOCAÇÃO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-08-06 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2283595,
+      "FinancialInstrumentId": 1138,
+      "QuotaValue": "3.22667770",
+      "Name": "PORTO SEGURO ALOCAÇÃO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-08-07 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2284224,
+      "FinancialInstrumentId": 1138,
+      "QuotaValue": "3.22765950",
+      "Name": "PORTO SEGURO ALOCAÇÃO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-08-08 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2284738,
+      "FinancialInstrumentId": 1138,
+      "QuotaValue": "3.22584760",
+      "Name": "PORTO SEGURO ALOCAÇÃO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-08-11 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2285608,
+      "FinancialInstrumentId": 1138,
+      "QuotaValue": "3.23400570",
+      "Name": "PORTO SEGURO ALOCAÇÃO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-08-12 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2286161,
+      "FinancialInstrumentId": 1138,
+      "QuotaValue": "3.23924020",
+      "Name": "PORTO SEGURO ALOCAÇÃO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-08-13 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2286865,
+      "FinancialInstrumentId": 1138,
+      "QuotaValue": "3.23910570",
+      "Name": "PORTO SEGURO ALOCAÇÃO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-08-14 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2287432,
+      "FinancialInstrumentId": 1138,
+      "QuotaValue": "3.24016070",
+      "Name": "PORTO SEGURO ALOCAÇÃO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-08-15 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    }
+  ]
+}

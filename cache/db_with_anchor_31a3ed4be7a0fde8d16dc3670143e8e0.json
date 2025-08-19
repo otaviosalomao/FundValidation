@@ -1,0 +1,238 @@
+{
+  "created_at": "2025-08-19T14:46:58.276849",
+  "ttl_hours": 12,
+  "cache_key": "db_with_anchor_31a3ed4be7a0fde8d16dc3670143e8e0",
+  "data": [
+    {
+      "FinancialInstrumentFundValueHistoryId": 2265693,
+      "FinancialInstrumentId": 1246,
+      "QuotaValue": "1.12950580",
+      "Name": "CLASSE DO PORTO RIO BRANCO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-07-18 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2266936,
+      "FinancialInstrumentId": 1246,
+      "QuotaValue": "1.12436240",
+      "Name": "CLASSE DO PORTO RIO BRANCO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-07-21 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2269360,
+      "FinancialInstrumentId": 1246,
+      "QuotaValue": "1.12222690",
+      "Name": "CLASSE DO PORTO RIO BRANCO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-07-22 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2271346,
+      "FinancialInstrumentId": 1246,
+      "QuotaValue": "1.12409340",
+      "Name": "CLASSE DO PORTO RIO BRANCO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-07-23 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2272199,
+      "FinancialInstrumentId": 1246,
+      "QuotaValue": "1.12688020",
+      "Name": "CLASSE DO PORTO RIO BRANCO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-07-24 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2272652,
+      "FinancialInstrumentId": 1246,
+      "QuotaValue": "1.12760670",
+      "Name": "CLASSE DO PORTO RIO BRANCO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-07-25 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2273337,
+      "FinancialInstrumentId": 1246,
+      "QuotaValue": "1.13127830",
+      "Name": "CLASSE DO PORTO RIO BRANCO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-07-28 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2274022,
+      "FinancialInstrumentId": 1246,
+      "QuotaValue": "1.12804980",
+      "Name": "CLASSE DO PORTO RIO BRANCO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-07-29 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2274688,
+      "FinancialInstrumentId": 1246,
+      "QuotaValue": "1.13229370",
+      "Name": "CLASSE DO PORTO RIO BRANCO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-07-30 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2275300,
+      "FinancialInstrumentId": 1246,
+      "QuotaValue": "1.13404130",
+      "Name": "CLASSE DO PORTO RIO BRANCO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-07-31 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2280053,
+      "FinancialInstrumentId": 1246,
+      "QuotaValue": "1.13563150",
+      "Name": "CLASSE DO PORTO RIO BRANCO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-08-01 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2280660,
+      "FinancialInstrumentId": 1246,
+      "QuotaValue": "1.13709310",
+      "Name": "CLASSE DO PORTO RIO BRANCO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-08-04 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2281299,
+      "FinancialInstrumentId": 1246,
+      "QuotaValue": "1.13764430",
+      "Name": "CLASSE DO PORTO RIO BRANCO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-08-05 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2282711,
+      "FinancialInstrumentId": 1246,
+      "QuotaValue": "1.13730450",
+      "Name": "CLASSE DO PORTO RIO BRANCO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-08-06 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2283372,
+      "FinancialInstrumentId": 1246,
+      "QuotaValue": "1.13712890",
+      "Name": "CLASSE DO PORTO RIO BRANCO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-08-07 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2283986,
+      "FinancialInstrumentId": 1246,
+      "QuotaValue": "1.13687760",
+      "Name": "CLASSE DO PORTO RIO BRANCO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-08-08 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2284790,
+      "FinancialInstrumentId": 1246,
+      "QuotaValue": "1.13750840",
+      "Name": "CLASSE DO PORTO RIO BRANCO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-08-11 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2285330,
+      "FinancialInstrumentId": 1246,
+      "QuotaValue": "1.13653910",
+      "Name": "CLASSE DO PORTO RIO BRANCO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-08-12 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2286022,
+      "FinancialInstrumentId": 1246,
+      "QuotaValue": "1.13619690",
+      "Name": "CLASSE DO PORTO RIO BRANCO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-08-13 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2286623,
+      "FinancialInstrumentId": 1246,
+      "QuotaValue": "1.13853970",
+      "Name": "CLASSE DO PORTO RIO BRANCO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-08-14 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2287203,
+      "FinancialInstrumentId": 1246,
+      "QuotaValue": "1.13927950",
+      "Name": "CLASSE DO PORTO RIO BRANCO FIF CIC MULT - RESP LTDA",
+      "PositionDate": "2025-08-15 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "created_at": "2025-08-19T14:46:47.041004",
+  "ttl_hours": 12,
+  "cache_key": "db_with_anchor_3afec1c64c6d5ffd185d2a58c0b26168",
+  "data": [
+    {
+      "FinancialInstrumentFundValueHistoryId": 2122095,
+      "FinancialInstrumentId": 315,
+      "QuotaValue": "57925.62872620",
+      "Name": "PORTO SEGURO MACRO FIF CIC MULTI - RESP LTDA",
+      "PositionDate": "2024-12-31 00:00:00",
+      "PeriodoSelecionado": 2,
+      "DescricaoPeriodo": "AnoAtual",
+      "DataInicioPeriodo": "2025-01-01",
+      "DataFimPeriodo": "2025-12-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2122825,
+      "FinancialInstrumentId": 315,
+      "QuotaValue": "58024.90011130",
+      "Name": "PORTO SEGURO MACRO FIF CIC MULTI - RESP LTDA",
+      "PositionDate": "2025-01-02 00:00:00",
+      "PeriodoSelecionado": 2,
+      "DescricaoPeriodo": "AnoAtual",
+      "DataInicioPeriodo": "2025-01-01",
+      "DataFimPeriodo": "2025-12-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2123413,
+      "FinancialInstrumentId": 315,
+      "QuotaValue": "57994.89778640",
+      "Name": "PORTO SEGURO MACRO FIF CIC MULTI - RESP LTDA",
+      "PositionDate": "2025-01-03 00:00:00",
+      "PeriodoSelecionado": 2,
+      "DescricaoPeriodo": "AnoAtual",
+      "DataInicioPeriodo": "2025-01-01",
+      "DataFimPeriodo": "2025-12-31"
+    }
+  ]
+}

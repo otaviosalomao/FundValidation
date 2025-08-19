@@ -1,0 +1,139 @@
+{
+  "created_at": "2025-08-19T14:46:31.868037",
+  "ttl_hours": 12,
+  "cache_key": "db_with_anchor_c7902395aac6d4c81540e412c4045dc1",
+  "data": [
+    {
+      "FinancialInstrumentFundValueHistoryId": 2275494,
+      "FinancialInstrumentId": 1142,
+      "QuotaValue": "1.09964049",
+      "Name": "PORTO NAVEGANTES FIF FIC FIA - RESP LTDA",
+      "PositionDate": "2025-07-31 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2280097,
+      "FinancialInstrumentId": 1142,
+      "QuotaValue": "1.09982054",
+      "Name": "PORTO NAVEGANTES FIF FIC FIA - RESP LTDA",
+      "PositionDate": "2025-08-01 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2280807,
+      "FinancialInstrumentId": 1142,
+      "QuotaValue": "1.10095653",
+      "Name": "PORTO NAVEGANTES FIF FIC FIA - RESP LTDA",
+      "PositionDate": "2025-08-04 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2281485,
+      "FinancialInstrumentId": 1142,
+      "QuotaValue": "1.10168380",
+      "Name": "PORTO NAVEGANTES FIF FIC FIA - RESP LTDA",
+      "PositionDate": "2025-08-05 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2282853,
+      "FinancialInstrumentId": 1142,
+      "QuotaValue": "1.11357301",
+      "Name": "PORTO NAVEGANTES FIF FIC FIA - RESP LTDA",
+      "PositionDate": "2025-08-06 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2283623,
+      "FinancialInstrumentId": 1142,
+      "QuotaValue": "1.12346411",
+      "Name": "PORTO NAVEGANTES FIF FIC FIA - RESP LTDA",
+      "PositionDate": "2025-08-07 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2284143,
+      "FinancialInstrumentId": 1142,
+      "QuotaValue": "1.11611047",
+      "Name": "PORTO NAVEGANTES FIF FIC FIA - RESP LTDA",
+      "PositionDate": "2025-08-08 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2284830,
+      "FinancialInstrumentId": 1142,
+      "QuotaValue": "1.11236548",
+      "Name": "PORTO NAVEGANTES FIF FIC FIA - RESP LTDA",
+      "PositionDate": "2025-08-11 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2285515,
+      "FinancialInstrumentId": 1142,
+      "QuotaValue": "1.13082984",
+      "Name": "PORTO NAVEGANTES FIF FIC FIA - RESP LTDA",
+      "PositionDate": "2025-08-12 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2286136,
+      "FinancialInstrumentId": 1142,
+      "QuotaValue": "1.12144601",
+      "Name": "PORTO NAVEGANTES FIF FIC FIA - RESP LTDA",
+      "PositionDate": "2025-08-13 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2286866,
+      "FinancialInstrumentId": 1142,
+      "QuotaValue": "1.12407738",
+      "Name": "PORTO NAVEGANTES FIF FIC FIA - RESP LTDA",
+      "PositionDate": "2025-08-14 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2287422,
+      "FinancialInstrumentId": 1142,
+      "QuotaValue": "1.12698611",
+      "Name": "PORTO NAVEGANTES FIF FIC FIA - RESP LTDA",
+      "PositionDate": "2025-08-15 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    }
+  ]
+}

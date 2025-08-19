@@ -1,0 +1,139 @@
+{
+  "created_at": "2025-08-19T14:46:17.129598",
+  "ttl_hours": 12,
+  "cache_key": "db_with_anchor_dbf4330ebe2f7f4387c38b1031ce90d3",
+  "data": [
+    {
+      "FinancialInstrumentFundValueHistoryId": 2274975,
+      "FinancialInstrumentId": 1103,
+      "QuotaValue": "2.42492600",
+      "Name": "PORTO SEGURO IMA B5 FIF RF LP - RESP LTDA",
+      "PositionDate": "2025-07-31 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2279608,
+      "FinancialInstrumentId": 1103,
+      "QuotaValue": "2.43030210",
+      "Name": "PORTO SEGURO IMA B5 FIF RF LP - RESP LTDA",
+      "PositionDate": "2025-08-01 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2280232,
+      "FinancialInstrumentId": 1103,
+      "QuotaValue": "2.43235850",
+      "Name": "PORTO SEGURO IMA B5 FIF RF LP - RESP LTDA",
+      "PositionDate": "2025-08-04 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2280998,
+      "FinancialInstrumentId": 1103,
+      "QuotaValue": "2.43319660",
+      "Name": "PORTO SEGURO IMA B5 FIF RF LP - RESP LTDA",
+      "PositionDate": "2025-08-05 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2282349,
+      "FinancialInstrumentId": 1103,
+      "QuotaValue": "2.43335870",
+      "Name": "PORTO SEGURO IMA B5 FIF RF LP - RESP LTDA",
+      "PositionDate": "2025-08-06 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2282948,
+      "FinancialInstrumentId": 1103,
+      "QuotaValue": "2.43819360",
+      "Name": "PORTO SEGURO IMA B5 FIF RF LP - RESP LTDA",
+      "PositionDate": "2025-08-07 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2283591,
+      "FinancialInstrumentId": 1103,
+      "QuotaValue": "2.44079140",
+      "Name": "PORTO SEGURO IMA B5 FIF RF LP - RESP LTDA",
+      "PositionDate": "2025-08-08 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2284218,
+      "FinancialInstrumentId": 1103,
+      "QuotaValue": "2.44469410",
+      "Name": "PORTO SEGURO IMA B5 FIF RF LP - RESP LTDA",
+      "PositionDate": "2025-08-11 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2284945,
+      "FinancialInstrumentId": 1103,
+      "QuotaValue": "2.44582540",
+      "Name": "PORTO SEGURO IMA B5 FIF RF LP - RESP LTDA",
+      "PositionDate": "2025-08-12 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2285575,
+      "FinancialInstrumentId": 1103,
+      "QuotaValue": "2.44892910",
+      "Name": "PORTO SEGURO IMA B5 FIF RF LP - RESP LTDA",
+      "PositionDate": "2025-08-13 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2286445,
+      "FinancialInstrumentId": 1103,
+      "QuotaValue": "2.45028040",
+      "Name": "PORTO SEGURO IMA B5 FIF RF LP - RESP LTDA",
+      "PositionDate": "2025-08-14 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2286855,
+      "FinancialInstrumentId": 1103,
+      "QuotaValue": "2.44952010",
+      "Name": "PORTO SEGURO IMA B5 FIF RF LP - RESP LTDA",
+      "PositionDate": "2025-08-15 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    }
+  ]
+}

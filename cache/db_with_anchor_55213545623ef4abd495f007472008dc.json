@@ -1,0 +1,238 @@
+{
+  "created_at": "2025-08-19T14:46:26.583143",
+  "ttl_hours": 12,
+  "cache_key": "db_with_anchor_55213545623ef4abd495f007472008dc",
+  "data": [
+    {
+      "FinancialInstrumentFundValueHistoryId": 2261224,
+      "FinancialInstrumentId": 1136,
+      "QuotaValue": "189.93184060",
+      "Name": "PORTO ALISIOS FIF CIC FIA - RESP LTDA",
+      "PositionDate": "2025-07-18 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2265664,
+      "FinancialInstrumentId": 1136,
+      "QuotaValue": "191.22228840",
+      "Name": "PORTO ALISIOS FIF CIC FIA - RESP LTDA",
+      "PositionDate": "2025-07-21 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2267289,
+      "FinancialInstrumentId": 1136,
+      "QuotaValue": "191.13017720",
+      "Name": "PORTO ALISIOS FIF CIC FIA - RESP LTDA",
+      "PositionDate": "2025-07-22 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2269740,
+      "FinancialInstrumentId": 1136,
+      "QuotaValue": "192.91536780",
+      "Name": "PORTO ALISIOS FIF CIC FIA - RESP LTDA",
+      "PositionDate": "2025-07-23 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2271666,
+      "FinancialInstrumentId": 1136,
+      "QuotaValue": "190.55295260",
+      "Name": "PORTO ALISIOS FIF CIC FIA - RESP LTDA",
+      "PositionDate": "2025-07-24 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2272288,
+      "FinancialInstrumentId": 1136,
+      "QuotaValue": "190.05347390",
+      "Name": "PORTO ALISIOS FIF CIC FIA - RESP LTDA",
+      "PositionDate": "2025-07-25 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2273004,
+      "FinancialInstrumentId": 1136,
+      "QuotaValue": "188.28751910",
+      "Name": "PORTO ALISIOS FIF CIC FIA - RESP LTDA",
+      "PositionDate": "2025-07-28 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2273676,
+      "FinancialInstrumentId": 1136,
+      "QuotaValue": "188.63230020",
+      "Name": "PORTO ALISIOS FIF CIC FIA - RESP LTDA",
+      "PositionDate": "2025-07-29 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2274368,
+      "FinancialInstrumentId": 1136,
+      "QuotaValue": "190.69463950",
+      "Name": "PORTO ALISIOS FIF CIC FIA - RESP LTDA",
+      "PositionDate": "2025-07-30 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2274982,
+      "FinancialInstrumentId": 1136,
+      "QuotaValue": "189.14674210",
+      "Name": "PORTO ALISIOS FIF CIC FIA - RESP LTDA",
+      "PositionDate": "2025-07-31 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2279616,
+      "FinancialInstrumentId": 1136,
+      "QuotaValue": "188.67624470",
+      "Name": "PORTO ALISIOS FIF CIC FIA - RESP LTDA",
+      "PositionDate": "2025-08-01 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2280253,
+      "FinancialInstrumentId": 1136,
+      "QuotaValue": "189.28224940",
+      "Name": "PORTO ALISIOS FIF CIC FIA - RESP LTDA",
+      "PositionDate": "2025-08-04 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2281000,
+      "FinancialInstrumentId": 1136,
+      "QuotaValue": "189.49509320",
+      "Name": "PORTO ALISIOS FIF CIC FIA - RESP LTDA",
+      "PositionDate": "2025-08-05 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2282357,
+      "FinancialInstrumentId": 1136,
+      "QuotaValue": "191.40380210",
+      "Name": "PORTO ALISIOS FIF CIC FIA - RESP LTDA",
+      "PositionDate": "2025-08-06 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2282949,
+      "FinancialInstrumentId": 1136,
+      "QuotaValue": "194.32784250",
+      "Name": "PORTO ALISIOS FIF CIC FIA - RESP LTDA",
+      "PositionDate": "2025-08-07 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2283592,
+      "FinancialInstrumentId": 1136,
+      "QuotaValue": "193.42347790",
+      "Name": "PORTO ALISIOS FIF CIC FIA - RESP LTDA",
+      "PositionDate": "2025-08-08 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2284221,
+      "FinancialInstrumentId": 1136,
+      "QuotaValue": "192.80886830",
+      "Name": "PORTO ALISIOS FIF CIC FIA - RESP LTDA",
+      "PositionDate": "2025-08-11 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2284952,
+      "FinancialInstrumentId": 1136,
+      "QuotaValue": "196.55968320",
+      "Name": "PORTO ALISIOS FIF CIC FIA - RESP LTDA",
+      "PositionDate": "2025-08-12 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2285577,
+      "FinancialInstrumentId": 1136,
+      "QuotaValue": "194.45009460",
+      "Name": "PORTO ALISIOS FIF CIC FIA - RESP LTDA",
+      "PositionDate": "2025-08-13 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2286451,
+      "FinancialInstrumentId": 1136,
+      "QuotaValue": "193.99516930",
+      "Name": "PORTO ALISIOS FIF CIC FIA - RESP LTDA",
+      "PositionDate": "2025-08-14 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2286864,
+      "FinancialInstrumentId": 1136,
+      "QuotaValue": "194.26656750",
+      "Name": "PORTO ALISIOS FIF CIC FIA - RESP LTDA",
+      "PositionDate": "2025-08-15 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "created_at": "2025-08-19T14:46:53.656129",
+  "ttl_hours": 12,
+  "cache_key": "db_with_anchor_8acd23c2de05762db24bda7faade2a29",
+  "data": [
+    {
+      "FinancialInstrumentFundValueHistoryId": 2274213,
+      "FinancialInstrumentId": 316,
+      "QuotaValue": "2.99384020",
+      "Name": "PORTO SEGURO FIF RF REF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-07-31 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2274908,
+      "FinancialInstrumentId": 316,
+      "QuotaValue": "2.99547210",
+      "Name": "PORTO SEGURO FIF RF REF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-08-01 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2279886,
+      "FinancialInstrumentId": 316,
+      "QuotaValue": "2.99718920",
+      "Name": "PORTO SEGURO FIF RF REF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-08-04 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2280317,
+      "FinancialInstrumentId": 316,
+      "QuotaValue": "2.99882310",
+      "Name": "PORTO SEGURO FIF RF REF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-08-05 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2280894,
+      "FinancialInstrumentId": 316,
+      "QuotaValue": "3.00047120",
+      "Name": "PORTO SEGURO FIF RF REF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-08-06 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2282587,
+      "FinancialInstrumentId": 316,
+      "QuotaValue": "3.00209340",
+      "Name": "PORTO SEGURO FIF RF REF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-08-07 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2283220,
+      "FinancialInstrumentId": 316,
+      "QuotaValue": "3.00378390",
+      "Name": "PORTO SEGURO FIF RF REF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-08-08 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2283669,
+      "FinancialInstrumentId": 316,
+      "QuotaValue": "3.00541500",
+      "Name": "PORTO SEGURO FIF RF REF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-08-11 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2284251,
+      "FinancialInstrumentId": 316,
+      "QuotaValue": "3.00711880",
+      "Name": "PORTO SEGURO FIF RF REF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-08-12 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2285063,
+      "FinancialInstrumentId": 316,
+      "QuotaValue": "3.00876330",
+      "Name": "PORTO SEGURO FIF RF REF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-08-13 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2285683,
+      "FinancialInstrumentId": 316,
+      "QuotaValue": "3.01042930",
+      "Name": "PORTO SEGURO FIF RF REF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-08-14 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2286582,
+      "FinancialInstrumentId": 316,
+      "QuotaValue": "3.01208620",
+      "Name": "PORTO SEGURO FIF RF REF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-08-15 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2286960,
+      "FinancialInstrumentId": 316,
+      "QuotaValue": "3.01371570",
+      "Name": "PORTO SEGURO FIF RF REF CRED PRIV - RESP LTDA",
+      "PositionDate": "2025-08-18 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    }
+  ]
+}

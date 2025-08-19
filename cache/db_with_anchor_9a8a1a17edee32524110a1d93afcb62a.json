@@ -1,0 +1,238 @@
+{
+  "created_at": "2025-08-19T14:46:38.705426",
+  "ttl_hours": 12,
+  "cache_key": "db_with_anchor_9a8a1a17edee32524110a1d93afcb62a",
+  "data": [
+    {
+      "FinancialInstrumentFundValueHistoryId": 2257054,
+      "FinancialInstrumentId": 1144,
+      "QuotaValue": "412.23949530",
+      "Name": "PORTO SEGURO SOBERANO REFERENCIADO DI FIF RF - RESP LTDA",
+      "PositionDate": "2025-07-18 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2261244,
+      "FinancialInstrumentId": 1144,
+      "QuotaValue": "412.47659050",
+      "Name": "PORTO SEGURO SOBERANO REFERENCIADO DI FIF RF - RESP LTDA",
+      "PositionDate": "2025-07-21 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2265632,
+      "FinancialInstrumentId": 1144,
+      "QuotaValue": "412.70699930",
+      "Name": "PORTO SEGURO SOBERANO REFERENCIADO DI FIF RF - RESP LTDA",
+      "PositionDate": "2025-07-22 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2267250,
+      "FinancialInstrumentId": 1144,
+      "QuotaValue": "412.93102930",
+      "Name": "PORTO SEGURO SOBERANO REFERENCIADO DI FIF RF - RESP LTDA",
+      "PositionDate": "2025-07-23 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2271107,
+      "FinancialInstrumentId": 1144,
+      "QuotaValue": "413.15966040",
+      "Name": "PORTO SEGURO SOBERANO REFERENCIADO DI FIF RF - RESP LTDA",
+      "PositionDate": "2025-07-24 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2271669,
+      "FinancialInstrumentId": 1144,
+      "QuotaValue": "413.38821390",
+      "Name": "PORTO SEGURO SOBERANO REFERENCIADO DI FIF RF - RESP LTDA",
+      "PositionDate": "2025-07-25 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2272326,
+      "FinancialInstrumentId": 1144,
+      "QuotaValue": "413.61463630",
+      "Name": "PORTO SEGURO SOBERANO REFERENCIADO DI FIF RF - RESP LTDA",
+      "PositionDate": "2025-07-28 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2272998,
+      "FinancialInstrumentId": 1144,
+      "QuotaValue": "413.83570510",
+      "Name": "PORTO SEGURO SOBERANO REFERENCIADO DI FIF RF - RESP LTDA",
+      "PositionDate": "2025-07-29 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2273693,
+      "FinancialInstrumentId": 1144,
+      "QuotaValue": "414.05251020",
+      "Name": "PORTO SEGURO SOBERANO REFERENCIADO DI FIF RF - RESP LTDA",
+      "PositionDate": "2025-07-30 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2274372,
+      "FinancialInstrumentId": 1144,
+      "QuotaValue": "414.27203580",
+      "Name": "PORTO SEGURO SOBERANO REFERENCIADO DI FIF RF - RESP LTDA",
+      "PositionDate": "2025-07-31 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2275009,
+      "FinancialInstrumentId": 1144,
+      "QuotaValue": "414.47697380",
+      "Name": "PORTO SEGURO SOBERANO REFERENCIADO DI FIF RF - RESP LTDA",
+      "PositionDate": "2025-08-01 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2279576,
+      "FinancialInstrumentId": 1144,
+      "QuotaValue": "414.70815200",
+      "Name": "PORTO SEGURO SOBERANO REFERENCIADO DI FIF RF - RESP LTDA",
+      "PositionDate": "2025-08-04 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2280348,
+      "FinancialInstrumentId": 1144,
+      "QuotaValue": "414.93353240",
+      "Name": "PORTO SEGURO SOBERANO REFERENCIADO DI FIF RF - RESP LTDA",
+      "PositionDate": "2025-08-05 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2280861,
+      "FinancialInstrumentId": 1144,
+      "QuotaValue": "415.16032320",
+      "Name": "PORTO SEGURO SOBERANO REFERENCIADO DI FIF RF - RESP LTDA",
+      "PositionDate": "2025-08-06 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2282292,
+      "FinancialInstrumentId": 1144,
+      "QuotaValue": "415.38041830",
+      "Name": "PORTO SEGURO SOBERANO REFERENCIADO DI FIF RF - RESP LTDA",
+      "PositionDate": "2025-08-07 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2282996,
+      "FinancialInstrumentId": 1144,
+      "QuotaValue": "415.60673250",
+      "Name": "PORTO SEGURO SOBERANO REFERENCIADO DI FIF RF - RESP LTDA",
+      "PositionDate": "2025-08-08 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2283655,
+      "FinancialInstrumentId": 1144,
+      "QuotaValue": "415.83549090",
+      "Name": "PORTO SEGURO SOBERANO REFERENCIADO DI FIF RF - RESP LTDA",
+      "PositionDate": "2025-08-11 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2284222,
+      "FinancialInstrumentId": 1144,
+      "QuotaValue": "416.06241000",
+      "Name": "PORTO SEGURO SOBERANO REFERENCIADO DI FIF RF - RESP LTDA",
+      "PositionDate": "2025-08-12 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2284946,
+      "FinancialInstrumentId": 1144,
+      "QuotaValue": "416.26799580",
+      "Name": "PORTO SEGURO SOBERANO REFERENCIADO DI FIF RF - RESP LTDA",
+      "PositionDate": "2025-08-13 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2285617,
+      "FinancialInstrumentId": 1144,
+      "QuotaValue": "416.46221580",
+      "Name": "PORTO SEGURO SOBERANO REFERENCIADO DI FIF RF - RESP LTDA",
+      "PositionDate": "2025-08-14 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2286382,
+      "FinancialInstrumentId": 1144,
+      "QuotaValue": "416.68977300",
+      "Name": "PORTO SEGURO SOBERANO REFERENCIADO DI FIF RF - RESP LTDA",
+      "PositionDate": "2025-08-15 00:00:00",
+      "PeriodoSelecionado": 7,
+      "DescricaoPeriodo": "TrintaDias",
+      "DataInicioPeriodo": "2025-07-20",
+      "DataFimPeriodo": "2025-08-19"
+    }
+  ]
+}

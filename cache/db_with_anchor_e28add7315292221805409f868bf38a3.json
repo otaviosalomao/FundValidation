@@ -1,0 +1,139 @@
+{
+  "created_at": "2025-08-19T14:46:39.279324",
+  "ttl_hours": 12,
+  "cache_key": "db_with_anchor_e28add7315292221805409f868bf38a3",
+  "data": [
+    {
+      "FinancialInstrumentFundValueHistoryId": 2274895,
+      "FinancialInstrumentId": 314,
+      "QuotaValue": "250.25489290",
+      "Name": "PORTO SEGURO CLASSICO FIF CIC RF LP - RESP LTDA",
+      "PositionDate": "2025-07-31 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2279507,
+      "FinancialInstrumentId": 314,
+      "QuotaValue": "250.67881030",
+      "Name": "PORTO SEGURO CLASSICO FIF CIC RF LP - RESP LTDA",
+      "PositionDate": "2025-08-01 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2280156,
+      "FinancialInstrumentId": 314,
+      "QuotaValue": "250.87200580",
+      "Name": "PORTO SEGURO CLASSICO FIF CIC RF LP - RESP LTDA",
+      "PositionDate": "2025-08-04 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2280977,
+      "FinancialInstrumentId": 314,
+      "QuotaValue": "251.00643710",
+      "Name": "PORTO SEGURO CLASSICO FIF CIC RF LP - RESP LTDA",
+      "PositionDate": "2025-08-05 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2282322,
+      "FinancialInstrumentId": 314,
+      "QuotaValue": "251.19619590",
+      "Name": "PORTO SEGURO CLASSICO FIF CIC RF LP - RESP LTDA",
+      "PositionDate": "2025-08-06 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2282890,
+      "FinancialInstrumentId": 314,
+      "QuotaValue": "251.46506570",
+      "Name": "PORTO SEGURO CLASSICO FIF CIC RF LP - RESP LTDA",
+      "PositionDate": "2025-08-07 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2283490,
+      "FinancialInstrumentId": 314,
+      "QuotaValue": "251.51410460",
+      "Name": "PORTO SEGURO CLASSICO FIF CIC RF LP - RESP LTDA",
+      "PositionDate": "2025-08-08 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2284182,
+      "FinancialInstrumentId": 314,
+      "QuotaValue": "251.77489210",
+      "Name": "PORTO SEGURO CLASSICO FIF CIC RF LP - RESP LTDA",
+      "PositionDate": "2025-08-11 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2284846,
+      "FinancialInstrumentId": 314,
+      "QuotaValue": "252.28208320",
+      "Name": "PORTO SEGURO CLASSICO FIF CIC RF LP - RESP LTDA",
+      "PositionDate": "2025-08-12 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2285552,
+      "FinancialInstrumentId": 314,
+      "QuotaValue": "252.45939760",
+      "Name": "PORTO SEGURO CLASSICO FIF CIC RF LP - RESP LTDA",
+      "PositionDate": "2025-08-13 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2286202,
+      "FinancialInstrumentId": 314,
+      "QuotaValue": "252.55684570",
+      "Name": "PORTO SEGURO CLASSICO FIF CIC RF LP - RESP LTDA",
+      "PositionDate": "2025-08-14 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    },
+    {
+      "FinancialInstrumentFundValueHistoryId": 2286797,
+      "FinancialInstrumentId": 314,
+      "QuotaValue": "252.78652250",
+      "Name": "PORTO SEGURO CLASSICO FIF CIC RF LP - RESP LTDA",
+      "PositionDate": "2025-08-15 00:00:00",
+      "PeriodoSelecionado": 1,
+      "DescricaoPeriodo": "MesAtual",
+      "DataInicioPeriodo": "2025-08-01",
+      "DataFimPeriodo": "2025-08-31"
+    }
+  ]
+}

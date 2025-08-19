@@ -1,0 +1,4778 @@
+{
+  "created_at": "2025-08-19T14:45:32.122959",
+  "ttl_hours": 24,
+  "cache_key": "api_267b0f52a049e9786ae6245fb9fa8f56",
+  "data": {
+    "id": 1143,
+    "periodo": 5,
+    "data": {
+      "DataUltimaAtualizacao": "2025-08-19T14:10:59.21Z",
+      "IsCache": true,
+      "DataInicial": "2019-01-01T00:00:00",
+      "DataFinal": "2025-08-19T00:00:00-03:00",
+      "Rentabilidades": [
+        {
+          "DataInicial": "2023-04-03T00:00:00Z",
+          "DataFinal": "2023-04-03T00:00:00",
+          "PercentualSobreBenchmark": 0.0,
+          "PercentualAcumuladoBenchmark": 0.0,
+          "PercentualAcumulado": 0.08301,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-04-04T00:00:00Z",
+          "DataFinal": "2023-04-04T00:00:00",
+          "PercentualSobreBenchmark": 2.736864965016506,
+          "PercentualAcumuladoBenchmark": 0.05078803732619,
+          "PercentualAcumulado": 0.139,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-04-05T00:00:00Z",
+          "DataFinal": "2023-04-05T00:00:00",
+          "PercentualSobreBenchmark": 2.329976825855599,
+          "PercentualAcumuladoBenchmark": 0.10160186889973447,
+          "PercentualAcumulado": 0.23673,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-04-06T00:00:00Z",
+          "DataFinal": "2023-04-06T00:00:00",
+          "PercentualSobreBenchmark": 1.2429029514877805,
+          "PercentualAcumuladoBenchmark": 0.15244150782102536,
+          "PercentualAcumulado": 0.18947,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-04-10T00:00:00Z",
+          "DataFinal": "2023-04-10T00:00:00",
+          "PercentualSobreBenchmark": 0.9915548039460768,
+          "PercentualAcumuladoBenchmark": 0.2033069671971081,
+          "PercentualAcumulado": 0.20159,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-04-11T00:00:00Z",
+          "DataFinal": "2023-04-11T00:00:00",
+          "PercentualSobreBenchmark": 1.8038675785759475,
+          "PercentualAcumuladoBenchmark": 0.25419826014168495,
+          "PercentualAcumulado": 0.45854,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-04-12T00:00:00Z",
+          "DataFinal": "2023-04-12T00:00:00",
+          "PercentualSobreBenchmark": 1.3971762825285106,
+          "PercentualAcumuladoBenchmark": 0.3051153997751182,
+          "PercentualAcumulado": 0.4263,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-04-13T00:00:00Z",
+          "DataFinal": "2023-04-13T00:00:00",
+          "PercentualSobreBenchmark": 1.4004725098078263,
+          "PercentualAcumuladoBenchmark": 0.35605839922443394,
+          "PercentualAcumulado": 0.49865,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-04-14T00:00:00Z",
+          "DataFinal": "2023-04-14T00:00:00",
+          "PercentualSobreBenchmark": 1.0695597822321752,
+          "PercentualAcumuladoBenchmark": 0.4070272716233251,
+          "PercentualAcumulado": 0.43534,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-04-17T00:00:00Z",
+          "DataFinal": "2023-04-17T00:00:00",
+          "PercentualSobreBenchmark": 1.0392949873687036,
+          "PercentualAcumuladoBenchmark": 0.4580220301121549,
+          "PercentualAcumulado": 0.47602,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-04-18T00:00:00Z",
+          "DataFinal": "2023-04-18T00:00:00",
+          "PercentualSobreBenchmark": 0.9679738296463852,
+          "PercentualAcumuladoBenchmark": 0.5090426878379605,
+          "PercentualAcumulado": 0.49274,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-04-19T00:00:00Z",
+          "DataFinal": "2023-04-19T00:00:00",
+          "PercentualSobreBenchmark": 0.6638406195432408,
+          "PercentualAcumuladoBenchmark": 0.5600892579544559,
+          "PercentualAcumulado": 0.37181,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-04-20T00:00:00Z",
+          "DataFinal": "2023-04-20T00:00:00",
+          "PercentualSobreBenchmark": 0.8339690711654226,
+          "PercentualAcumuladoBenchmark": 0.6111617536220357,
+          "PercentualAcumulado": 0.50969,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-04-24T00:00:00Z",
+          "DataFinal": "2023-04-24T00:00:00",
+          "PercentualSobreBenchmark": 0.8529276109729932,
+          "PercentualAcumuladoBenchmark": 0.6622601880077786,
+          "PercentualAcumulado": 0.56486,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-04-25T00:00:00Z",
+          "DataFinal": "2023-04-25T00:00:00",
+          "PercentualSobreBenchmark": 0.9040145010788369,
+          "PercentualAcumuladoBenchmark": 0.7133845742854505,
+          "PercentualAcumulado": 0.64491,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-04-26T00:00:00Z",
+          "DataFinal": "2023-04-26T00:00:00",
+          "PercentualSobreBenchmark": 0.8073404880580553,
+          "PercentualAcumuladoBenchmark": 0.764534925635508,
+          "PercentualAcumulado": 0.61724,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-04-27T00:00:00Z",
+          "DataFinal": "2023-04-27T00:00:00",
+          "PercentualSobreBenchmark": 0.7918610854596013,
+          "PercentualAcumuladoBenchmark": 0.8157112552451015,
+          "PercentualAcumulado": 0.64593,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-04-28T00:00:00Z",
+          "DataFinal": "2023-04-28T00:00:00",
+          "PercentualSobreBenchmark": 0.5624782138914296,
+          "PercentualAcumuladoBenchmark": 0.8669135763080793,
+          "PercentualAcumulado": 0.48762,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-05-02T00:00:00Z",
+          "DataFinal": "2023-05-02T00:00:00",
+          "PercentualSobreBenchmark": 0.5375421804750249,
+          "PercentualAcumuladoBenchmark": 0.9181419020249905,
+          "PercentualAcumulado": 0.49354,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-05-03T00:00:00Z",
+          "DataFinal": "2023-05-03T00:00:00",
+          "PercentualSobreBenchmark": 0.5598020442738458,
+          "PercentualAcumuladoBenchmark": 0.9693962456030882,
+          "PercentualAcumulado": 0.54267,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-05-04T00:00:00Z",
+          "DataFinal": "2023-05-04T00:00:00",
+          "PercentualSobreBenchmark": 0.7796690785374749,
+          "PercentualAcumuladoBenchmark": 1.0206766202563338,
+          "PercentualAcumulado": 0.79579,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-05-05T00:00:00Z",
+          "DataFinal": "2023-05-05T00:00:00",
+          "PercentualSobreBenchmark": 0.8220465882120661,
+          "PercentualAcumuladoBenchmark": 1.0719830392053993,
+          "PercentualAcumulado": 0.88122,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-05-08T00:00:00Z",
+          "DataFinal": "2023-05-08T00:00:00",
+          "PercentualSobreBenchmark": 0.9140886827157801,
+          "PercentualAcumuladoBenchmark": 1.1233155156776715,
+          "PercentualAcumulado": 1.02681,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-05-09T00:00:00Z",
+          "DataFinal": "2023-05-09T00:00:00",
+          "PercentualSobreBenchmark": 0.8539134655935589,
+          "PercentualAcumuladoBenchmark": 1.1746740629072547,
+          "PercentualAcumulado": 1.00307,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-05-10T00:00:00Z",
+          "DataFinal": "2023-05-10T00:00:00",
+          "PercentualSobreBenchmark": 0.860529765048793,
+          "PercentualAcumuladoBenchmark": 1.2260586941349751,
+          "PercentualAcumulado": 1.05506,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-05-11T00:00:00Z",
+          "DataFinal": "2023-05-11T00:00:00",
+          "PercentualSobreBenchmark": 0.8772969279465597,
+          "PercentualAcumuladoBenchmark": 1.2774694226083834,
+          "PercentualAcumulado": 1.12072,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-05-12T00:00:00Z",
+          "DataFinal": "2023-05-12T00:00:00",
+          "PercentualSobreBenchmark": 0.8482991107726408,
+          "PercentualAcumuladoBenchmark": 1.3289062615817584,
+          "PercentualAcumulado": 1.12731,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-05-15T00:00:00Z",
+          "DataFinal": "2023-05-15T00:00:00",
+          "PercentualSobreBenchmark": 0.9364668359948692,
+          "PercentualAcumuladoBenchmark": 1.3803692243161105,
+          "PercentualAcumulado": 1.29267,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-05-16T00:00:00Z",
+          "DataFinal": "2023-05-16T00:00:00",
+          "PercentualSobreBenchmark": 0.8326591953618908,
+          "PercentualAcumuladoBenchmark": 1.4318583240791856,
+          "PercentualAcumulado": 1.19225,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-05-17T00:00:00Z",
+          "DataFinal": "2023-05-17T00:00:00",
+          "PercentualSobreBenchmark": 0.6533553090685964,
+          "PercentualAcumuladoBenchmark": 1.483373574145467,
+          "PercentualAcumulado": 0.96917,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-05-18T00:00:00Z",
+          "DataFinal": "2023-05-18T00:00:00",
+          "PercentualSobreBenchmark": 0.609681974207333,
+          "PercentualAcumuladoBenchmark": 1.5349149877961807,
+          "PercentualAcumulado": 0.93581,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-05-19T00:00:00Z",
+          "DataFinal": "2023-05-19T00:00:00",
+          "PercentualSobreBenchmark": 0.6096064420855896,
+          "PercentualAcumuladoBenchmark": 1.586482578319298,
+          "PercentualAcumulado": 0.96713,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-05-22T00:00:00Z",
+          "DataFinal": "2023-05-22T00:00:00",
+          "PercentualSobreBenchmark": 0.575058662448174,
+          "PercentualAcumuladoBenchmark": 1.6380763590095384,
+          "PercentualAcumulado": 0.94199,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-05-23T00:00:00Z",
+          "DataFinal": "2023-05-23T00:00:00",
+          "PercentualSobreBenchmark": 0.6952255088611163,
+          "PercentualAcumuladoBenchmark": 1.6896963431683736,
+          "PercentualAcumulado": 1.17472,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-05-24T00:00:00Z",
+          "DataFinal": "2023-05-24T00:00:00",
+          "PercentualSobreBenchmark": 0.7646628772198948,
+          "PercentualAcumuladoBenchmark": 1.741342544104031,
+          "PercentualAcumulado": 1.33154,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-05-25T00:00:00Z",
+          "DataFinal": "2023-05-25T00:00:00",
+          "PercentualSobreBenchmark": 0.8261448011003723,
+          "PercentualAcumuladoBenchmark": 1.7930149751314977,
+          "PercentualAcumulado": 1.48129,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-05-26T00:00:00Z",
+          "DataFinal": "2023-05-26T00:00:00",
+          "PercentualSobreBenchmark": 0.7967523850330888,
+          "PercentualAcumuladoBenchmark": 1.8447136495725216,
+          "PercentualAcumulado": 1.46978,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-05-29T00:00:00Z",
+          "DataFinal": "2023-05-29T00:00:00",
+          "PercentualSobreBenchmark": 0.8172371178941535,
+          "PercentualAcumuladoBenchmark": 1.8964385807556177,
+          "PercentualAcumulado": 1.54984,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-05-30T00:00:00Z",
+          "DataFinal": "2023-05-30T00:00:00",
+          "PercentualSobreBenchmark": 0.829108136645938,
+          "PercentualAcumuladoBenchmark": 1.9481897820160703,
+          "PercentualAcumulado": 1.61526,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-05-31T00:00:00Z",
+          "DataFinal": "2023-05-31T00:00:00",
+          "PercentualSobreBenchmark": 0.8154633464048356,
+          "PercentualAcumuladoBenchmark": 1.9999672666959356,
+          "PercentualAcumulado": 1.6309,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-06-01T00:00:00Z",
+          "DataFinal": "2023-06-01T00:00:00",
+          "PercentualSobreBenchmark": 0.8586922998029887,
+          "PercentualAcumuladoBenchmark": 2.0517710481440465,
+          "PercentualAcumulado": 1.76184,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-06-02T00:00:00Z",
+          "DataFinal": "2023-06-02T00:00:00",
+          "PercentualSobreBenchmark": 0.8559892681190918,
+          "PercentualAcumuladoBenchmark": 2.103601139716016,
+          "PercentualAcumulado": 1.80066,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-06-05T00:00:00Z",
+          "DataFinal": "2023-06-05T00:00:00",
+          "PercentualSobreBenchmark": 0.9532639580161947,
+          "PercentualAcumuladoBenchmark": 2.155457554774239,
+          "PercentualAcumulado": 2.05472,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-06-06T00:00:00Z",
+          "DataFinal": "2023-06-06T00:00:00",
+          "PercentualSobreBenchmark": 0.9253172217313175,
+          "PercentualAcumuladoBenchmark": 2.207340306687898,
+          "PercentualAcumulado": 2.04249,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-06-07T00:00:00Z",
+          "DataFinal": "2023-06-07T00:00:00",
+          "PercentualSobreBenchmark": 0.8028639923101587,
+          "PercentualAcumuladoBenchmark": 2.259249408832965,
+          "PercentualAcumulado": 1.81387,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-06-09T00:00:00Z",
+          "DataFinal": "2023-06-09T00:00:00",
+          "PercentualSobreBenchmark": 0.8842044712500875,
+          "PercentualAcumuladoBenchmark": 2.311184874592205,
+          "PercentualAcumulado": 2.04356,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-06-12T00:00:00Z",
+          "DataFinal": "2023-06-12T00:00:00",
+          "PercentualSobreBenchmark": 0.8571240986115916,
+          "PercentualAcumuladoBenchmark": 2.3631467173551797,
+          "PercentualAcumulado": 2.02551,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-06-13T00:00:00Z",
+          "DataFinal": "2023-06-13T00:00:00",
+          "PercentualSobreBenchmark": 0.8024768966157002,
+          "PercentualAcumuladoBenchmark": 2.4151349505182527,
+          "PercentualAcumulado": 1.93809,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-06-14T00:00:00Z",
+          "DataFinal": "2023-06-14T00:00:00",
+          "PercentualSobreBenchmark": 0.8520642650384613,
+          "PercentualAcumuladoBenchmark": 2.46714958748459,
+          "PercentualAcumulado": 2.10217,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-06-15T00:00:00Z",
+          "DataFinal": "2023-06-15T00:00:00",
+          "PercentualSobreBenchmark": 0.8874119977371783,
+          "PercentualAcumuladoBenchmark": 2.5191906416641645,
+          "PercentualAcumulado": 2.23556,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-06-16T00:00:00Z",
+          "DataFinal": "2023-06-16T00:00:00",
+          "PercentualSobreBenchmark": 0.8878260710178822,
+          "PercentualAcumuladoBenchmark": 2.5712581264737606,
+          "PercentualAcumulado": 2.28283,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-06-19T00:00:00Z",
+          "DataFinal": "2023-06-19T00:00:00",
+          "PercentualSobreBenchmark": 0.8855845311625848,
+          "PercentualAcumuladoBenchmark": 2.623352055336977,
+          "PercentualAcumulado": 2.3232,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-06-20T00:00:00Z",
+          "DataFinal": "2023-06-20T00:00:00",
+          "PercentualSobreBenchmark": 0.8991458714056619,
+          "PercentualAcumuladoBenchmark": 2.675472441684229,
+          "PercentualAcumulado": 2.40564,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-06-21T00:00:00Z",
+          "DataFinal": "2023-06-21T00:00:00",
+          "PercentualSobreBenchmark": 0.9121764173450723,
+          "PercentualAcumuladoBenchmark": 2.7276192989527535,
+          "PercentualAcumulado": 2.48807,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-06-22T00:00:00Z",
+          "DataFinal": "2023-06-22T00:00:00",
+          "PercentualSobreBenchmark": 0.8919190459748788,
+          "PercentualAcumuladoBenchmark": 2.779792640586612,
+          "PercentualAcumulado": 2.47935,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-06-23T00:00:00Z",
+          "DataFinal": "2023-06-23T00:00:00",
+          "PercentualSobreBenchmark": 0.9436324491812828,
+          "PercentualAcumuladoBenchmark": 2.8319924800366936,
+          "PercentualAcumulado": 2.67236,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-06-26T00:00:00Z",
+          "DataFinal": "2023-06-26T00:00:00",
+          "PercentualSobreBenchmark": 0.9480452630145277,
+          "PercentualAcumuladoBenchmark": 2.8842188307607195,
+          "PercentualAcumulado": 2.73437,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-06-27T00:00:00Z",
+          "DataFinal": "2023-06-27T00:00:00",
+          "PercentualSobreBenchmark": 1.0005340741998061,
+          "PercentualAcumuladoBenchmark": 2.9364717062232453,
+          "PercentualAcumulado": 2.93804,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-06-28T00:00:00Z",
+          "DataFinal": "2023-06-28T00:00:00",
+          "PercentualSobreBenchmark": 0.9491154954712409,
+          "PercentualAcumuladoBenchmark": 2.988751119895665,
+          "PercentualAcumulado": 2.83667,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-06-29T00:00:00Z",
+          "DataFinal": "2023-06-29T00:00:00",
+          "PercentualSobreBenchmark": 0.9839670601737137,
+          "PercentualAcumuladoBenchmark": 3.0410570852562144,
+          "PercentualAcumulado": 2.9923,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-06-30T00:00:00Z",
+          "DataFinal": "2023-06-30T00:00:00",
+          "PercentualSobreBenchmark": 1.0383237803621288,
+          "PercentualAcumuladoBenchmark": 3.093389615789975,
+          "PercentualAcumulado": 3.21194,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-07-03T00:00:00Z",
+          "DataFinal": "2023-07-03T00:00:00",
+          "PercentualSobreBenchmark": 1.0865616738069521,
+          "PercentualAcumuladoBenchmark": 3.145748724988877,
+          "PercentualAcumulado": 3.41805,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-07-04T00:00:00Z",
+          "DataFinal": "2023-07-04T00:00:00",
+          "PercentualSobreBenchmark": 1.0521227539013915,
+          "PercentualAcumuladoBenchmark": 3.1981344263517024,
+          "PercentualAcumulado": 3.36483,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-07-05T00:00:00Z",
+          "DataFinal": "2023-07-05T00:00:00",
+          "PercentualSobreBenchmark": 1.0659529870511104,
+          "PercentualAcumuladoBenchmark": 3.25054673338409,
+          "PercentualAcumulado": 3.46493,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-07-06T00:00:00Z",
+          "DataFinal": "2023-07-06T00:00:00",
+          "PercentualSobreBenchmark": 1.035323901592611,
+          "PercentualAcumuladoBenchmark": 3.3029856595985363,
+          "PercentualAcumulado": 3.41966,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-07-07T00:00:00Z",
+          "DataFinal": "2023-07-07T00:00:00",
+          "PercentualSobreBenchmark": 1.0996583647649185,
+          "PercentualAcumuladoBenchmark": 3.3554512185144016,
+          "PercentualAcumulado": 3.68985,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-07-10T00:00:00Z",
+          "DataFinal": "2023-07-10T00:00:00",
+          "PercentualSobreBenchmark": 1.0388875517774412,
+          "PercentualAcumuladoBenchmark": 3.407943423657913,
+          "PercentualAcumulado": 3.54047,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-07-11T00:00:00Z",
+          "DataFinal": "2023-07-11T00:00:00",
+          "PercentualSobreBenchmark": 1.0279811491539377,
+          "PercentualAcumuladoBenchmark": 3.460462288562166,
+          "PercentualAcumulado": 3.55729,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-07-12T00:00:00Z",
+          "DataFinal": "2023-07-12T00:00:00",
+          "PercentualSobreBenchmark": 1.010373496169067,
+          "PercentualAcumuladoBenchmark": 3.5130078267671294,
+          "PercentualAcumulado": 3.54945,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-07-13T00:00:00Z",
+          "DataFinal": "2023-07-13T00:00:00",
+          "PercentualSobreBenchmark": 0.9991670214168564,
+          "PercentualAcumuladoBenchmark": 3.56558005181965,
+          "PercentualAcumulado": 3.56261,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-07-14T00:00:00Z",
+          "DataFinal": "2023-07-14T00:00:00",
+          "PercentualSobreBenchmark": 0.9589685921547951,
+          "PercentualAcumuladoBenchmark": 3.618178977273453,
+          "PercentualAcumulado": 3.46972,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-07-17T00:00:00Z",
+          "DataFinal": "2023-07-17T00:00:00",
+          "PercentualSobreBenchmark": 0.9794446655248013,
+          "PercentualAcumuladoBenchmark": 3.670804616689149,
+          "PercentualAcumulado": 3.59535,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-07-18T00:00:00Z",
+          "DataFinal": "2023-07-18T00:00:00",
+          "PercentualSobreBenchmark": 1.017476505476438,
+          "PercentualAcumuladoBenchmark": 3.723456983634235,
+          "PercentualAcumulado": 3.78853,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-07-19T00:00:00Z",
+          "DataFinal": "2023-07-19T00:00:00",
+          "PercentualSobreBenchmark": 0.99439477519634,
+          "PercentualAcumuladoBenchmark": 3.7761360916830977,
+          "PercentualAcumulado": 3.75497,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-07-20T00:00:00Z",
+          "DataFinal": "2023-07-20T00:00:00",
+          "PercentualSobreBenchmark": 0.969233006789136,
+          "PercentualAcumuladoBenchmark": 3.8288419544170194,
+          "PercentualAcumulado": 3.71104,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-07-21T00:00:00Z",
+          "DataFinal": "2023-07-21T00:00:00",
+          "PercentualSobreBenchmark": 1.0285104439294774,
+          "PercentualAcumuladoBenchmark": 3.8815745854241794,
+          "PercentualAcumulado": 3.99224,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-07-24T00:00:00Z",
+          "DataFinal": "2023-07-24T00:00:00",
+          "PercentualSobreBenchmark": 1.055159526820583,
+          "PercentualAcumuladoBenchmark": 3.9343339982996586,
+          "PercentualAcumulado": 4.15135,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-07-25T00:00:00Z",
+          "DataFinal": "2023-07-25T00:00:00",
+          "PercentualSobreBenchmark": 1.0813067518792734,
+          "PercentualAcumuladoBenchmark": 3.987120206645442,
+          "PercentualAcumulado": 4.3113,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-07-26T00:00:00Z",
+          "DataFinal": "2023-07-26T00:00:00",
+          "PercentualSobreBenchmark": 1.110340134652138,
+          "PercentualAcumuladoBenchmark": 4.039933224070423,
+          "PercentualAcumulado": 4.4857,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-07-27T00:00:00Z",
+          "DataFinal": "2023-07-27T00:00:00",
+          "PercentualSobreBenchmark": 1.0931170455415855,
+          "PercentualAcumuladoBenchmark": 4.092773064190407,
+          "PercentualAcumulado": 4.47388,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-07-28T00:00:00Z",
+          "DataFinal": "2023-07-28T00:00:00",
+          "PercentualSobreBenchmark": 1.0832513872321172,
+          "PercentualAcumuladoBenchmark": 4.1456397406281145,
+          "PercentualAcumulado": 4.49077,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-07-31T00:00:00Z",
+          "DataFinal": "2023-07-31T00:00:00",
+          "PercentualSobreBenchmark": 1.1024945393115697,
+          "PercentualAcumuladoBenchmark": 4.198533267013184,
+          "PercentualAcumulado": 4.62886,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-08-01T00:00:00Z",
+          "DataFinal": "2023-08-01T00:00:00",
+          "PercentualSobreBenchmark": 1.0747618035294404,
+          "PercentualAcumuladoBenchmark": 4.251453656982177,
+          "PercentualAcumulado": 4.5693,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-08-02T00:00:00Z",
+          "DataFinal": "2023-08-02T00:00:00",
+          "PercentualSobreBenchmark": 1.057982302350018,
+          "PercentualAcumuladoBenchmark": 4.304400924178581,
+          "PercentualAcumulado": 4.55398,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-08-03T00:00:00Z",
+          "DataFinal": "2023-08-03T00:00:00",
+          "PercentualSobreBenchmark": 1.167379420862276,
+          "PercentualAcumuladoBenchmark": 4.357375082252812,
+          "PercentualAcumulado": 5.08671,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-08-04T00:00:00Z",
+          "DataFinal": "2023-08-04T00:00:00",
+          "PercentualSobreBenchmark": 1.1954363255942737,
+          "PercentualAcumuladoBenchmark": 4.4085493197474275,
+          "PercentualAcumulado": 5.27014,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-08-07T00:00:00Z",
+          "DataFinal": "2023-08-07T00:00:00",
+          "PercentualSobreBenchmark": 1.173236522619685,
+          "PercentualAcumuladoBenchmark": 4.459748651803699,
+          "PercentualAcumulado": 5.23234,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-08-08T00:00:00Z",
+          "DataFinal": "2023-08-08T00:00:00",
+          "PercentualSobreBenchmark": 1.2011931552281305,
+          "PercentualAcumuladoBenchmark": 4.510973090727369,
+          "PercentualAcumulado": 5.41855,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-08-09T00:00:00Z",
+          "DataFinal": "2023-08-09T00:00:00",
+          "PercentualSobreBenchmark": 1.2140792824787308,
+          "PercentualAcumuladoBenchmark": 4.562222648830214,
+          "PercentualAcumulado": 5.5389,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-08-10T00:00:00Z",
+          "DataFinal": "2023-08-10T00:00:00",
+          "PercentualSobreBenchmark": 1.2308493065983588,
+          "PercentualAcumuladoBenchmark": 4.61349733843005,
+          "PercentualAcumulado": 5.67852,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-08-11T00:00:00Z",
+          "DataFinal": "2023-08-11T00:00:00",
+          "PercentualSobreBenchmark": 1.2355178130313837,
+          "PercentualAcumuladoBenchmark": 4.664797171850732,
+          "PercentualAcumulado": 5.76344,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-08-14T00:00:00Z",
+          "DataFinal": "2023-08-14T00:00:00",
+          "PercentualSobreBenchmark": 1.1853340114316009,
+          "PercentualAcumuladoBenchmark": 4.716122161422159,
+          "PercentualAcumulado": 5.59018,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-08-15T00:00:00Z",
+          "DataFinal": "2023-08-15T00:00:00",
+          "PercentualSobreBenchmark": 1.1847829670494574,
+          "PercentualAcumuladoBenchmark": 4.767472319480276,
+          "PercentualAcumulado": 5.64842,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-08-16T00:00:00Z",
+          "DataFinal": "2023-08-16T00:00:00",
+          "PercentualSobreBenchmark": 1.1773395637749846,
+          "PercentualAcumuladoBenchmark": 4.818847658367076,
+          "PercentualAcumulado": 5.67342,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-08-17T00:00:00Z",
+          "DataFinal": "2023-08-17T00:00:00",
+          "PercentualSobreBenchmark": 1.142225156190274,
+          "PercentualAcumuladoBenchmark": 4.870248190430607,
+          "PercentualAcumulado": 5.56292,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-08-18T00:00:00Z",
+          "DataFinal": "2023-08-18T00:00:00",
+          "PercentualSobreBenchmark": 1.1283660968227849,
+          "PercentualAcumuladoBenchmark": 4.921673928024971,
+          "PercentualAcumulado": 5.55345,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-08-21T00:00:00Z",
+          "DataFinal": "2023-08-21T00:00:00",
+          "PercentualSobreBenchmark": 1.0892225968346234,
+          "PercentualAcumuladoBenchmark": 4.973124883510325,
+          "PercentualAcumulado": 5.41684,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-08-22T00:00:00Z",
+          "DataFinal": "2023-08-22T00:00:00",
+          "PercentualSobreBenchmark": 1.087113170720276,
+          "PercentualAcumuladoBenchmark": 5.024601069252892,
+          "PercentualAcumulado": 5.46231,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-08-23T00:00:00Z",
+          "DataFinal": "2023-08-23T00:00:00",
+          "PercentualSobreBenchmark": 1.1334424398821685,
+          "PercentualAcumuladoBenchmark": 5.076102497624956,
+          "PercentualAcumulado": 5.75347,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-08-24T00:00:00Z",
+          "DataFinal": "2023-08-24T00:00:00",
+          "PercentualSobreBenchmark": 1.1399361758945512,
+          "PercentualAcumuladoBenchmark": 5.1276291810048695,
+          "PercentualAcumulado": 5.84517,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-08-25T00:00:00Z",
+          "DataFinal": "2023-08-25T00:00:00",
+          "PercentualSobreBenchmark": 1.1150256870855064,
+          "PercentualAcumuladoBenchmark": 5.179181131777054,
+          "PercentualAcumulado": 5.77492,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-08-28T00:00:00Z",
+          "DataFinal": "2023-08-28T00:00:00",
+          "PercentualSobreBenchmark": 1.118032911272304,
+          "PercentualAcumuladoBenchmark": 5.230758362332004,
+          "PercentualAcumulado": 5.84816,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-08-29T00:00:00Z",
+          "DataFinal": "2023-08-29T00:00:00",
+          "PercentualSobreBenchmark": 1.1123511111502296,
+          "PercentualAcumuladoBenchmark": 5.282360885066292,
+          "PercentualAcumulado": 5.87584,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-08-30T00:00:00Z",
+          "DataFinal": "2023-08-30T00:00:00",
+          "PercentualSobreBenchmark": 1.1032588026177903,
+          "PercentualAcumuladoBenchmark": 5.333988712382567,
+          "PercentualAcumulado": 5.88477,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-08-31T00:00:00Z",
+          "DataFinal": "2023-08-31T00:00:00",
+          "PercentualSobreBenchmark": 1.0542327453407705,
+          "PercentualAcumuladoBenchmark": 5.385641856689561,
+          "PercentualAcumulado": 5.67772,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-09-01T00:00:00Z",
+          "DataFinal": "2023-09-01T00:00:00",
+          "PercentualSobreBenchmark": 1.0495408865451172,
+          "PercentualAcumuladoBenchmark": 5.43732033040209,
+          "PercentualAcumulado": 5.70669,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-09-04T00:00:00Z",
+          "DataFinal": "2023-09-04T00:00:00",
+          "PercentualSobreBenchmark": 1.0401921813774635,
+          "PercentualAcumuladoBenchmark": 5.489024145941061,
+          "PercentualAcumulado": 5.70964,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-09-05T00:00:00Z",
+          "DataFinal": "2023-09-05T00:00:00",
+          "PercentualSobreBenchmark": 1.0521818366187738,
+          "PercentualAcumuladoBenchmark": 5.540753315733467,
+          "PercentualAcumulado": 5.82988,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-09-06T00:00:00Z",
+          "DataFinal": "2023-09-06T00:00:00",
+          "PercentualSobreBenchmark": 1.0424446695579868,
+          "PercentualAcumuladoBenchmark": 5.592507852212399,
+          "PercentualAcumulado": 5.82988,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-09-08T00:00:00Z",
+          "DataFinal": "2023-09-08T00:00:00",
+          "PercentualSobreBenchmark": 1.0619090036789711,
+          "PercentualAcumuladoBenchmark": 5.644287767817043,
+          "PercentualAcumulado": 5.99372,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-09-11T00:00:00Z",
+          "DataFinal": "2023-09-11T00:00:00",
+          "PercentualSobreBenchmark": 1.0725439208185419,
+          "PercentualAcumuladoBenchmark": 5.696093074992685,
+          "PercentualAcumulado": 6.10931,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-09-12T00:00:00Z",
+          "DataFinal": "2023-09-12T00:00:00",
+          "PercentualSobreBenchmark": 1.0806406332183585,
+          "PercentualAcumuladoBenchmark": 5.747923786190715,
+          "PercentualAcumulado": 6.21144,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-09-13T00:00:00Z",
+          "DataFinal": "2023-09-13T00:00:00",
+          "PercentualSobreBenchmark": 1.0827497065852012,
+          "PercentualAcumuladoBenchmark": 5.799779913868628,
+          "PercentualAcumulado": 6.27971,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-09-14T00:00:00Z",
+          "DataFinal": "2023-09-14T00:00:00",
+          "PercentualSobreBenchmark": 1.081344167278035,
+          "PercentualAcumuladoBenchmark": 5.8516614704900265,
+          "PercentualAcumulado": 6.32766,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-09-15T00:00:00Z",
+          "DataFinal": "2023-09-15T00:00:00",
+          "PercentualSobreBenchmark": 1.0677999304334997,
+          "PercentualAcumuladoBenchmark": 5.903568468524627,
+          "PercentualAcumulado": 6.30383,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-09-18T00:00:00Z",
+          "DataFinal": "2023-09-18T00:00:00",
+          "PercentualSobreBenchmark": 1.0436787909239649,
+          "PercentualAcumuladoBenchmark": 5.9555009204482605,
+          "PercentualAcumulado": 6.21563,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-09-19T00:00:00Z",
+          "DataFinal": "2023-09-19T00:00:00",
+          "PercentualSobreBenchmark": 1.0235858730056278,
+          "PercentualAcumuladoBenchmark": 6.007458838742874,
+          "PercentualAcumulado": 6.14915,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-09-20T00:00:00Z",
+          "DataFinal": "2023-09-20T00:00:00",
+          "PercentualSobreBenchmark": 1.0286342797486525,
+          "PercentualAcumuladoBenchmark": 6.059442235896538,
+          "PercentualAcumulado": 6.23295,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-09-21T00:00:00Z",
+          "DataFinal": "2023-09-21T00:00:00",
+          "PercentualSobreBenchmark": 1.0086491529622952,
+          "PercentualAcumuladoBenchmark": 6.111451124403444,
+          "PercentualAcumulado": 6.16431,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-09-22T00:00:00Z",
+          "DataFinal": "2023-09-22T00:00:00",
+          "PercentualSobreBenchmark": 0.999196673580489,
+          "PercentualAcumuladoBenchmark": 6.161619791965868,
+          "PercentualAcumulado": 6.15667,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-09-25T00:00:00Z",
+          "DataFinal": "2023-09-25T00:00:00",
+          "PercentualSobreBenchmark": 0.9701001618312095,
+          "PercentualAcumuladoBenchmark": 6.211812178883539,
+          "PercentualAcumulado": 6.02608,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-09-26T00:00:00Z",
+          "DataFinal": "2023-09-26T00:00:00",
+          "PercentualSobreBenchmark": 0.9091702768733216,
+          "PercentualAcumuladoBenchmark": 6.262028296370784,
+          "PercentualAcumulado": 5.69325,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-09-27T00:00:00Z",
+          "DataFinal": "2023-09-27T00:00:00",
+          "PercentualSobreBenchmark": 0.8551696263364001,
+          "PercentualAcumuladoBenchmark": 6.312268155647231,
+          "PercentualAcumulado": 5.39806,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-09-28T00:00:00Z",
+          "DataFinal": "2023-09-28T00:00:00",
+          "PercentualSobreBenchmark": 0.8547430800117861,
+          "PercentualAcumuladoBenchmark": 6.362531767937812,
+          "PercentualAcumulado": 5.43833,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-09-29T00:00:00Z",
+          "DataFinal": "2023-09-29T00:00:00",
+          "PercentualSobreBenchmark": 0.8981790800952877,
+          "PercentualAcumuladoBenchmark": 6.412819144472768,
+          "PercentualAcumulado": 5.75986,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-10-02T00:00:00Z",
+          "DataFinal": "2023-10-02T00:00:00",
+          "PercentualSobreBenchmark": 0.8560263751771593,
+          "PercentualAcumuladoBenchmark": 6.463130296487648,
+          "PercentualAcumulado": 5.53261,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-10-03T00:00:00Z",
+          "DataFinal": "2023-10-03T00:00:00",
+          "PercentualSobreBenchmark": 0.7893448132948739,
+          "PercentualAcumuladoBenchmark": 6.513465235223315,
+          "PercentualAcumulado": 5.14137,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-10-04T00:00:00Z",
+          "DataFinal": "2023-10-04T00:00:00",
+          "PercentualSobreBenchmark": 0.8282184323119344,
+          "PercentualAcumuladoBenchmark": 6.563823971925944,
+          "PercentualAcumulado": 5.43628,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-10-05T00:00:00Z",
+          "DataFinal": "2023-10-05T00:00:00",
+          "PercentualSobreBenchmark": 0.8058744439892427,
+          "PercentualAcumuladoBenchmark": 6.6142065178470295,
+          "PercentualAcumulado": 5.33022,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-10-06T00:00:00Z",
+          "DataFinal": "2023-10-06T00:00:00",
+          "PercentualSobreBenchmark": 0.8040136903778065,
+          "PercentualAcumuladoBenchmark": 6.664612884243384,
+          "PercentualAcumulado": 5.35844,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-10-09T00:00:00Z",
+          "DataFinal": "2023-10-09T00:00:00",
+          "PercentualSobreBenchmark": 0.8532439672705299,
+          "PercentualAcumuladoBenchmark": 6.715043082377142,
+          "PercentualAcumulado": 5.72957,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-10-10T00:00:00Z",
+          "DataFinal": "2023-10-10T00:00:00",
+          "PercentualSobreBenchmark": 0.8743895521643282,
+          "PercentualAcumuladoBenchmark": 6.765497123515765,
+          "PercentualAcumulado": 5.91568,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-10-11T00:00:00Z",
+          "DataFinal": "2023-10-11T00:00:00",
+          "PercentualSobreBenchmark": 0.8310931281681218,
+          "PercentualAcumuladoBenchmark": 6.815975018932038,
+          "PercentualAcumulado": 5.66471,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-10-13T00:00:00Z",
+          "DataFinal": "2023-10-13T00:00:00",
+          "PercentualSobreBenchmark": 0.7926539584214588,
+          "PercentualAcumuladoBenchmark": 6.866476779904079,
+          "PercentualAcumulado": 5.44274,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-10-16T00:00:00Z",
+          "DataFinal": "2023-10-16T00:00:00",
+          "PercentualSobreBenchmark": 0.8172384016409112,
+          "PercentualAcumuladoBenchmark": 6.917002417715336,
+          "PercentualAcumulado": 5.65284,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-10-17T00:00:00Z",
+          "DataFinal": "2023-10-17T00:00:00",
+          "PercentualSobreBenchmark": 0.7665202991222596,
+          "PercentualAcumuladoBenchmark": 6.967551943654593,
+          "PercentualAcumulado": 5.34077,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-10-18T00:00:00Z",
+          "DataFinal": "2023-10-18T00:00:00",
+          "PercentualSobreBenchmark": 0.7485146992659892,
+          "PercentualAcumuladoBenchmark": 7.018125369015972,
+          "PercentualAcumulado": 5.25317,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-10-19T00:00:00Z",
+          "DataFinal": "2023-10-19T00:00:00",
+          "PercentualSobreBenchmark": 0.7202446909294549,
+          "PercentualAcumuladoBenchmark": 7.068722705098931,
+          "PercentualAcumulado": 5.09121,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-10-20T00:00:00Z",
+          "DataFinal": "2023-10-20T00:00:00",
+          "PercentualSobreBenchmark": 0.740537334232711,
+          "PercentualAcumuladoBenchmark": 7.119343963208276,
+          "PercentualAcumulado": 5.27214,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-10-23T00:00:00Z",
+          "DataFinal": "2023-10-23T00:00:00",
+          "PercentualSobreBenchmark": 0.7323037576133218,
+          "PercentualAcumuladoBenchmark": 7.169989154654152,
+          "PercentualAcumulado": 5.25061,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-10-24T00:00:00Z",
+          "DataFinal": "2023-10-24T00:00:00",
+          "PercentualSobreBenchmark": 0.7661351330092957,
+          "PercentualAcumuladoBenchmark": 7.220658290752056,
+          "PercentualAcumulado": 5.532,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-10-25T00:00:00Z",
+          "DataFinal": "2023-10-25T00:00:00",
+          "PercentualSobreBenchmark": 0.7574506732009757,
+          "PercentualAcumuladoBenchmark": 7.271351382822832,
+          "PercentualAcumulado": 5.50769,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-10-26T00:00:00Z",
+          "DataFinal": "2023-10-26T00:00:00",
+          "PercentualSobreBenchmark": 0.8144105790705037,
+          "PercentualAcumuladoBenchmark": 7.322068442192678,
+          "PercentualAcumulado": 5.96317,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-10-27T00:00:00Z",
+          "DataFinal": "2023-10-27T00:00:00",
+          "PercentualSobreBenchmark": 0.7532121933868988,
+          "PercentualAcumuladoBenchmark": 7.372809480193145,
+          "PercentualAcumulado": 5.55329,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-10-30T00:00:00Z",
+          "DataFinal": "2023-10-30T00:00:00",
+          "PercentualSobreBenchmark": 0.6780736145998324,
+          "PercentualAcumuladoBenchmark": 7.423574508161145,
+          "PercentualAcumulado": 5.03373,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-10-31T00:00:00Z",
+          "DataFinal": "2023-10-31T00:00:00",
+          "PercentualSobreBenchmark": 0.6877468528593081,
+          "PercentualAcumuladoBenchmark": 7.474363537438945,
+          "PercentualAcumulado": 5.14047,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-11-01T00:00:00Z",
+          "DataFinal": "2023-11-01T00:00:00",
+          "PercentualSobreBenchmark": 0.7222288995711494,
+          "PercentualAcumuladoBenchmark": 7.52517657937418,
+          "PercentualAcumulado": 5.4349,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-11-03T00:00:00Z",
+          "DataFinal": "2023-11-03T00:00:00",
+          "PercentualSobreBenchmark": 0.7753365127092524,
+          "PercentualAcumuladoBenchmark": 7.576013645319845,
+          "PercentualAcumulado": 5.87396,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-11-06T00:00:00Z",
+          "DataFinal": "2023-11-06T00:00:00",
+          "PercentualSobreBenchmark": 0.7562070804124469,
+          "PercentualAcumuladoBenchmark": 7.6249748902841565,
+          "PercentualAcumulado": 5.76606,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-11-07T00:00:00Z",
+          "DataFinal": "2023-11-07T00:00:00",
+          "PercentualSobreBenchmark": 0.7727941273790718,
+          "PercentualAcumuladoBenchmark": 7.673958419059024,
+          "PercentualAcumulado": 5.93039,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-11-08T00:00:00Z",
+          "DataFinal": "2023-11-08T00:00:00",
+          "PercentualSobreBenchmark": 0.768224455565724,
+          "PercentualAcumuladoBenchmark": 7.7229642417865145,
+          "PercentualAcumulado": 5.93297,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-11-09T00:00:00Z",
+          "DataFinal": "2023-11-09T00:00:00",
+          "PercentualSobreBenchmark": 0.7608628160625794,
+          "PercentualAcumuladoBenchmark": 7.77199236861331,
+          "PercentualAcumulado": 5.91342,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-11-10T00:00:00Z",
+          "DataFinal": "2023-11-10T00:00:00",
+          "PercentualSobreBenchmark": 0.776335093381251,
+          "PercentualAcumuladoBenchmark": 7.821042809690712,
+          "PercentualAcumulado": 6.07175,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-11-13T00:00:00Z",
+          "DataFinal": "2023-11-13T00:00:00",
+          "PercentualSobreBenchmark": 0.7664322006943525,
+          "PercentualAcumuladoBenchmark": 7.8701155751746406,
+          "PercentualAcumulado": 6.03191,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-11-14T00:00:00Z",
+          "DataFinal": "2023-11-14T00:00:00",
+          "PercentualSobreBenchmark": 0.8263727621835918,
+          "PercentualAcumuladoBenchmark": 7.91921067522564,
+          "PercentualAcumulado": 6.54422,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-11-16T00:00:00Z",
+          "DataFinal": "2023-11-16T00:00:00",
+          "PercentualSobreBenchmark": 0.8379147920922414,
+          "PercentualAcumuladoBenchmark": 7.968328120008878,
+          "PercentualAcumulado": 6.67678,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-11-17T00:00:00Z",
+          "DataFinal": "2023-11-17T00:00:00",
+          "PercentualSobreBenchmark": 0.8755058417829971,
+          "PercentualAcumuladoBenchmark": 8.017467919694148,
+          "PercentualAcumulado": 7.01934,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-11-20T00:00:00Z",
+          "DataFinal": "2023-11-20T00:00:00",
+          "PercentualSobreBenchmark": 0.8741853693760482,
+          "PercentualAcumuladoBenchmark": 8.066630084455873,
+          "PercentualAcumulado": 7.05173,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-11-21T00:00:00Z",
+          "DataFinal": "2023-11-21T00:00:00",
+          "PercentualSobreBenchmark": 0.8540214779055502,
+          "PercentualAcumuladoBenchmark": 8.115814624473106,
+          "PercentualAcumulado": 6.93108,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-11-22T00:00:00Z",
+          "DataFinal": "2023-11-22T00:00:00",
+          "PercentualSobreBenchmark": 0.8773510218184083,
+          "PercentualAcumuladoBenchmark": 8.165021549929534,
+          "PercentualAcumulado": 7.16359,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-11-23T00:00:00Z",
+          "DataFinal": "2023-11-23T00:00:00",
+          "PercentualSobreBenchmark": 0.8780447679594818,
+          "PercentualAcumuladoBenchmark": 8.214250871013476,
+          "PercentualAcumulado": 7.21248,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-11-24T00:00:00Z",
+          "DataFinal": "2023-11-24T00:00:00",
+          "PercentualSobreBenchmark": 0.8818234052272277,
+          "PercentualAcumuladoBenchmark": 8.263502597917894,
+          "PercentualAcumulado": 7.28695,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-11-27T00:00:00Z",
+          "DataFinal": "2023-11-27T00:00:00",
+          "PercentualSobreBenchmark": 0.8988236100810576,
+          "PercentualAcumuladoBenchmark": 8.312776740840382,
+          "PercentualAcumulado": 7.47172,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-11-28T00:00:00Z",
+          "DataFinal": "2023-11-28T00:00:00",
+          "PercentualSobreBenchmark": 0.8969880700573634,
+          "PercentualAcumuladoBenchmark": 8.36207330998318,
+          "PercentualAcumulado": 7.50068,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-11-29T00:00:00Z",
+          "DataFinal": "2023-11-29T00:00:00",
+          "PercentualSobreBenchmark": 0.9061008824790232,
+          "PercentualAcumuladoBenchmark": 8.411392315553169,
+          "PercentualAcumulado": 7.62157,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-11-30T00:00:00Z",
+          "DataFinal": "2023-11-30T00:00:00",
+          "PercentualSobreBenchmark": 0.919706282408933,
+          "PercentualAcumuladoBenchmark": 8.460733767761877,
+          "PercentualAcumulado": 7.78139,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-12-01T00:00:00Z",
+          "DataFinal": "2023-12-01T00:00:00",
+          "PercentualSobreBenchmark": 0.9244594244110624,
+          "PercentualAcumuladoBenchmark": 8.510097676825477,
+          "PercentualAcumulado": 7.86724,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-12-04T00:00:00Z",
+          "DataFinal": "2023-12-04T00:00:00",
+          "PercentualSobreBenchmark": 0.906172609470939,
+          "PercentualAcumuladoBenchmark": 8.559484052964796,
+          "PercentualAcumulado": 7.75637,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-12-05T00:00:00Z",
+          "DataFinal": "2023-12-05T00:00:00",
+          "PercentualSobreBenchmark": 0.905946918470449,
+          "PercentualAcumuladoBenchmark": 8.608892906405313,
+          "PercentualAcumulado": 7.7992,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-12-06T00:00:00Z",
+          "DataFinal": "2023-12-06T00:00:00",
+          "PercentualSobreBenchmark": 0.915868911054259,
+          "PercentualAcumuladoBenchmark": 8.658324247377152,
+          "PercentualAcumulado": 7.92989,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-12-07T00:00:00Z",
+          "DataFinal": "2023-12-07T00:00:00",
+          "PercentualSobreBenchmark": 0.9171421137539578,
+          "PercentualAcumuladoBenchmark": 8.707778086115106,
+          "PercentualAcumulado": 7.98627,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-12-08T00:00:00Z",
+          "DataFinal": "2023-12-08T00:00:00",
+          "PercentualSobreBenchmark": 0.9096035819299354,
+          "PercentualAcumuladoBenchmark": 8.757254432858613,
+          "PercentualAcumulado": 7.96563,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-12-11T00:00:00Z",
+          "DataFinal": "2023-12-11T00:00:00",
+          "PercentualSobreBenchmark": 0.914415304669016,
+          "PercentualAcumuladoBenchmark": 8.806753297851783,
+          "PercentualAcumulado": 8.05303,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-12-12T00:00:00Z",
+          "DataFinal": "2023-12-12T00:00:00",
+          "PercentualSobreBenchmark": 0.9353741035265286,
+          "PercentualAcumuladoBenchmark": 8.856274691343382,
+          "PercentualAcumulado": 8.28393,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-12-13T00:00:00Z",
+          "DataFinal": "2023-12-13T00:00:00",
+          "PercentualSobreBenchmark": 0.9831358991312633,
+          "PercentualAcumuladoBenchmark": 8.905818623586843,
+          "PercentualAcumulado": 8.75563,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-12-14T00:00:00Z",
+          "DataFinal": "2023-12-14T00:00:00",
+          "PercentualSobreBenchmark": 0.9876091197038209,
+          "PercentualAcumuladoBenchmark": 8.95538510484026,
+          "PercentualAcumulado": 8.84442,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-12-15T00:00:00Z",
+          "DataFinal": "2023-12-15T00:00:00",
+          "PercentualSobreBenchmark": 0.9898377269385542,
+          "PercentualAcumuladoBenchmark": 9.003041364731898,
+          "PercentualAcumulado": 8.91155,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-12-18T00:00:00Z",
+          "DataFinal": "2023-12-18T00:00:00",
+          "PercentualSobreBenchmark": 1.0058372748052866,
+          "PercentualAcumuladoBenchmark": 9.05071846911052,
+          "PercentualAcumulado": 9.10355,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-12-19T00:00:00Z",
+          "DataFinal": "2023-12-19T00:00:00",
+          "PercentualSobreBenchmark": 1.0154602258573022,
+          "PercentualAcumuladoBenchmark": 9.09841642709335,
+          "PercentualAcumulado": 9.23908,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-12-20T00:00:00Z",
+          "DataFinal": "2023-12-20T00:00:00",
+          "PercentualSobreBenchmark": 1.0234956893131513,
+          "PercentualAcumuladoBenchmark": 9.146135247801594,
+          "PercentualAcumulado": 9.36103,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-12-21T00:00:00Z",
+          "DataFinal": "2023-12-21T00:00:00",
+          "PercentualSobreBenchmark": 1.017857003788341,
+          "PercentualAcumuladoBenchmark": 9.19387494036045,
+          "PercentualAcumulado": 9.35805,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-12-22T00:00:00Z",
+          "DataFinal": "2023-12-22T00:00:00",
+          "PercentualSobreBenchmark": 1.0202025372911638,
+          "PercentualAcumuladoBenchmark": 9.241635513899109,
+          "PercentualAcumulado": 9.42834,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-12-26T00:00:00Z",
+          "DataFinal": "2023-12-26T00:00:00",
+          "PercentualSobreBenchmark": 1.022093208103934,
+          "PercentualAcumuladoBenchmark": 9.289416977550754,
+          "PercentualAcumulado": 9.49465,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-12-27T00:00:00Z",
+          "DataFinal": "2023-12-27T00:00:00",
+          "PercentualSobreBenchmark": 1.0302788923810091,
+          "PercentualAcumuladoBenchmark": 9.33721934045256,
+          "PercentualAcumulado": 9.61994,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-12-28T00:00:00Z",
+          "DataFinal": "2023-12-28T00:00:00",
+          "PercentualSobreBenchmark": 1.0318738444383746,
+          "PercentualAcumuladoBenchmark": 9.385042611745702,
+          "PercentualAcumulado": 9.68418,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2023-12-29T00:00:00Z",
+          "DataFinal": "2023-12-29T00:00:00",
+          "PercentualSobreBenchmark": 1.037460769634498,
+          "PercentualAcumuladoBenchmark": 9.43288680057535,
+          "PercentualAcumulado": 9.78625,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-01-02T00:00:00Z",
+          "DataFinal": "2024-01-02T00:00:00",
+          "PercentualSobreBenchmark": 1.0293729955571025,
+          "PercentualAcumuladoBenchmark": 9.480751916090679,
+          "PercentualAcumulado": 9.75923,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-01-03T00:00:00Z",
+          "DataFinal": "2024-01-03T00:00:00",
+          "PercentualSobreBenchmark": 1.0302532254389387,
+          "PercentualAcumuladoBenchmark": 9.52863796744486,
+          "PercentualAcumulado": 9.81691,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-01-04T00:00:00Z",
+          "DataFinal": "2024-01-04T00:00:00",
+          "PercentualSobreBenchmark": 1.0345578742078791,
+          "PercentualAcumuladoBenchmark": 9.576544963795072,
+          "PercentualAcumulado": 9.90749,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-01-05T00:00:00Z",
+          "DataFinal": "2024-01-05T00:00:00",
+          "PercentualSobreBenchmark": 1.044912286578847,
+          "PercentualAcumuladoBenchmark": 9.624472914302496,
+          "PercentualAcumulado": 10.05673,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-01-08T00:00:00Z",
+          "DataFinal": "2024-01-08T00:00:00",
+          "PercentualSobreBenchmark": 1.032655541443509,
+          "PercentualAcumuladoBenchmark": 9.672421828132324,
+          "PercentualAcumulado": 9.98828,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-01-09T00:00:00Z",
+          "DataFinal": "2024-01-09T00:00:00",
+          "PercentualSobreBenchmark": 1.0295943099822302,
+          "PercentualAcumuladoBenchmark": 9.720391714453752,
+          "PercentualAcumulado": 10.00806,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-01-10T00:00:00Z",
+          "DataFinal": "2024-01-10T00:00:00",
+          "PercentualSobreBenchmark": 1.0241572661152942,
+          "PercentualAcumuladoBenchmark": 9.768382582439992,
+          "PercentualAcumulado": 10.00436,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-01-11T00:00:00Z",
+          "DataFinal": "2024-01-11T00:00:00",
+          "PercentualSobreBenchmark": 1.0310048216331062,
+          "PercentualAcumuladoBenchmark": 9.816394441268262,
+          "PercentualAcumulado": 10.12075,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-01-12T00:00:00Z",
+          "DataFinal": "2024-01-12T00:00:00",
+          "PercentualSobreBenchmark": 1.0478195728478301,
+          "PercentualAcumuladoBenchmark": 9.864427300119798,
+          "PercentualAcumulado": 10.33614,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-01-15T00:00:00Z",
+          "DataFinal": "2024-01-15T00:00:00",
+          "PercentualSobreBenchmark": 1.0481139710359444,
+          "PercentualAcumuladoBenchmark": 9.912481168179852,
+          "PercentualAcumulado": 10.38941,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-01-16T00:00:00Z",
+          "DataFinal": "2024-01-16T00:00:00",
+          "PercentualSobreBenchmark": 1.0152666120774962,
+          "PercentualAcumuladoBenchmark": 9.96055605463769,
+          "PercentualAcumulado": 10.11262,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-01-17T00:00:00Z",
+          "DataFinal": "2024-01-17T00:00:00",
+          "PercentualSobreBenchmark": 1.006200438531338,
+          "PercentualAcumuladoBenchmark": 10.008651968686605,
+          "PercentualAcumulado": 10.07071,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-01-18T00:00:00Z",
+          "DataFinal": "2024-01-18T00:00:00",
+          "PercentualSobreBenchmark": 1.0108604544213062,
+          "PercentualAcumuladoBenchmark": 10.0567689195239,
+          "PercentualAcumulado": 10.16599,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-01-19T00:00:00Z",
+          "DataFinal": "2024-01-19T00:00:00",
+          "PercentualSobreBenchmark": 1.004198265654525,
+          "PercentualAcumuladoBenchmark": 10.104906916350913,
+          "PercentualAcumulado": 10.14733,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-01-22T00:00:00Z",
+          "DataFinal": "2024-01-22T00:00:00",
+          "PercentualSobreBenchmark": 1.0048087968480746,
+          "PercentualAcumuladoBenchmark": 10.153065968372996,
+          "PercentualAcumulado": 10.20189,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-01-23T00:00:00Z",
+          "DataFinal": "2024-01-23T00:00:00",
+          "PercentualSobreBenchmark": 1.0246542346993495,
+          "PercentualAcumuladoBenchmark": 10.201246084799532,
+          "PercentualAcumulado": 10.45275,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-01-24T00:00:00Z",
+          "DataFinal": "2024-01-24T00:00:00",
+          "PercentualSobreBenchmark": 1.0237927683919696,
+          "PercentualAcumuladoBenchmark": 10.249447274843934,
+          "PercentualAcumulado": 10.49331,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-01-25T00:00:00Z",
+          "DataFinal": "2024-01-25T00:00:00",
+          "PercentualSobreBenchmark": 1.0344321062773603,
+          "PercentualAcumuladoBenchmark": 10.297669547723642,
+          "PercentualAcumulado": 10.65224,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-01-26T00:00:00Z",
+          "DataFinal": "2024-01-26T00:00:00",
+          "PercentualSobreBenchmark": 1.0298598190365438,
+          "PercentualAcumuladoBenchmark": 10.345912912660127,
+          "PercentualAcumulado": 10.65484,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-01-29T00:00:00Z",
+          "DataFinal": "2024-01-29T00:00:00",
+          "PercentualSobreBenchmark": 1.023955009814154,
+          "PercentualAcumuladoBenchmark": 10.394177378878897,
+          "PercentualAcumulado": 10.64317,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-01-30T00:00:00Z",
+          "DataFinal": "2024-01-30T00:00:00",
+          "PercentualSobreBenchmark": 1.01075580012761,
+          "PercentualAcumuladoBenchmark": 10.442462955609493,
+          "PercentualAcumulado": 10.55478,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-01-31T00:00:00Z",
+          "DataFinal": "2024-01-31T00:00:00",
+          "PercentualSobreBenchmark": 1.024904783593506,
+          "PercentualAcumuladoBenchmark": 10.49076965208549,
+          "PercentualAcumulado": 10.75204,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-02-01T00:00:00Z",
+          "DataFinal": "2024-02-01T00:00:00",
+          "PercentualSobreBenchmark": 1.0218740288669579,
+          "PercentualAcumuladoBenchmark": 10.539097477544509,
+          "PercentualAcumulado": 10.76963,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-02-02T00:00:00Z",
+          "DataFinal": "2024-02-02T00:00:00",
+          "PercentualSobreBenchmark": 1.054507058125599,
+          "PercentualAcumuladoBenchmark": 10.58547680073515,
+          "PercentualAcumulado": 11.16246,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-02-05T00:00:00Z",
+          "DataFinal": "2024-02-05T00:00:00",
+          "PercentualSobreBenchmark": 1.0704940920945296,
+          "PercentualAcumuladoBenchmark": 10.631875583480543,
+          "PercentualAcumulado": 11.38136,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-02-06T00:00:00Z",
+          "DataFinal": "2024-02-06T00:00:00",
+          "PercentualSobreBenchmark": 1.093847966879211,
+          "PercentualAcumuladoBenchmark": 10.678293833945409,
+          "PercentualAcumulado": 11.68043,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-02-07T00:00:00Z",
+          "DataFinal": "2024-02-07T00:00:00",
+          "PercentualSobreBenchmark": 1.101798206655699,
+          "PercentualAcumuladoBenchmark": 10.724731560297897,
+          "PercentualAcumulado": 11.81649,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-02-08T00:00:00Z",
+          "DataFinal": "2024-02-08T00:00:00",
+          "PercentualSobreBenchmark": 1.0997792585543569,
+          "PercentualAcumuladoBenchmark": 10.771188770709582,
+          "PercentualAcumulado": 11.84593,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-02-09T00:00:00Z",
+          "DataFinal": "2024-02-09T00:00:00",
+          "PercentualSobreBenchmark": 1.1085746762587043,
+          "PercentualAcumuladoBenchmark": 10.817665473355467,
+          "PercentualAcumulado": 11.99219,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-02-14T00:00:00Z",
+          "DataFinal": "2024-02-14T00:00:00",
+          "PercentualSobreBenchmark": 1.0951723984217534,
+          "PercentualAcumuladoBenchmark": 10.864161676413984,
+          "PercentualAcumulado": 11.89813,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-02-15T00:00:00Z",
+          "DataFinal": "2024-02-15T00:00:00",
+          "PercentualSobreBenchmark": 1.1005100391963187,
+          "PercentualAcumuladoBenchmark": 10.910677388066997,
+          "PercentualAcumulado": 12.00731,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-02-16T00:00:00Z",
+          "DataFinal": "2024-02-16T00:00:00",
+          "PercentualSobreBenchmark": 1.0984782737422947,
+          "PercentualAcumuladoBenchmark": 10.957212616499806,
+          "PercentualAcumulado": 12.03626,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-02-19T00:00:00Z",
+          "DataFinal": "2024-02-19T00:00:00",
+          "PercentualSobreBenchmark": 1.0994707170103224,
+          "PercentualAcumuladoBenchmark": 11.003767369901142,
+          "PercentualAcumulado": 12.09832,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-02-20T00:00:00Z",
+          "DataFinal": "2024-02-20T00:00:00",
+          "PercentualSobreBenchmark": 1.10166005526895,
+          "PercentualAcumuladoBenchmark": 11.050341656463173,
+          "PercentualAcumulado": 12.17372,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-02-21T00:00:00Z",
+          "DataFinal": "2024-02-21T00:00:00",
+          "PercentualSobreBenchmark": 1.1108319064618808,
+          "PercentualAcumuladoBenchmark": 11.096935484381502,
+          "PercentualAcumulado": 12.32683,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-02-22T00:00:00Z",
+          "DataFinal": "2024-02-22T00:00:00",
+          "PercentualSobreBenchmark": 1.099615584936738,
+          "PercentualAcumuladoBenchmark": 11.143548861855177,
+          "PercentualAcumulado": 12.25362,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-02-23T00:00:00Z",
+          "DataFinal": "2024-02-23T00:00:00",
+          "PercentualSobreBenchmark": 1.094967018604648,
+          "PercentualAcumuladoBenchmark": 11.190181797086677,
+          "PercentualAcumulado": 12.25288,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-02-26T00:00:00Z",
+          "DataFinal": "2024-02-26T00:00:00",
+          "PercentualSobreBenchmark": 1.0824027192302415,
+          "PercentualAcumuladoBenchmark": 11.236834298281927,
+          "PercentualAcumulado": 12.16278,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-02-27T00:00:00Z",
+          "DataFinal": "2024-02-27T00:00:00",
+          "PercentualSobreBenchmark": 1.0906175432077962,
+          "PercentualAcumuladoBenchmark": 11.2835063736503,
+          "PercentualAcumulado": 12.30599,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-02-28T00:00:00Z",
+          "DataFinal": "2024-02-28T00:00:00",
+          "PercentualSobreBenchmark": 1.0887717907319494,
+          "PercentualAcumuladoBenchmark": 11.330198031404604,
+          "PercentualAcumulado": 12.336,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-02-29T00:00:00Z",
+          "DataFinal": "2024-02-29T00:00:00",
+          "PercentualSobreBenchmark": 1.1018581313907807,
+          "PercentualAcumuladoBenchmark": 11.376909279761101,
+          "PercentualAcumulado": 12.53574,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-03-01T00:00:00Z",
+          "DataFinal": "2024-03-01T00:00:00",
+          "PercentualSobreBenchmark": 1.1003926822200898,
+          "PercentualAcumuladoBenchmark": 11.423640126939496,
+          "PercentualAcumulado": 12.57049,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-03-04T00:00:00Z",
+          "DataFinal": "2024-03-04T00:00:00",
+          "PercentualSobreBenchmark": 1.0995030998082491,
+          "PercentualAcumuladoBenchmark": 11.470390581162942,
+          "PercentualAcumulado": 12.61173,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-03-05T00:00:00Z",
+          "DataFinal": "2024-03-05T00:00:00",
+          "PercentualSobreBenchmark": 1.1069507829841356,
+          "PercentualAcumuladoBenchmark": 11.517160650658045,
+          "PercentualAcumulado": 12.74893,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-03-06T00:00:00Z",
+          "DataFinal": "2024-03-06T00:00:00",
+          "PercentualSobreBenchmark": 1.1116106190349844,
+          "PercentualAcumuladoBenchmark": 11.563950343654861,
+          "PercentualAcumulado": 12.85461,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-03-07T00:00:00Z",
+          "DataFinal": "2024-03-07T00:00:00",
+          "PercentualSobreBenchmark": 1.1126188439825628,
+          "PercentualAcumuladoBenchmark": 11.610759668386901,
+          "PercentualAcumulado": 12.91835,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-03-08T00:00:00Z",
+          "DataFinal": "2024-03-08T00:00:00",
+          "PercentualSobreBenchmark": 1.1020589595631831,
+          "PercentualAcumuladoBenchmark": 11.657588633091128,
+          "PercentualAcumulado": 12.84735,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-03-11T00:00:00Z",
+          "DataFinal": "2024-03-11T00:00:00",
+          "PercentualSobreBenchmark": 1.108260886649994,
+          "PercentualAcumuladoBenchmark": 11.704437246007965,
+          "PercentualAcumulado": 12.97157,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-03-12T00:00:00Z",
+          "DataFinal": "2024-03-12T00:00:00",
+          "PercentualSobreBenchmark": 1.1130201646855595,
+          "PercentualAcumuladoBenchmark": 11.751305515381285,
+          "PercentualAcumulado": 13.07944,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-03-13T00:00:00Z",
+          "DataFinal": "2024-03-13T00:00:00",
+          "PercentualSobreBenchmark": 1.1192976328597308,
+          "PercentualAcumuladoBenchmark": 11.798193449458427,
+          "PercentualAcumulado": 13.20569,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-03-14T00:00:00Z",
+          "DataFinal": "2024-03-14T00:00:00",
+          "PercentualSobreBenchmark": 1.1016824540175514,
+          "PercentualAcumuladoBenchmark": 11.845101056490188,
+          "PercentualAcumulado": 13.04954,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-03-15T00:00:00Z",
+          "DataFinal": "2024-03-15T00:00:00",
+          "PercentualSobreBenchmark": 1.0924931915215739,
+          "PercentualAcumuladoBenchmark": 11.892028344730829,
+          "PercentualAcumulado": 12.99196,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-03-18T00:00:00Z",
+          "DataFinal": "2024-03-18T00:00:00",
+          "PercentualSobreBenchmark": 1.083053582973605,
+          "PercentualAcumuladoBenchmark": 11.938975322438067,
+          "PercentualAcumulado": 12.93055,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-03-19T00:00:00Z",
+          "DataFinal": "2024-03-19T00:00:00",
+          "PercentualSobreBenchmark": 1.092978758142219,
+          "PercentualAcumuladoBenchmark": 11.985941997873093,
+          "PercentualAcumulado": 13.10038,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-03-20T00:00:00Z",
+          "DataFinal": "2024-03-20T00:00:00",
+          "PercentualSobreBenchmark": 1.1029817166394096,
+          "PercentualAcumuladoBenchmark": 12.032928379300559,
+          "PercentualAcumulado": 13.2721,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-03-21T00:00:00Z",
+          "DataFinal": "2024-03-21T00:00:00",
+          "PercentualSobreBenchmark": 1.08633122366439,
+          "PercentualAcumuladoBenchmark": 12.079934474988585,
+          "PercentualAcumulado": 13.12281,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-03-22T00:00:00Z",
+          "DataFinal": "2024-03-22T00:00:00",
+          "PercentualSobreBenchmark": 1.0844090420142587,
+          "PercentualAcumuladoBenchmark": 12.124954229058442,
+          "PercentualAcumulado": 13.14841,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-03-25T00:00:00Z",
+          "DataFinal": "2024-03-25T00:00:00",
+          "PercentualSobreBenchmark": 1.0887328379218708,
+          "PercentualAcumuladoBenchmark": 12.169992066456649,
+          "PercentualAcumulado": 13.24987,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-03-26T00:00:00Z",
+          "DataFinal": "2024-03-26T00:00:00",
+          "PercentualSobreBenchmark": 1.0817591552654717,
+          "PercentualAcumuladoBenchmark": 12.215047994446833,
+          "PercentualAcumulado": 13.21374,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-03-27T00:00:00Z",
+          "DataFinal": "2024-03-27T00:00:00",
+          "PercentualSobreBenchmark": 1.0988691611468349,
+          "PercentualAcumuladoBenchmark": 12.260122020295542,
+          "PercentualAcumulado": 13.47227,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-03-28T00:00:00Z",
+          "DataFinal": "2024-03-28T00:00:00",
+          "PercentualSobreBenchmark": 1.1019426263782712,
+          "PercentualAcumuladoBenchmark": 12.305214151272239,
+          "PercentualAcumulado": 13.55964,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-04-01T00:00:00Z",
+          "DataFinal": "2024-04-01T00:00:00",
+          "PercentualSobreBenchmark": 1.0937194496568976,
+          "PercentualAcumuladoBenchmark": 12.35032439464931,
+          "PercentualAcumulado": 13.50779,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-04-02T00:00:00Z",
+          "DataFinal": "2024-04-02T00:00:00",
+          "PercentualSobreBenchmark": 1.0856610293349853,
+          "PercentualAcumuladoBenchmark": 12.39545275770206,
+          "PercentualAcumulado": 13.45726,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-04-03T00:00:00Z",
+          "DataFinal": "2024-04-03T00:00:00",
+          "PercentualSobreBenchmark": 1.0875143335632969,
+          "PercentualAcumuladoBenchmark": 12.440599247708718,
+          "PercentualAcumulado": 13.52933,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-04-04T00:00:00Z",
+          "DataFinal": "2024-04-04T00:00:00",
+          "PercentualSobreBenchmark": 1.086515822269897,
+          "PercentualAcumuladoBenchmark": 12.485763871950436,
+          "PercentualAcumulado": 13.56598,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-04-05T00:00:00Z",
+          "DataFinal": "2024-04-05T00:00:00",
+          "PercentualSobreBenchmark": 1.0834025866125303,
+          "PercentualAcumuladoBenchmark": 12.530946637711288,
+          "PercentualAcumulado": 13.57606,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-04-08T00:00:00Z",
+          "DataFinal": "2024-04-08T00:00:00",
+          "PercentualSobreBenchmark": 1.0755964768836932,
+          "PercentualAcumuladoBenchmark": 12.57614755227828,
+          "PercentualAcumulado": 13.52686,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-04-09T00:00:00Z",
+          "DataFinal": "2024-04-09T00:00:00",
+          "PercentualSobreBenchmark": 1.0832107495514547,
+          "PercentualAcumuladoBenchmark": 12.62136662294134,
+          "PercentualAcumulado": 13.6716,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-04-10T00:00:00Z",
+          "DataFinal": "2024-04-10T00:00:00",
+          "PercentualSobreBenchmark": 1.0432922785932017,
+          "PercentualAcumuladoBenchmark": 12.666603856993323,
+          "PercentualAcumulado": 13.21497,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-04-11T00:00:00Z",
+          "DataFinal": "2024-04-11T00:00:00",
+          "PercentualSobreBenchmark": 1.0275255358846982,
+          "PercentualAcumuladoBenchmark": 12.711859261730018,
+          "PercentualAcumulado": 13.06176,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-04-12T00:00:00Z",
+          "DataFinal": "2024-04-12T00:00:00",
+          "PercentualSobreBenchmark": 1.0313359718381996,
+          "PercentualAcumuladoBenchmark": 12.75713284445014,
+          "PercentualAcumulado": 13.15689,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-04-15T00:00:00Z",
+          "DataFinal": "2024-04-15T00:00:00",
+          "PercentualSobreBenchmark": 1.007965318338641,
+          "PercentualAcumuladoBenchmark": 12.802424612455342,
+          "PercentualAcumulado": 12.9044,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-04-16T00:00:00Z",
+          "DataFinal": "2024-04-16T00:00:00",
+          "PercentualSobreBenchmark": 0.9727971829536927,
+          "PercentualAcumuladoBenchmark": 12.847734573050202,
+          "PercentualAcumulado": 12.49824,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-04-17T00:00:00Z",
+          "DataFinal": "2024-04-17T00:00:00",
+          "PercentualSobreBenchmark": 0.9575831790440696,
+          "PercentualAcumuladoBenchmark": 12.893062733542239,
+          "PercentualAcumulado": 12.34618,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-04-18T00:00:00Z",
+          "DataFinal": "2024-04-18T00:00:00",
+          "PercentualSobreBenchmark": 0.9732317088962151,
+          "PercentualAcumuladoBenchmark": 12.938409101241902,
+          "PercentualAcumulado": 12.59207,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-04-19T00:00:00Z",
+          "DataFinal": "2024-04-19T00:00:00",
+          "PercentualSobreBenchmark": 0.983365877384503,
+          "PercentualAcumuladoBenchmark": 12.98377368346258,
+          "PercentualAcumulado": 12.7678,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-04-22T00:00:00Z",
+          "DataFinal": "2024-04-22T00:00:00",
+          "PercentualSobreBenchmark": 0.9870930641072836,
+          "PercentualAcumuladoBenchmark": 13.029156487520599,
+          "PercentualAcumulado": 12.86099,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-04-23T00:00:00Z",
+          "DataFinal": "2024-04-23T00:00:00",
+          "PercentualSobreBenchmark": 0.9798756080029526,
+          "PercentualAcumuladoBenchmark": 13.074557520735219,
+          "PercentualAcumulado": 12.81144,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-04-24T00:00:00Z",
+          "DataFinal": "2024-04-24T00:00:00",
+          "PercentualSobreBenchmark": 0.9669666496098664,
+          "PercentualAcumuladoBenchmark": 13.119976790428648,
+          "PercentualAcumulado": 12.68658,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-04-25T00:00:00Z",
+          "DataFinal": "2024-04-25T00:00:00",
+          "PercentualSobreBenchmark": 0.9703097604904491,
+          "PercentualAcumuladoBenchmark": 13.165414303926031,
+          "PercentualAcumulado": 12.77453,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-04-26T00:00:00Z",
+          "DataFinal": "2024-04-26T00:00:00",
+          "PercentualSobreBenchmark": 0.9896040103458174,
+          "PercentualAcumuladoBenchmark": 13.210870068555455,
+          "PercentualAcumulado": 13.07353,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-04-29T00:00:00Z",
+          "DataFinal": "2024-04-29T00:00:00",
+          "PercentualSobreBenchmark": 0.9907429913708061,
+          "PercentualAcumuladoBenchmark": 13.256344091647948,
+          "PercentualAcumulado": 13.13363,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-04-30T00:00:00Z",
+          "DataFinal": "2024-04-30T00:00:00",
+          "PercentualSobreBenchmark": 0.9527413837793659,
+          "PercentualAcumuladoBenchmark": 13.30183638053749,
+          "PercentualAcumulado": 12.67321,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-05-02T00:00:00Z",
+          "DataFinal": "2024-05-02T00:00:00",
+          "PercentualSobreBenchmark": 0.9751780676724185,
+          "PercentualAcumuladoBenchmark": 13.347346942561,
+          "PercentualAcumulado": 13.01604,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-05-03T00:00:00Z",
+          "DataFinal": "2024-05-03T00:00:00",
+          "PercentualSobreBenchmark": 0.9904624079915043,
+          "PercentualAcumuladoBenchmark": 13.392875785058349,
+          "PercentualAcumulado": 13.26514,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-05-06T00:00:00Z",
+          "DataFinal": "2024-05-06T00:00:00",
+          "PercentualSobreBenchmark": 0.9769278793110702,
+          "PercentualAcumuladoBenchmark": 13.438422915372351,
+          "PercentualAcumulado": 13.12837,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-05-07T00:00:00Z",
+          "DataFinal": "2024-05-07T00:00:00",
+          "PercentualSobreBenchmark": 0.982302836904281,
+          "PercentualAcumuladoBenchmark": 13.483988340848775,
+          "PercentualAcumulado": 13.24536,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-05-08T00:00:00Z",
+          "DataFinal": "2024-05-08T00:00:00",
+          "PercentualSobreBenchmark": 0.9733426846761049,
+          "PercentualAcumuladoBenchmark": 13.529572068836336,
+          "PercentualAcumulado": 13.16891,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-05-09T00:00:00Z",
+          "DataFinal": "2024-05-09T00:00:00",
+          "PercentualSobreBenchmark": 0.9836050642932768,
+          "PercentualAcumuladoBenchmark": 13.575174106686703,
+          "PercentualAcumulado": 13.35261,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-05-10T00:00:00Z",
+          "DataFinal": "2024-05-10T00:00:00",
+          "PercentualSobreBenchmark": 0.9786938754120301,
+          "PercentualAcumuladoBenchmark": 13.619774614803063,
+          "PercentualAcumulado": 13.32959,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-05-13T00:00:00Z",
+          "DataFinal": "2024-05-13T00:00:00",
+          "PercentualSobreBenchmark": 0.986037971652274,
+          "PercentualAcumuladoBenchmark": 13.66439263735724,
+          "PercentualAcumulado": 13.47361,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-05-14T00:00:00Z",
+          "DataFinal": "2024-05-14T00:00:00",
+          "PercentualSobreBenchmark": 0.9870947685796322,
+          "PercentualAcumuladoBenchmark": 13.70902818122708,
+          "PercentualAcumulado": 13.53211,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-05-15T00:00:00Z",
+          "DataFinal": "2024-05-15T00:00:00",
+          "PercentualSobreBenchmark": 0.9879631314522799,
+          "PercentualAcumuladoBenchmark": 13.753681253293133,
+          "PercentualAcumulado": 13.58813,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-05-16T00:00:00Z",
+          "DataFinal": "2024-05-16T00:00:00",
+          "PercentualSobreBenchmark": 0.9886311160908704,
+          "PercentualAcumuladoBenchmark": 13.79835186043865,
+          "PercentualAcumulado": 13.64148,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-05-17T00:00:00Z",
+          "DataFinal": "2024-05-17T00:00:00",
+          "PercentualSobreBenchmark": 0.98512754355925,
+          "PercentualAcumuladoBenchmark": 13.843040009549584,
+          "PercentualAcumulado": 13.63716,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-05-20T00:00:00Z",
+          "DataFinal": "2024-05-20T00:00:00",
+          "PercentualSobreBenchmark": 0.9816647198992984,
+          "PercentualAcumuladoBenchmark": 13.887745707514597,
+          "PercentualAcumulado": 13.63311,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-05-21T00:00:00Z",
+          "DataFinal": "2024-05-21T00:00:00",
+          "PercentualSobreBenchmark": 0.9893659220316668,
+          "PercentualAcumuladoBenchmark": 13.932468961225048,
+          "PercentualAcumulado": 13.78431,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-05-22T00:00:00Z",
+          "DataFinal": "2024-05-22T00:00:00",
+          "PercentualSobreBenchmark": 0.9746609099232925,
+          "PercentualAcumuladoBenchmark": 13.977209777575009,
+          "PercentualAcumulado": 13.62304,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-05-23T00:00:00Z",
+          "DataFinal": "2024-05-23T00:00:00",
+          "PercentualSobreBenchmark": 0.979490884581336,
+          "PercentualAcumuladoBenchmark": 14.021968163461258,
+          "PercentualAcumulado": 13.73439,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-05-24T00:00:00Z",
+          "DataFinal": "2024-05-24T00:00:00",
+          "PercentualSobreBenchmark": 0.975679224508235,
+          "PercentualAcumuladoBenchmark": 14.066744125783279,
+          "PercentualAcumulado": 13.72463,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-05-27T00:00:00Z",
+          "DataFinal": "2024-05-27T00:00:00",
+          "PercentualSobreBenchmark": 0.9816619791926049,
+          "PercentualAcumuladoBenchmark": 14.111537671443266,
+          "PercentualAcumulado": 13.85276,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-05-28T00:00:00Z",
+          "DataFinal": "2024-05-28T00:00:00",
+          "PercentualSobreBenchmark": 0.981764449939792,
+          "PercentualAcumuladoBenchmark": 14.156348807346125,
+          "PercentualAcumulado": 13.8982,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-05-29T00:00:00Z",
+          "DataFinal": "2024-05-29T00:00:00",
+          "PercentualSobreBenchmark": 0.9656621756180257,
+          "PercentualAcumuladoBenchmark": 14.201177540399474,
+          "PercentualAcumulado": 13.71354,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-05-31T00:00:00Z",
+          "DataFinal": "2024-05-31T00:00:00",
+          "PercentualSobreBenchmark": 0.9738338303572533,
+          "PercentualAcumuladoBenchmark": 14.246023877513641,
+          "PercentualAcumulado": 13.87326,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-06-03T00:00:00Z",
+          "DataFinal": "2024-06-03T00:00:00",
+          "PercentualSobreBenchmark": 0.9764466819899976,
+          "PercentualAcumuladoBenchmark": 14.290887825601668,
+          "PercentualAcumulado": 13.95429,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-06-04T00:00:00Z",
+          "DataFinal": "2024-06-04T00:00:00",
+          "PercentualSobreBenchmark": 0.9764087031298112,
+          "PercentualAcumuladoBenchmark": 14.335769391579314,
+          "PercentualAcumulado": 13.99757,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-06-05T00:00:00Z",
+          "DataFinal": "2024-06-05T00:00:00",
+          "PercentualSobreBenchmark": 0.9685752731330429,
+          "PercentualAcumuladoBenchmark": 14.380668582365052,
+          "PercentualAcumulado": 13.92876,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-06-06T00:00:00Z",
+          "DataFinal": "2024-06-06T00:00:00",
+          "PercentualSobreBenchmark": 0.9797626649673911,
+          "PercentualAcumuladoBenchmark": 14.425585404880072,
+          "PercentualAcumulado": 14.13365,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-06-07T00:00:00Z",
+          "DataFinal": "2024-06-07T00:00:00",
+          "PercentualSobreBenchmark": 0.9448831228296368,
+          "PercentualAcumuladoBenchmark": 14.470519866048283,
+          "PercentualAcumulado": 13.67295,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-06-10T00:00:00Z",
+          "DataFinal": "2024-06-10T00:00:00",
+          "PercentualSobreBenchmark": 0.9445886448402294,
+          "PercentualAcumuladoBenchmark": 14.515471972796313,
+          "PercentualAcumulado": 13.71115,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-06-11T00:00:00Z",
+          "DataFinal": "2024-06-11T00:00:00",
+          "PercentualSobreBenchmark": 0.9483235642228425,
+          "PercentualAcumuladoBenchmark": 14.560441732053507,
+          "PercentualAcumulado": 13.80801,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-06-12T00:00:00Z",
+          "DataFinal": "2024-06-12T00:00:00",
+          "PercentualSobreBenchmark": 0.9222953917315393,
+          "PercentualAcumuladoBenchmark": 14.605429150751934,
+          "PercentualAcumulado": 13.47052,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-06-13T00:00:00Z",
+          "DataFinal": "2024-06-13T00:00:00",
+          "PercentualSobreBenchmark": 0.9358582673591734,
+          "PercentualAcumuladoBenchmark": 14.650434235826388,
+          "PercentualAcumulado": 13.71073,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-06-14T00:00:00Z",
+          "DataFinal": "2024-06-14T00:00:00",
+          "PercentualSobreBenchmark": 0.9355306204776501,
+          "PercentualAcumuladoBenchmark": 14.695456994214378,
+          "PercentualAcumulado": 13.74805,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-06-17T00:00:00Z",
+          "DataFinal": "2024-06-17T00:00:00",
+          "PercentualSobreBenchmark": 0.9254572352214548,
+          "PercentualAcumuladoBenchmark": 14.740497432856145,
+          "PercentualAcumulado": 13.6417,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-06-18T00:00:00Z",
+          "DataFinal": "2024-06-18T00:00:00",
+          "PercentualSobreBenchmark": 0.9319291348438511,
+          "PercentualAcumuladoBenchmark": 14.785555558694652,
+          "PercentualAcumulado": 13.77909,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-06-19T00:00:00Z",
+          "DataFinal": "2024-06-19T00:00:00",
+          "PercentualSobreBenchmark": 0.9308895654874594,
+          "PercentualAcumuladoBenchmark": 14.830631378675589,
+          "PercentualAcumulado": 13.80568,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-06-20T00:00:00Z",
+          "DataFinal": "2024-06-20T00:00:00",
+          "PercentualSobreBenchmark": 0.9472318219759022,
+          "PercentualAcumuladoBenchmark": 14.875724899747373,
+          "PercentualAcumulado": 14.09076,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-06-21T00:00:00Z",
+          "DataFinal": "2024-06-21T00:00:00",
+          "PercentualSobreBenchmark": 0.9555697734942048,
+          "PercentualAcumuladoBenchmark": 14.920836128861152,
+          "PercentualAcumulado": 14.2579,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-06-24T00:00:00Z",
+          "DataFinal": "2024-06-24T00:00:00",
+          "PercentualSobreBenchmark": 0.9678834561869394,
+          "PercentualAcumuladoBenchmark": 14.965965072970802,
+          "PercentualAcumulado": 14.48531,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-06-25T00:00:00Z",
+          "DataFinal": "2024-06-25T00:00:00",
+          "PercentualSobreBenchmark": 0.9733616173149152,
+          "PercentualAcumuladoBenchmark": 15.011111739032927,
+          "PercentualAcumulado": 14.61124,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-06-26T00:00:00Z",
+          "DataFinal": "2024-06-26T00:00:00",
+          "PercentualSobreBenchmark": 0.9605808150219599,
+          "PercentualAcumuladoBenchmark": 15.056276134006868,
+          "PercentualAcumulado": 14.46277,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-06-27T00:00:00Z",
+          "DataFinal": "2024-06-27T00:00:00",
+          "PercentualSobreBenchmark": 0.9581412434634983,
+          "PercentualAcumuladoBenchmark": 15.101458264854696,
+          "PercentualAcumulado": 14.46933,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-06-28T00:00:00Z",
+          "DataFinal": "2024-06-28T00:00:00",
+          "PercentualSobreBenchmark": 0.9346187040413001,
+          "PercentualAcumuladoBenchmark": 15.146658138541214,
+          "PercentualAcumulado": 14.15635,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-07-01T00:00:00Z",
+          "DataFinal": "2024-07-01T00:00:00",
+          "PercentualSobreBenchmark": 0.9009012589612961,
+          "PercentualAcumuladoBenchmark": 15.191875762033966,
+          "PercentualAcumulado": 13.68638,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-07-02T00:00:00Z",
+          "DataFinal": "2024-07-02T00:00:00",
+          "PercentualSobreBenchmark": 0.9107310349317554,
+          "PercentualAcumuladoBenchmark": 15.237111142303227,
+          "PercentualAcumulado": 13.87691,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-07-03T00:00:00Z",
+          "DataFinal": "2024-07-03T00:00:00",
+          "PercentualSobreBenchmark": 0.9280350693311017,
+          "PercentualAcumuladoBenchmark": 15.28236428632201,
+          "PercentualAcumulado": 14.18257,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-07-04T00:00:00Z",
+          "DataFinal": "2024-07-04T00:00:00",
+          "PercentualSobreBenchmark": 0.9514155190088113,
+          "PercentualAcumuladoBenchmark": 15.32763520106607,
+          "PercentualAcumulado": 14.58295,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-07-05T00:00:00Z",
+          "DataFinal": "2024-07-05T00:00:00",
+          "PercentualSobreBenchmark": 0.9574450574239876,
+          "PercentualAcumuladoBenchmark": 15.372923893513894,
+          "PercentualAcumulado": 14.71873,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-07-08T00:00:00Z",
+          "DataFinal": "2024-07-08T00:00:00",
+          "PercentualSobreBenchmark": 0.9642053363207358,
+          "PercentualAcumuladoBenchmark": 15.418230370646716,
+          "PercentualAcumulado": 14.86634,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-07-09T00:00:00Z",
+          "DataFinal": "2024-07-09T00:00:00",
+          "PercentualSobreBenchmark": 0.9708485758960924,
+          "PercentualAcumuladoBenchmark": 15.463554639448512,
+          "PercentualAcumulado": 15.01277,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-07-10T00:00:00Z",
+          "DataFinal": "2024-07-10T00:00:00",
+          "PercentualSobreBenchmark": 0.9837914513419863,
+          "PercentualAcumuladoBenchmark": 15.508896706905993,
+          "PercentualAcumulado": 15.25752,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-07-11T00:00:00Z",
+          "DataFinal": "2024-07-11T00:00:00",
+          "PercentualSobreBenchmark": 0.9893002549396976,
+          "PercentualAcumuladoBenchmark": 15.554256580008623,
+          "PercentualAcumulado": 15.38783,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-07-12T00:00:00Z",
+          "DataFinal": "2024-07-12T00:00:00",
+          "PercentualSobreBenchmark": 0.9930072549208341,
+          "PercentualAcumuladoBenchmark": 15.599634265748602,
+          "PercentualAcumulado": 15.49055,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-07-15T00:00:00Z",
+          "DataFinal": "2024-07-15T00:00:00",
+          "PercentualSobreBenchmark": 0.9928610061626695,
+          "PercentualAcumuladoBenchmark": 15.645029771120884,
+          "PercentualAcumulado": 15.53334,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-07-16T00:00:00Z",
+          "DataFinal": "2024-07-16T00:00:00",
+          "PercentualSobreBenchmark": 0.9999054772951015,
+          "PercentualAcumuladoBenchmark": 15.690443103123163,
+          "PercentualAcumulado": 15.68896,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-07-17T00:00:00Z",
+          "DataFinal": "2024-07-17T00:00:00",
+          "PercentualSobreBenchmark": 0.9938583476770796,
+          "PercentualAcumuladoBenchmark": 15.735874268755888,
+          "PercentualAcumulado": 15.63923,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-07-18T00:00:00Z",
+          "DataFinal": "2024-07-18T00:00:00",
+          "PercentualSobreBenchmark": 0.9733923912650059,
+          "PercentualAcumuladoBenchmark": 15.781323275022249,
+          "PercentualAcumulado": 15.36142,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-07-19T00:00:00Z",
+          "DataFinal": "2024-07-19T00:00:00",
+          "PercentualSobreBenchmark": 0.9694157738249499,
+          "PercentualAcumuladoBenchmark": 15.82679012892819,
+          "PercentualAcumulado": 15.34274,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-07-22T00:00:00Z",
+          "DataFinal": "2024-07-22T00:00:00",
+          "PercentualSobreBenchmark": 0.9745685579656687,
+          "PercentualAcumuladoBenchmark": 15.87227483748241,
+          "PercentualAcumulado": 15.46862,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-07-23T00:00:00Z",
+          "DataFinal": "2024-07-23T00:00:00",
+          "PercentualSobreBenchmark": 0.9627386793705522,
+          "PercentualAcumuladoBenchmark": 15.917777407696352,
+          "PercentualAcumulado": 15.32466,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-07-24T00:00:00Z",
+          "DataFinal": "2024-07-24T00:00:00",
+          "PercentualSobreBenchmark": 0.962113853140087,
+          "PercentualAcumuladoBenchmark": 15.963297846584222,
+          "PercentualAcumulado": 15.35851,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-07-25T00:00:00Z",
+          "DataFinal": "2024-07-25T00:00:00",
+          "PercentualSobreBenchmark": 0.9549969683048692,
+          "PercentualAcumuladoBenchmark": 16.00883616116297,
+          "PercentualAcumulado": 15.28839,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-07-26T00:00:00Z",
+          "DataFinal": "2024-07-26T00:00:00",
+          "PercentualSobreBenchmark": 0.9584579507239221,
+          "PercentualAcumuladoBenchmark": 16.054392358452315,
+          "PercentualAcumulado": 15.38746,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-07-29T00:00:00Z",
+          "DataFinal": "2024-07-29T00:00:00",
+          "PercentualSobreBenchmark": 0.9634343060609182,
+          "PercentualAcumuladoBenchmark": 16.099966445474717,
+          "PercentualAcumulado": 15.51126,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-07-30T00:00:00Z",
+          "DataFinal": "2024-07-30T00:00:00",
+          "PercentualSobreBenchmark": 0.9717161576506425,
+          "PercentualAcumuladoBenchmark": 16.145558429255402,
+          "PercentualAcumulado": 15.6889,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-07-31T00:00:00Z",
+          "DataFinal": "2024-07-31T00:00:00",
+          "PercentualSobreBenchmark": 0.9765268132981187,
+          "PercentualAcumuladoBenchmark": 16.191168316822356,
+          "PercentualAcumulado": 15.81111,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-08-01T00:00:00Z",
+          "DataFinal": "2024-08-01T00:00:00",
+          "PercentualSobreBenchmark": 0.9875784536693518,
+          "PercentualAcumuladoBenchmark": 16.236796115206324,
+          "PercentualAcumulado": 16.03511,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-08-02T00:00:00Z",
+          "DataFinal": "2024-08-02T00:00:00",
+          "PercentualSobreBenchmark": 1.0258811407356276,
+          "PercentualAcumuladoBenchmark": 16.28244183144081,
+          "PercentualAcumulado": 16.70385,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-08-05T00:00:00Z",
+          "DataFinal": "2024-08-05T00:00:00",
+          "PercentualSobreBenchmark": 1.0364184643734184,
+          "PercentualAcumuladoBenchmark": 16.32810547256208,
+          "PercentualAcumulado": 16.92275,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-08-06T00:00:00Z",
+          "DataFinal": "2024-08-06T00:00:00",
+          "PercentualSobreBenchmark": 1.0134185789627548,
+          "PercentualAcumuladoBenchmark": 16.373787045609163,
+          "PercentualAcumulado": 16.5935,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-08-07T00:00:00Z",
+          "DataFinal": "2024-08-07T00:00:00",
+          "PercentualSobreBenchmark": 1.0169495825219286,
+          "PercentualAcumuladoBenchmark": 16.419486557623856,
+          "PercentualAcumulado": 16.69779,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-08-08T00:00:00Z",
+          "DataFinal": "2024-08-08T00:00:00",
+          "PercentualSobreBenchmark": 1.0190356575024129,
+          "PercentualAcumuladoBenchmark": 16.46520401565072,
+          "PercentualAcumulado": 16.77863,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-08-09T00:00:00Z",
+          "DataFinal": "2024-08-09T00:00:00",
+          "PercentualSobreBenchmark": 1.0239459768486996,
+          "PercentualAcumuladoBenchmark": 16.510939426737075,
+          "PercentualAcumulado": 16.90631,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-08-12T00:00:00Z",
+          "DataFinal": "2024-08-12T00:00:00",
+          "PercentualSobreBenchmark": 1.0205250653747353,
+          "PercentualAcumuladoBenchmark": 16.556692797933017,
+          "PercentualAcumulado": 16.89652,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-08-13T00:00:00Z",
+          "DataFinal": "2024-08-13T00:00:00",
+          "PercentualSobreBenchmark": 1.0303121187058324,
+          "PercentualAcumuladoBenchmark": 16.60246413629141,
+          "PercentualAcumulado": 17.10572,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-08-14T00:00:00Z",
+          "DataFinal": "2024-08-14T00:00:00",
+          "PercentualSobreBenchmark": 1.0257868822366656,
+          "PercentualAcumuladoBenchmark": 16.64825344886788,
+          "PercentualAcumulado": 17.07756,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-08-15T00:00:00Z",
+          "DataFinal": "2024-08-15T00:00:00",
+          "PercentualSobreBenchmark": 1.0188881100972784,
+          "PercentualAcumuladoBenchmark": 16.694060742720836,
+          "PercentualAcumulado": 17.00938,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-08-16T00:00:00Z",
+          "DataFinal": "2024-08-16T00:00:00",
+          "PercentualSobreBenchmark": 1.000960817478961,
+          "PercentualAcumuladoBenchmark": 16.73988602491145,
+          "PercentualAcumulado": 16.75597,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-08-19T00:00:00Z",
+          "DataFinal": "2024-08-19T00:00:00",
+          "PercentualSobreBenchmark": 0.9972411504040662,
+          "PercentualAcumuladoBenchmark": 16.785729302503665,
+          "PercentualAcumulado": 16.73942,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-08-20T00:00:00Z",
+          "DataFinal": "2024-08-20T00:00:00",
+          "PercentualSobreBenchmark": 0.9950782677277084,
+          "PercentualAcumuladoBenchmark": 16.831590582564207,
+          "PercentualAcumulado": 16.74875,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-08-21T00:00:00Z",
+          "DataFinal": "2024-08-21T00:00:00",
+          "PercentualSobreBenchmark": 1.0002666352167426,
+          "PercentualAcumuladoBenchmark": 16.877469872162568,
+          "PercentualAcumulado": 16.88197,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-08-22T00:00:00Z",
+          "DataFinal": "2024-08-22T00:00:00",
+          "PercentualSobreBenchmark": 0.9880291447774092,
+          "PercentualAcumuladoBenchmark": 16.923367178371024,
+          "PercentualAcumulado": 16.72078,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-08-23T00:00:00Z",
+          "DataFinal": "2024-08-23T00:00:00",
+          "PercentualSobreBenchmark": 1.0059022820609298,
+          "PercentualAcumuladoBenchmark": 16.96928250826462,
+          "PercentualAcumulado": 17.06944,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-08-26T00:00:00Z",
+          "DataFinal": "2024-08-26T00:00:00",
+          "PercentualSobreBenchmark": 1.0097585674115424,
+          "PercentualAcumuladoBenchmark": 17.01521586892119,
+          "PercentualAcumulado": 17.18126,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-08-27T00:00:00Z",
+          "DataFinal": "2024-08-27T00:00:00",
+          "PercentualSobreBenchmark": 1.0050918399202706,
+          "PercentualAcumuladoBenchmark": 17.061167267421332,
+          "PercentualAcumulado": 17.14804,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-08-28T00:00:00Z",
+          "DataFinal": "2024-08-28T00:00:00",
+          "PercentualSobreBenchmark": 0.9877211064365182,
+          "PercentualAcumuladoBenchmark": 17.10713671084844,
+          "PercentualAcumulado": 16.89708,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-08-29T00:00:00Z",
+          "DataFinal": "2024-08-29T00:00:00",
+          "PercentualSobreBenchmark": 0.9779862722529435,
+          "PercentualAcumuladoBenchmark": 17.153124206288684,
+          "PercentualAcumulado": 16.77552,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-08-30T00:00:00Z",
+          "DataFinal": "2024-08-30T00:00:00",
+          "PercentualSobreBenchmark": 0.9789344132017581,
+          "PercentualAcumuladoBenchmark": 17.19912976083101,
+          "PercentualAcumulado": 16.83682,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-09-02T00:00:00Z",
+          "DataFinal": "2024-09-02T00:00:00",
+          "PercentualSobreBenchmark": 0.9814635814194126,
+          "PercentualAcumuladoBenchmark": 17.24515338156716,
+          "PercentualAcumulado": 16.92549,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-09-03T00:00:00Z",
+          "DataFinal": "2024-09-03T00:00:00",
+          "PercentualSobreBenchmark": 0.9768376289874255,
+          "PercentualAcumuladoBenchmark": 17.291195075591656,
+          "PercentualAcumulado": 16.89069,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-09-04T00:00:00Z",
+          "DataFinal": "2024-09-04T00:00:00",
+          "PercentualSobreBenchmark": 0.9921836039687804,
+          "PercentualAcumuladoBenchmark": 17.3372548500018,
+          "PercentualAcumulado": 17.20174,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-09-05T00:00:00Z",
+          "DataFinal": "2024-09-05T00:00:00",
+          "PercentualSobreBenchmark": 0.9979858458399223,
+          "PercentualAcumuladoBenchmark": 17.383332711897683,
+          "PercentualAcumulado": 17.34832,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-09-06T00:00:00Z",
+          "DataFinal": "2024-09-06T00:00:00",
+          "PercentualSobreBenchmark": 0.9929424727153945,
+          "PercentualAcumuladoBenchmark": 17.429428668382194,
+          "PercentualAcumulado": 17.30642,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-09-09T00:00:00Z",
+          "DataFinal": "2024-09-09T00:00:00",
+          "PercentualSobreBenchmark": 0.9927056499156817,
+          "PercentualAcumuladoBenchmark": 17.475542726561,
+          "PercentualAcumulado": 17.34807,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-09-10T00:00:00Z",
+          "DataFinal": "2024-09-10T00:00:00",
+          "PercentualSobreBenchmark": 0.9877172191100362,
+          "PercentualAcumuladoBenchmark": 17.521674893542563,
+          "PercentualAcumulado": 17.30646,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-09-11T00:00:00Z",
+          "DataFinal": "2024-09-11T00:00:00",
+          "PercentualSobreBenchmark": 0.9913384169690952,
+          "PercentualAcumuladoBenchmark": 17.567825176438138,
+          "PercentualAcumulado": 17.41566,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-09-12T00:00:00Z",
+          "DataFinal": "2024-09-12T00:00:00",
+          "PercentualSobreBenchmark": 0.9799350680634015,
+          "PercentualAcumuladoBenchmark": 17.613993582361772,
+          "PercentualAcumulado": 17.26057,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-09-13T00:00:00Z",
+          "DataFinal": "2024-09-13T00:00:00",
+          "PercentualSobreBenchmark": 0.9898081380131305,
+          "PercentualAcumuladoBenchmark": 17.6601801184303,
+          "PercentualAcumulado": 17.48019,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-09-16T00:00:00Z",
+          "DataFinal": "2024-09-16T00:00:00",
+          "PercentualSobreBenchmark": 0.9815419807257668,
+          "PercentualAcumuladoBenchmark": 17.706384791763355,
+          "PercentualAcumulado": 17.37956,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-09-17T00:00:00Z",
+          "DataFinal": "2024-09-17T00:00:00",
+          "PercentualSobreBenchmark": 0.9885015421974218,
+          "PercentualAcumuladoBenchmark": 17.752607609483373,
+          "PercentualAcumulado": 17.54848,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-09-18T00:00:00Z",
+          "DataFinal": "2024-09-18T00:00:00",
+          "PercentualSobreBenchmark": 0.9904915996129121,
+          "PercentualAcumuladoBenchmark": 17.798848578715578,
+          "PercentualAcumulado": 17.62961,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-09-19T00:00:00Z",
+          "DataFinal": "2024-09-19T00:00:00",
+          "PercentualSobreBenchmark": 0.9606453646492297,
+          "PercentualAcumuladoBenchmark": 17.845107706587992,
+          "PercentualAcumulado": 17.14282,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-09-20T00:00:00Z",
+          "DataFinal": "2024-09-20T00:00:00",
+          "PercentualSobreBenchmark": 0.9442254376073548,
+          "PercentualAcumuladoBenchmark": 17.892443189001842,
+          "PercentualAcumulado": 16.8945,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-09-23T00:00:00Z",
+          "DataFinal": "2024-09-23T00:00:00",
+          "PercentualSobreBenchmark": 0.9359888163130857,
+          "PercentualAcumuladoBenchmark": 17.939797684915185,
+          "PercentualAcumulado": 16.79145,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-09-24T00:00:00Z",
+          "DataFinal": "2024-09-24T00:00:00",
+          "PercentualSobreBenchmark": 0.9579088232682996,
+          "PercentualAcumuladoBenchmark": 17.98717120196527,
+          "PercentualAcumulado": 17.23007,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-09-25T00:00:00Z",
+          "DataFinal": "2024-09-25T00:00:00",
+          "PercentualSobreBenchmark": 0.9598180605903964,
+          "PercentualAcumuladoBenchmark": 18.03456374779243,
+          "PercentualAcumulado": 17.3099,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-09-26T00:00:00Z",
+          "DataFinal": "2024-09-26T00:00:00",
+          "PercentualSobreBenchmark": 0.9474130833227976,
+          "PercentualAcumuladoBenchmark": 18.081975330040045,
+          "PercentualAcumulado": 17.1311,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-09-27T00:00:00Z",
+          "DataFinal": "2024-09-27T00:00:00",
+          "PercentualSobreBenchmark": 0.9522424530379549,
+          "PercentualAcumuladoBenchmark": 18.129405956354585,
+          "PercentualAcumulado": 17.26359,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-09-30T00:00:00Z",
+          "DataFinal": "2024-09-30T00:00:00",
+          "PercentualSobreBenchmark": 0.9399496999733706,
+          "PercentualAcumuladoBenchmark": 18.176855634385582,
+          "PercentualAcumulado": 17.08533,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-10-01T00:00:00Z",
+          "DataFinal": "2024-10-01T00:00:00",
+          "PercentualSobreBenchmark": 0.9412299545412065,
+          "PercentualAcumuladoBenchmark": 18.22432437178564,
+          "PercentualAcumulado": 17.15328,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-10-02T00:00:00Z",
+          "DataFinal": "2024-10-02T00:00:00",
+          "PercentualSobreBenchmark": 0.9557114440315861,
+          "PercentualAcumuladoBenchmark": 18.271812176210442,
+          "PercentualAcumulado": 17.46258,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-10-03T00:00:00Z",
+          "DataFinal": "2024-10-03T00:00:00",
+          "PercentualSobreBenchmark": 0.946655819882398,
+          "PercentualAcumuladoBenchmark": 18.31931905531874,
+          "PercentualAcumulado": 17.34209,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-10-04T00:00:00Z",
+          "DataFinal": "2024-10-04T00:00:00",
+          "PercentualSobreBenchmark": 0.9439661511907708,
+          "PercentualAcumuladoBenchmark": 18.366845016772366,
+          "PercentualAcumulado": 17.33768,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-10-07T00:00:00Z",
+          "DataFinal": "2024-10-07T00:00:00",
+          "PercentualSobreBenchmark": 0.9469729888083249,
+          "PercentualAcumuladoBenchmark": 18.414390068236234,
+          "PercentualAcumulado": 17.43793,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-10-08T00:00:00Z",
+          "DataFinal": "2024-10-08T00:00:00",
+          "PercentualSobreBenchmark": 0.9507736718075678,
+          "PercentualAcumuladoBenchmark": 18.461954217378324,
+          "PercentualAcumulado": 17.55314,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-10-09T00:00:00Z",
+          "DataFinal": "2024-10-09T00:00:00",
+          "PercentualSobreBenchmark": 0.9177765800910651,
+          "PercentualAcumuladoBenchmark": 18.509537471869706,
+          "PercentualAcumulado": 16.98762,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-10-10T00:00:00Z",
+          "DataFinal": "2024-10-10T00:00:00",
+          "PercentualSobreBenchmark": 0.9249717439521805,
+          "PercentualAcumuladoBenchmark": 18.557139839384533,
+          "PercentualAcumulado": 17.16483,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-10-11T00:00:00Z",
+          "DataFinal": "2024-10-11T00:00:00",
+          "PercentualSobreBenchmark": 0.9294018716783256,
+          "PercentualAcumuladoBenchmark": 18.604761327600034,
+          "PercentualAcumulado": 17.2913,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-10-14T00:00:00Z",
+          "DataFinal": "2024-10-14T00:00:00",
+          "PercentualSobreBenchmark": 0.9443668463020983,
+          "PercentualAcumuladoBenchmark": 18.652401944196523,
+          "PercentualAcumulado": 17.61471,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-10-15T00:00:00Z",
+          "DataFinal": "2024-10-15T00:00:00",
+          "PercentualSobreBenchmark": 0.9305498710158985,
+          "PercentualAcumuladoBenchmark": 18.700061696857404,
+          "PercentualAcumulado": 17.40134,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-10-16T00:00:00Z",
+          "DataFinal": "2024-10-16T00:00:00",
+          "PercentualSobreBenchmark": 0.9325395725966453,
+          "PercentualAcumuladoBenchmark": 18.74774059326916,
+          "PercentualAcumulado": 17.48301,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-10-17T00:00:00Z",
+          "DataFinal": "2024-10-17T00:00:00",
+          "PercentualSobreBenchmark": 0.9303358295529917,
+          "PercentualAcumuladoBenchmark": 18.795438641121365,
+          "PercentualAcumulado": 17.48607,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-10-18T00:00:00Z",
+          "DataFinal": "2024-10-18T00:00:00",
+          "PercentualSobreBenchmark": 0.9261856209586867,
+          "PercentualAcumuladoBenchmark": 18.843155848106687,
+          "PercentualAcumulado": 17.45226,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-10-21T00:00:00Z",
+          "DataFinal": "2024-10-21T00:00:00",
+          "PercentualSobreBenchmark": 0.9266105483195701,
+          "PercentualAcumuladoBenchmark": 18.890892221920872,
+          "PercentualAcumulado": 17.5045,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-10-22T00:00:00Z",
+          "DataFinal": "2024-10-22T00:00:00",
+          "PercentualSobreBenchmark": 0.9247645456239986,
+          "PercentualAcumuladoBenchmark": 18.938647770262765,
+          "PercentualAcumulado": 17.51379,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-10-23T00:00:00Z",
+          "DataFinal": "2024-10-23T00:00:00",
+          "PercentualSobreBenchmark": 0.9164649106083775,
+          "PercentualAcumuladoBenchmark": 18.98642250083431,
+          "PercentualAcumulado": 17.40039,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-10-24T00:00:00Z",
+          "DataFinal": "2024-10-24T00:00:00",
+          "PercentualSobreBenchmark": 0.9489374083058748,
+          "PercentualAcumuladoBenchmark": 19.034216421340524,
+          "PercentualAcumulado": 18.06228,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-10-25T00:00:00Z",
+          "DataFinal": "2024-10-25T00:00:00",
+          "PercentualSobreBenchmark": 0.9369999120375693,
+          "PercentualAcumuladoBenchmark": 19.082029539489543,
+          "PercentualAcumulado": 17.87986,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-10-28T00:00:00Z",
+          "DataFinal": "2024-10-28T00:00:00",
+          "PercentualSobreBenchmark": 0.9318012920147405,
+          "PercentualAcumuladoBenchmark": 19.129861862992584,
+          "PercentualAcumulado": 17.82523,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-10-29T00:00:00Z",
+          "DataFinal": "2024-10-29T00:00:00",
+          "PercentualSobreBenchmark": 0.9199209328261793,
+          "PercentualAcumuladoBenchmark": 19.177713399563963,
+          "PercentualAcumulado": 17.64198,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-10-30T00:00:00Z",
+          "DataFinal": "2024-10-30T00:00:00",
+          "PercentualSobreBenchmark": 0.9178389512626351,
+          "PercentualAcumuladoBenchmark": 19.225584156921105,
+          "PercentualAcumulado": 17.64599,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-10-31T00:00:00Z",
+          "DataFinal": "2024-10-31T00:00:00",
+          "PercentualSobreBenchmark": 0.9140023157991455,
+          "PercentualAcumuladoBenchmark": 19.27347414278452,
+          "PercentualAcumulado": 17.616,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-11-01T00:00:00Z",
+          "DataFinal": "2024-11-01T00:00:00",
+          "PercentualSobreBenchmark": 0.8953468637989207,
+          "PercentualAcumuladoBenchmark": 19.321383364877825,
+          "PercentualAcumulado": 17.29934,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-11-04T00:00:00Z",
+          "DataFinal": "2024-11-04T00:00:00",
+          "PercentualSobreBenchmark": 0.9154217844584476,
+          "PercentualAcumuladoBenchmark": 19.369311830927746,
+          "PercentualAcumulado": 17.73109,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-11-05T00:00:00Z",
+          "DataFinal": "2024-11-05T00:00:00",
+          "PercentualSobreBenchmark": 0.9134739099277428,
+          "PercentualAcumuladoBenchmark": 19.417259548664106,
+          "PercentualAcumulado": 17.73716,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-11-06T00:00:00Z",
+          "DataFinal": "2024-11-06T00:00:00",
+          "PercentualSobreBenchmark": 0.909339533065336,
+          "PercentualAcumuladoBenchmark": 19.465226525819833,
+          "PercentualAcumulado": 17.7005,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-11-07T00:00:00Z",
+          "DataFinal": "2024-11-07T00:00:00",
+          "PercentualSobreBenchmark": 0.9186580503769954,
+          "PercentualAcumuladoBenchmark": 19.513212770130963,
+          "PercentualAcumulado": 17.92597,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-11-08T00:00:00Z",
+          "DataFinal": "2024-11-08T00:00:00",
+          "PercentualSobreBenchmark": 0.9143103423405319,
+          "PercentualAcumuladoBenchmark": 19.56335739811423,
+          "PercentualAcumulado": 17.88698,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-11-11T00:00:00Z",
+          "DataFinal": "2024-11-11T00:00:00",
+          "PercentualSobreBenchmark": 0.9073688567112163,
+          "PercentualAcumuladoBenchmark": 19.61352306547597,
+          "PercentualAcumulado": 17.7967,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-11-12T00:00:00Z",
+          "DataFinal": "2024-11-12T00:00:00",
+          "PercentualSobreBenchmark": 0.8911604267518766,
+          "PercentualAcumuladoBenchmark": 19.663709781043753,
+          "PercentualAcumulado": 17.52352,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-11-13T00:00:00Z",
+          "DataFinal": "2024-11-13T00:00:00",
+          "PercentualSobreBenchmark": 0.8892616067959161,
+          "PercentualAcumuladoBenchmark": 19.71391755364886,
+          "PercentualAcumulado": 17.53083,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-11-14T00:00:00Z",
+          "DataFinal": "2024-11-14T00:00:00",
+          "PercentualSobreBenchmark": 0.8894702382392518,
+          "PercentualAcumuladoBenchmark": 19.764146392126268,
+          "PercentualAcumulado": 17.57962,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-11-18T00:00:00Z",
+          "DataFinal": "2024-11-18T00:00:00",
+          "PercentualSobreBenchmark": 0.8816084896472236,
+          "PercentualAcumuladoBenchmark": 19.814396305314677,
+          "PercentualAcumulado": 17.46854,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-11-19T00:00:00Z",
+          "DataFinal": "2024-11-19T00:00:00",
+          "PercentualSobreBenchmark": 0.8904845840619104,
+          "PercentualAcumuladoBenchmark": 19.864667302056482,
+          "PercentualAcumulado": 17.68918,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-11-21T00:00:00Z",
+          "DataFinal": "2024-11-21T00:00:00",
+          "PercentualSobreBenchmark": 0.8973847070910406,
+          "PercentualAcumuladoBenchmark": 19.914959391197794,
+          "PercentualAcumulado": 17.87138,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-11-22T00:00:00Z",
+          "DataFinal": "2024-11-22T00:00:00",
+          "PercentualSobreBenchmark": 0.8893873062557139,
+          "PercentualAcumuladoBenchmark": 19.965272581588433,
+          "PercentualAcumulado": 17.75686,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-11-25T00:00:00Z",
+          "DataFinal": "2024-11-25T00:00:00",
+          "PercentualSobreBenchmark": 0.889498884789654,
+          "PercentualAcumuladoBenchmark": 20.01560688208193,
+          "PercentualAcumulado": 17.80386,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-11-26T00:00:00Z",
+          "DataFinal": "2024-11-26T00:00:00",
+          "PercentualSobreBenchmark": 0.8886042808241255,
+          "PercentualAcumuladoBenchmark": 20.06596230153554,
+          "PercentualAcumulado": 17.8307,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-11-27T00:00:00Z",
+          "DataFinal": "2024-11-27T00:00:00",
+          "PercentualSobreBenchmark": 0.8716839645518852,
+          "PercentualAcumuladoBenchmark": 20.11633884881022,
+          "PercentualAcumulado": 17.53509,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-11-28T00:00:00Z",
+          "DataFinal": "2024-11-28T00:00:00",
+          "PercentualSobreBenchmark": 0.8600573509658022,
+          "PercentualAcumuladoBenchmark": 20.16673653277066,
+          "PercentualAcumulado": 17.34455,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-11-29T00:00:00Z",
+          "DataFinal": "2024-11-29T00:00:00",
+          "PercentualSobreBenchmark": 0.8507957569583474,
+          "PercentualAcumuladoBenchmark": 20.217155362285258,
+          "PercentualAcumulado": 17.20067,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-12-02T00:00:00Z",
+          "DataFinal": "2024-12-02T00:00:00",
+          "PercentualSobreBenchmark": 0.8622019386850364,
+          "PercentualAcumuladoBenchmark": 20.26759534622614,
+          "PercentualAcumulado": 17.47476,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-12-03T00:00:00Z",
+          "DataFinal": "2024-12-03T00:00:00",
+          "PercentualSobreBenchmark": 0.8453584133660081,
+          "PercentualAcumuladoBenchmark": 20.31805649346915,
+          "PercentualAcumulado": 17.17604,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-12-04T00:00:00Z",
+          "DataFinal": "2024-12-04T00:00:00",
+          "PercentualSobreBenchmark": 0.8468756722539421,
+          "PercentualAcumuladoBenchmark": 20.36853881289386,
+          "PercentualAcumulado": 17.24962,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-12-05T00:00:00Z",
+          "DataFinal": "2024-12-05T00:00:00",
+          "PercentualSobreBenchmark": 0.8362669383768194,
+          "PercentualAcumuladoBenchmark": 20.419042313383564,
+          "PercentualAcumulado": 17.07577,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-12-06T00:00:00Z",
+          "DataFinal": "2024-12-06T00:00:00",
+          "PercentualSobreBenchmark": 0.8133024991143628,
+          "PercentualAcumuladoBenchmark": 20.46956700382528,
+          "PercentualAcumulado": 16.64795,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-12-09T00:00:00Z",
+          "DataFinal": "2024-12-09T00:00:00",
+          "PercentualSobreBenchmark": 0.8072406855793701,
+          "PercentualAcumuladoBenchmark": 20.52011289310977,
+          "PercentualAcumulado": 16.56467,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-12-10T00:00:00Z",
+          "DataFinal": "2024-12-10T00:00:00",
+          "PercentualSobreBenchmark": 0.8260339477426957,
+          "PercentualAcumuladoBenchmark": 20.570679990131502,
+          "PercentualAcumulado": 16.99208,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-12-11T00:00:00Z",
+          "DataFinal": "2024-12-11T00:00:00",
+          "PercentualSobreBenchmark": 0.8354733446164726,
+          "PercentualAcumuladoBenchmark": 20.6212683037887,
+          "PercentualAcumulado": 17.22852,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-12-12T00:00:00Z",
+          "DataFinal": "2024-12-12T00:00:00",
+          "PercentualSobreBenchmark": 0.7941131485339173,
+          "PercentualAcumuladoBenchmark": 20.67187784298331,
+          "PercentualAcumulado": 16.41581,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-12-13T00:00:00Z",
+          "DataFinal": "2024-12-13T00:00:00",
+          "PercentualSobreBenchmark": 0.7786358938180818,
+          "PercentualAcumuladoBenchmark": 20.726799429786603,
+          "PercentualAcumulado": 16.13863,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-12-16T00:00:00Z",
+          "DataFinal": "2024-12-16T00:00:00",
+          "PercentualSobreBenchmark": 0.7606372433771864,
+          "PercentualAcumuladoBenchmark": 20.781746013140467,
+          "PercentualAcumulado": 15.80737,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-12-17T00:00:00Z",
+          "DataFinal": "2024-12-17T00:00:00",
+          "PercentualSobreBenchmark": 0.7544662407222927,
+          "PercentualAcumuladoBenchmark": 20.836717604421622,
+          "PercentualAcumulado": 15.7206,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-12-18T00:00:00Z",
+          "DataFinal": "2024-12-18T00:00:00",
+          "PercentualSobreBenchmark": 0.7342068650823353,
+          "PercentualAcumuladoBenchmark": 20.89171421501197,
+          "PercentualAcumulado": 15.33884,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-12-19T00:00:00Z",
+          "DataFinal": "2024-12-19T00:00:00",
+          "PercentualSobreBenchmark": 0.765806191000232,
+          "PercentualAcumuladoBenchmark": 20.946735856298584,
+          "PercentualAcumulado": 16.04114,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-12-20T00:00:00Z",
+          "DataFinal": "2024-12-20T00:00:00",
+          "PercentualSobreBenchmark": 0.7839915478077222,
+          "PercentualAcumuladoBenchmark": 21.001782539673727,
+          "PercentualAcumulado": 16.46522,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-12-23T00:00:00Z",
+          "DataFinal": "2024-12-23T00:00:00",
+          "PercentualSobreBenchmark": 0.7750559407245747,
+          "PercentualAcumuladoBenchmark": 21.056854276534846,
+          "PercentualAcumulado": 16.32024,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-12-24T00:00:00Z",
+          "DataFinal": "2024-12-24T00:00:00",
+          "PercentualSobreBenchmark": 0.7761878539428432,
+          "PercentualAcumuladoBenchmark": 21.111951078284577,
+          "PercentualAcumulado": 16.38684,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-12-26T00:00:00Z",
+          "DataFinal": "2024-12-26T00:00:00",
+          "PercentualSobreBenchmark": 0.7771504370933849,
+          "PercentualAcumuladoBenchmark": 21.16707295633074,
+          "PercentualAcumulado": 16.45,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-12-27T00:00:00Z",
+          "DataFinal": "2024-12-27T00:00:00",
+          "PercentualSobreBenchmark": 0.7758179898449273,
+          "PercentualAcumuladoBenchmark": 21.22221992208635,
+          "PercentualAcumulado": 16.46458,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-12-30T00:00:00Z",
+          "DataFinal": "2024-12-30T00:00:00",
+          "PercentualSobreBenchmark": 0.7720701865181772,
+          "PercentualAcumuladoBenchmark": 21.277391986969615,
+          "PercentualAcumulado": 16.42764,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2024-12-31T00:00:00Z",
+          "DataFinal": "2024-12-31T00:00:00",
+          "PercentualSobreBenchmark": 0.7729689947369625,
+          "PercentualAcumuladoBenchmark": 21.33258916240395,
+          "PercentualAcumulado": 16.48943,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-01-02T00:00:00Z",
+          "DataFinal": "2025-01-02T00:00:00",
+          "PercentualSobreBenchmark": 0.793707202435966,
+          "PercentualAcumuladoBenchmark": 21.38781145981795,
+          "PercentualAcumulado": 16.97566,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-01-03T00:00:00Z",
+          "DataFinal": "2025-01-03T00:00:00",
+          "PercentualSobreBenchmark": 0.8120669764889066,
+          "PercentualAcumuladoBenchmark": 21.44305889064543,
+          "PercentualAcumulado": 17.4132,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-01-06T00:00:00Z",
+          "DataFinal": "2025-01-06T00:00:00",
+          "PercentualSobreBenchmark": 0.8145483302938924,
+          "PercentualAcumuladoBenchmark": 21.498331466325396,
+          "PercentualAcumulado": 17.51143,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-01-07T00:00:00Z",
+          "DataFinal": "2025-01-07T00:00:00",
+          "PercentualSobreBenchmark": 0.808184080728838,
+          "PercentualAcumuladoBenchmark": 21.55362919830207,
+          "PercentualAcumulado": 17.4193,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-01-08T00:00:00Z",
+          "DataFinal": "2025-01-08T00:00:00",
+          "PercentualSobreBenchmark": 0.8130741333637332,
+          "PercentualAcumuladoBenchmark": 21.608952098024876,
+          "PercentualAcumulado": 17.56968,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-01-09T00:00:00Z",
+          "DataFinal": "2025-01-09T00:00:00",
+          "PercentualSobreBenchmark": 0.8097132082145513,
+          "PercentualAcumuladoBenchmark": 21.664300176948448,
+          "PercentualAcumulado": 17.54187,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-01-10T00:00:00Z",
+          "DataFinal": "2025-01-10T00:00:00",
+          "PercentualSobreBenchmark": 0.8051179978855361,
+          "PercentualAcumuladoBenchmark": 21.71967344653264,
+          "PercentualAcumulado": 17.4869,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-01-13T00:00:00Z",
+          "DataFinal": "2025-01-13T00:00:00",
+          "PercentualSobreBenchmark": 0.8040795486572683,
+          "PercentualAcumuladoBenchmark": 21.775071918242517,
+          "PercentualAcumulado": 17.50889,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-01-14T00:00:00Z",
+          "DataFinal": "2025-01-14T00:00:00",
+          "PercentualSobreBenchmark": 0.8109481489335707,
+          "PercentualAcumuladoBenchmark": 21.830495603548364,
+          "PercentualAcumulado": 17.7034,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-01-15T00:00:00Z",
+          "DataFinal": "2025-01-15T00:00:00",
+          "PercentualSobreBenchmark": 0.8218571050728506,
+          "PercentualAcumuladoBenchmark": 21.885944513925686,
+          "PercentualAcumulado": 17.987119,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-01-16T00:00:00Z",
+          "DataFinal": "2025-01-16T00:00:00",
+          "PercentualSobreBenchmark": 0.8133536065212847,
+          "PercentualAcumuladoBenchmark": 21.941418660855206,
+          "PercentualAcumulado": 17.846132,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-01-17T00:00:00Z",
+          "DataFinal": "2025-01-17T00:00:00",
+          "PercentualSobreBenchmark": 0.8102190931825647,
+          "PercentualAcumuladoBenchmark": 21.996918055822885,
+          "PercentualAcumulado": 17.822323,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-01-20T00:00:00Z",
+          "DataFinal": "2025-01-20T00:00:00",
+          "PercentualSobreBenchmark": 0.8081825779626508,
+          "PercentualAcumuladoBenchmark": 22.052442710319895,
+          "PercentualAcumulado": 17.8224,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-01-21T00:00:00Z",
+          "DataFinal": "2025-01-21T00:00:00",
+          "PercentualSobreBenchmark": 0.7968506363367771,
+          "PercentualAcumuladoBenchmark": 22.107992635842653,
+          "PercentualAcumulado": 17.616768,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-01-22T00:00:00Z",
+          "DataFinal": "2025-01-22T00:00:00",
+          "PercentualSobreBenchmark": 0.7994743501950455,
+          "PercentualAcumuladoBenchmark": 22.163567843892796,
+          "PercentualAcumulado": 17.719204,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-01-23T00:00:00Z",
+          "DataFinal": "2025-01-23T00:00:00",
+          "PercentualSobreBenchmark": 0.7916570380180171,
+          "PercentualAcumuladoBenchmark": 22.219168345977206,
+          "PercentualAcumulado": 17.589961,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-01-24T00:00:00Z",
+          "DataFinal": "2025-01-24T00:00:00",
+          "PercentualSobreBenchmark": 0.8013147900228231,
+          "PercentualAcumuladoBenchmark": 22.274794153607996,
+          "PercentualAcumulado": 17.849122,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-01-27T00:00:00Z",
+          "DataFinal": "2025-01-27T00:00:00",
+          "PercentualSobreBenchmark": 0.8034159989381001,
+          "PercentualAcumuladoBenchmark": 22.33044527830252,
+          "PercentualAcumulado": 17.940637,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-01-28T00:00:00Z",
+          "DataFinal": "2025-01-28T00:00:00",
+          "PercentualSobreBenchmark": 0.8054820846685631,
+          "PercentualAcumuladoBenchmark": 22.386121731583373,
+          "PercentualAcumulado": 18.03162,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-01-29T00:00:00Z",
+          "DataFinal": "2025-01-29T00:00:00",
+          "PercentualSobreBenchmark": 0.8028635453774847,
+          "PercentualAcumuladoBenchmark": 22.4418235249784,
+          "PercentualAcumulado": 18.017722,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-01-30T00:00:00Z",
+          "DataFinal": "2025-01-30T00:00:00",
+          "PercentualSobreBenchmark": 0.8353199988584679,
+          "PercentualAcumuladoBenchmark": 22.497550670020683,
+          "PercentualAcumulado": 18.792654,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-01-31T00:00:00Z",
+          "DataFinal": "2025-01-31T00:00:00",
+          "PercentualSobreBenchmark": 0.8386369514737375,
+          "PercentualAcumuladoBenchmark": 22.557620394326758,
+          "PercentualAcumulado": 18.917654,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-02-03T00:00:00Z",
+          "DataFinal": "2025-02-03T00:00:00",
+          "PercentualSobreBenchmark": 0.8507790511736192,
+          "PercentualAcumuladoBenchmark": 22.617719575317953,
+          "PercentualAcumulado": 19.242682,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-02-04T00:00:00Z",
+          "DataFinal": "2025-02-04T00:00:00",
+          "PercentualSobreBenchmark": 0.8402384480616033,
+          "PercentualAcumuladoBenchmark": 22.677848227439085,
+          "PercentualAcumulado": 19.0548,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-02-05T00:00:00Z",
+          "DataFinal": "2025-02-05T00:00:00",
+          "PercentualSobreBenchmark": 0.8302549791234545,
+          "PercentualAcumuladoBenchmark": 22.738006365142063,
+          "PercentualAcumulado": 18.878343,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-02-06T00:00:00Z",
+          "DataFinal": "2025-02-06T00:00:00",
+          "PercentualSobreBenchmark": 0.8292373508887119,
+          "PercentualAcumuladoBenchmark": 22.79819400288587,
+          "PercentualAcumulado": 18.905114,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-02-07T00:00:00Z",
+          "DataFinal": "2025-02-07T00:00:00",
+          "PercentualSobreBenchmark": 0.8240128271455727,
+          "PercentualAcumuladoBenchmark": 22.858411155136594,
+          "PercentualAcumulado": 18.835624,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-02-10T00:00:00Z",
+          "DataFinal": "2025-02-10T00:00:00",
+          "PercentualSobreBenchmark": 0.8249785015768976,
+          "PercentualAcumuladoBenchmark": 22.9186578363674,
+          "PercentualAcumulado": 18.9074,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-02-11T00:00:00Z",
+          "DataFinal": "2025-02-11T00:00:00",
+          "PercentualSobreBenchmark": 0.8340917794128986,
+          "PercentualAcumuladoBenchmark": 22.978934061058563,
+          "PercentualAcumulado": 19.16654,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-02-12T00:00:00Z",
+          "DataFinal": "2025-02-12T00:00:00",
+          "PercentualSobreBenchmark": 0.8308668658283263,
+          "PercentualAcumuladoBenchmark": 23.03923984369745,
+          "PercentualAcumulado": 19.142541,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-02-13T00:00:00Z",
+          "DataFinal": "2025-02-13T00:00:00",
+          "PercentualSobreBenchmark": 0.8353880031967164,
+          "PercentualAcumuladoBenchmark": 23.099575198778542,
+          "PercentualAcumulado": 19.297108,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-02-14T00:00:00Z",
+          "DataFinal": "2025-02-14T00:00:00",
+          "PercentualSobreBenchmark": 0.846953095765624,
+          "PercentualAcumuladoBenchmark": 23.15994014080342,
+          "PercentualAcumulado": 19.615383,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-02-17T00:00:00Z",
+          "DataFinal": "2025-02-17T00:00:00",
+          "PercentualSobreBenchmark": 0.8603038359099666,
+          "PercentualAcumuladoBenchmark": 23.220334684280783,
+          "PercentualAcumulado": 19.976543,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-02-18T00:00:00Z",
+          "DataFinal": "2025-02-18T00:00:00",
+          "PercentualSobreBenchmark": 0.8619350483675239,
+          "PercentualAcumuladoBenchmark": 23.28075884372643,
+          "PercentualAcumulado": 20.066502,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-02-19T00:00:00Z",
+          "DataFinal": "2025-02-19T00:00:00",
+          "PercentualSobreBenchmark": 0.859645696859018,
+          "PercentualAcumuladoBenchmark": 23.341212633663297,
+          "PercentualAcumulado": 20.065173,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-02-20T00:00:00Z",
+          "DataFinal": "2025-02-20T00:00:00",
+          "PercentualSobreBenchmark": 0.8651283625184112,
+          "PercentualAcumuladoBenchmark": 23.40169606862143,
+          "PercentualAcumulado": 20.245471,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-02-21T00:00:00Z",
+          "DataFinal": "2025-02-21T00:00:00",
+          "PercentualSobreBenchmark": 0.8786571143687975,
+          "PercentualAcumuladoBenchmark": 23.462209163138006,
+          "PercentualAcumulado": 20.615237,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-02-24T00:00:00Z",
+          "DataFinal": "2025-02-24T00:00:00",
+          "PercentualSobreBenchmark": 0.8722052189948529,
+          "PercentualAcumuladoBenchmark": 23.522751931757327,
+          "PercentualAcumulado": 20.516667,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-02-25T00:00:00Z",
+          "DataFinal": "2025-02-25T00:00:00",
+          "PercentualSobreBenchmark": 0.8745915401813981,
+          "PercentualAcumuladoBenchmark": 23.583324389030825,
+          "PercentualAcumulado": 20.625776,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-02-26T00:00:00Z",
+          "DataFinal": "2025-02-26T00:00:00",
+          "PercentualSobreBenchmark": 0.8637363154224956,
+          "PercentualAcumuladoBenchmark": 23.643926549517076,
+          "PercentualAcumulado": 20.422118,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-02-27T00:00:00Z",
+          "DataFinal": "2025-02-27T00:00:00",
+          "PercentualSobreBenchmark": 0.8589315030706224,
+          "PercentualAcumuladoBenchmark": 23.704558427781787,
+          "PercentualAcumulado": 20.360592,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-02-28T00:00:00Z",
+          "DataFinal": "2025-02-28T00:00:00",
+          "PercentualSobreBenchmark": 0.8509109516901961,
+          "PercentualAcumuladoBenchmark": 23.76522003839781,
+          "PercentualAcumulado": 20.222086,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-03-05T00:00:00Z",
+          "DataFinal": "2025-03-05T00:00:00",
+          "PercentualSobreBenchmark": 0.8553742461859578,
+          "PercentualAcumuladoBenchmark": 23.825911395945145,
+          "PercentualAcumulado": 20.380071,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-03-06T00:00:00Z",
+          "DataFinal": "2025-03-06T00:00:00",
+          "PercentualSobreBenchmark": 0.8480155579598961,
+          "PercentualAcumuladoBenchmark": 23.88663251501094,
+          "PercentualAcumulado": 20.256236,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-03-07T00:00:00Z",
+          "DataFinal": "2025-03-07T00:00:00",
+          "PercentualSobreBenchmark": 0.8550970955468558,
+          "PercentualAcumuladoBenchmark": 23.9473834101895,
+          "PercentualAcumulado": 20.477338,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-03-10T00:00:00Z",
+          "DataFinal": "2025-03-10T00:00:00",
+          "PercentualSobreBenchmark": 0.851168998937934,
+          "PercentualAcumuladoBenchmark": 24.00816409608228,
+          "PercentualAcumulado": 20.435005,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-03-11T00:00:00Z",
+          "DataFinal": "2025-03-11T00:00:00",
+          "PercentualSobreBenchmark": 0.8634687749002764,
+          "PercentualAcumuladoBenchmark": 24.068974587297895,
+          "PercentualAcumulado": 20.782808,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-03-12T00:00:00Z",
+          "DataFinal": "2025-03-12T00:00:00",
+          "PercentualSobreBenchmark": 0.8590205141328974,
+          "PercentualAcumuladoBenchmark": 24.129814898452135,
+          "PercentualAcumulado": 20.728006,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-03-13T00:00:00Z",
+          "DataFinal": "2025-03-13T00:00:00",
+          "PercentualSobreBenchmark": 0.8637313065690684,
+          "PercentualAcumuladoBenchmark": 24.190685044167946,
+          "PercentualAcumulado": 20.894252,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-03-14T00:00:00Z",
+          "DataFinal": "2025-03-14T00:00:00",
+          "PercentualSobreBenchmark": 0.8590403046412273,
+          "PercentualAcumuladoBenchmark": 24.251585039075444,
+          "PercentualAcumulado": 20.833089,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-03-17T00:00:00Z",
+          "DataFinal": "2025-03-17T00:00:00",
+          "PercentualSobreBenchmark": 0.8612102486314317,
+          "PercentualAcumuladoBenchmark": 24.31251489781193,
+          "PercentualAcumulado": 20.938187,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-03-18T00:00:00Z",
+          "DataFinal": "2025-03-18T00:00:00",
+          "PercentualSobreBenchmark": 0.8671633944891186,
+          "PercentualAcumuladoBenchmark": 24.373474635021875,
+          "PercentualAcumulado": 21.135785,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-03-19T00:00:00Z",
+          "DataFinal": "2025-03-19T00:00:00",
+          "PercentualSobreBenchmark": 0.8688023510340671,
+          "PercentualAcumuladoBenchmark": 24.43446426535693,
+          "PercentualAcumulado": 21.22872,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-03-20T00:00:00Z",
+          "DataFinal": "2025-03-20T00:00:00",
+          "PercentualSobreBenchmark": 0.8433250049573897,
+          "PercentualAcumuladoBenchmark": 24.49548380347593,
+          "PercentualAcumulado": 20.657654,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-03-21T00:00:00Z",
+          "DataFinal": "2025-03-21T00:00:00",
+          "PercentualSobreBenchmark": 0.838190730761386,
+          "PercentualAcumuladoBenchmark": 24.560882439369962,
+          "PercentualAcumulado": 20.586704,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-03-24T00:00:00Z",
+          "DataFinal": "2025-03-24T00:00:00",
+          "PercentualSobreBenchmark": 0.8286257868412971,
+          "PercentualAcumuladoBenchmark": 24.626315429775865,
+          "PercentualAcumulado": 20.406,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-03-25T00:00:00Z",
+          "DataFinal": "2025-03-25T00:00:00",
+          "PercentualSobreBenchmark": 0.8238137833441725,
+          "PercentualAcumuladoBenchmark": 24.69178279274039,
+          "PercentualAcumulado": 20.341431,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-03-26T00:00:00Z",
+          "DataFinal": "2025-03-26T00:00:00",
+          "PercentualSobreBenchmark": 0.8248125096997162,
+          "PercentualAcumuladoBenchmark": 24.75728454631976,
+          "PercentualAcumulado": 20.420118,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-03-27T00:00:00Z",
+          "DataFinal": "2025-03-27T00:00:00",
+          "PercentualSobreBenchmark": 0.8271525722660235,
+          "PercentualAcumuladoBenchmark": 24.822820708579684,
+          "PercentualAcumulado": 20.53226,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-03-28T00:00:00Z",
+          "DataFinal": "2025-03-28T00:00:00",
+          "PercentualSobreBenchmark": 0.819479481663829,
+          "PercentualAcumuladoBenchmark": 24.888391297595366,
+          "PercentualAcumulado": 20.395526,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-03-31T00:00:00Z",
+          "DataFinal": "2025-03-31T00:00:00",
+          "PercentualSobreBenchmark": 0.825495753320959,
+          "PercentualAcumuladoBenchmark": 24.953996331451496,
+          "PercentualAcumulado": 20.599418,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-04-01T00:00:00Z",
+          "DataFinal": "2025-04-01T00:00:00",
+          "PercentualSobreBenchmark": 0.8242580803962415,
+          "PercentualAcumuladoBenchmark": 25.01963582824227,
+          "PercentualAcumulado": 20.622637,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-04-02T00:00:00Z",
+          "DataFinal": "2025-04-02T00:00:00",
+          "PercentualSobreBenchmark": 0.8247456443608541,
+          "PercentualAcumuladoBenchmark": 25.08530980607139,
+          "PercentualAcumulado": 20.689,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-04-03T00:00:00Z",
+          "DataFinal": "2025-04-03T00:00:00",
+          "PercentualSobreBenchmark": 0.8490428005608631,
+          "PercentualAcumuladoBenchmark": 25.151018283052068,
+          "PercentualAcumulado": 21.354291,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-04-04T00:00:00Z",
+          "DataFinal": "2025-04-04T00:00:00",
+          "PercentualSobreBenchmark": 0.8497937052401866,
+          "PercentualAcumuladoBenchmark": 25.21676127730703,
+          "PercentualAcumulado": 21.429045,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-04-07T00:00:00Z",
+          "DataFinal": "2025-04-07T00:00:00",
+          "PercentualSobreBenchmark": 0.853705759725797,
+          "PercentualAcumuladoBenchmark": 25.28253880696851,
+          "PercentualAcumulado": 21.583849,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-04-08T00:00:00Z",
+          "DataFinal": "2025-04-08T00:00:00",
+          "PercentualSobreBenchmark": 0.8541484648766321,
+          "PercentualAcumuladoBenchmark": 25.348350890178295,
+          "PercentualAcumulado": 21.651255,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-04-09T00:00:00Z",
+          "DataFinal": "2025-04-09T00:00:00",
+          "PercentualSobreBenchmark": 0.8411759199586505,
+          "PercentualAcumuladoBenchmark": 25.414197545087674,
+          "PercentualAcumulado": 21.377811,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-04-10T00:00:00Z",
+          "DataFinal": "2025-04-10T00:00:00",
+          "PercentualSobreBenchmark": 0.8387957971506548,
+          "PercentualAcumuladoBenchmark": 25.480078789857483,
+          "PercentualAcumulado": 21.372583,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-04-11T00:00:00Z",
+          "DataFinal": "2025-04-11T00:00:00",
+          "PercentualSobreBenchmark": 0.8472215430539211,
+          "PercentualAcumuladoBenchmark": 25.545994642658105,
+          "PercentualAcumulado": 21.643117,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-04-14T00:00:00Z",
+          "DataFinal": "2025-04-14T00:00:00",
+          "PercentualSobreBenchmark": 0.8577010412775751,
+          "PercentualAcumuladoBenchmark": 25.611945121669454,
+          "PercentualAcumulado": 21.967392,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-04-15T00:00:00Z",
+          "DataFinal": "2025-04-15T00:00:00",
+          "PercentualSobreBenchmark": 0.8550358533747446,
+          "PercentualAcumuladoBenchmark": 25.677930245081,
+          "PercentualAcumulado": 21.955551,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-04-16T00:00:00Z",
+          "DataFinal": "2025-04-16T00:00:00",
+          "PercentualSobreBenchmark": 0.8609067362713524,
+          "PercentualAcumuladoBenchmark": 25.743950031091774,
+          "PercentualAcumulado": 22.16314,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-04-17T00:00:00Z",
+          "DataFinal": "2025-04-17T00:00:00",
+          "PercentualSobreBenchmark": 0.8693907822378224,
+          "PercentualAcumuladoBenchmark": 25.810004497910356,
+          "PercentualAcumulado": 22.43898,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-04-22T00:00:00Z",
+          "DataFinal": "2025-04-22T00:00:00",
+          "PercentualSobreBenchmark": 0.8684942283803315,
+          "PercentualAcumuladoBenchmark": 25.876093663754904,
+          "PercentualAcumulado": 22.473238,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-04-23T00:00:00Z",
+          "DataFinal": "2025-04-23T00:00:00",
+          "PercentualSobreBenchmark": 0.8785975200013243,
+          "PercentualAcumuladoBenchmark": 25.942217546853133,
+          "PercentualAcumulado": 22.792768,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-04-24T00:00:00Z",
+          "DataFinal": "2025-04-24T00:00:00",
+          "PercentualSobreBenchmark": 0.8995523538715355,
+          "PercentualAcumuladoBenchmark": 26.00837616544234,
+          "PercentualAcumulado": 23.395896,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-04-25T00:00:00Z",
+          "DataFinal": "2025-04-25T00:00:00",
+          "PercentualSobreBenchmark": 0.9001647358358615,
+          "PercentualAcumuladoBenchmark": 26.074569537769406,
+          "PercentualAcumulado": 23.471408,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-04-28T00:00:00Z",
+          "DataFinal": "2025-04-28T00:00:00",
+          "PercentualSobreBenchmark": 0.9015905438932637,
+          "PercentualAcumuladoBenchmark": 26.14079768209079,
+          "PercentualAcumulado": 23.568296,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-04-29T00:00:00Z",
+          "DataFinal": "2025-04-29T00:00:00",
+          "PercentualSobreBenchmark": 0.9000608021257333,
+          "PercentualAcumuladoBenchmark": 26.20706061667254,
+          "PercentualAcumulado": 23.587948,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-04-30T00:00:00Z",
+          "DataFinal": "2025-04-30T00:00:00",
+          "PercentualSobreBenchmark": 0.9049379479551908,
+          "PercentualAcumuladoBenchmark": 26.27335835979031,
+          "PercentualAcumulado": 23.775759,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-05-02T00:00:00Z",
+          "DataFinal": "2025-05-02T00:00:00",
+          "PercentualSobreBenchmark": 0.8994718678820673,
+          "PercentualAcumuladoBenchmark": 26.339690929729343,
+          "PercentualAcumulado": 23.691811,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-05-05T00:00:00Z",
+          "DataFinal": "2025-05-05T00:00:00",
+          "PercentualSobreBenchmark": 0.887222761311035,
+          "PercentualAcumuladoBenchmark": 26.406058344784498,
+          "PercentualAcumulado": 23.428056,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-05-06T00:00:00Z",
+          "DataFinal": "2025-05-06T00:00:00",
+          "PercentualSobreBenchmark": 0.8902124489059944,
+          "PercentualAcumuladoBenchmark": 26.472460623260233,
+          "PercentualAcumulado": 23.566114,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-05-07T00:00:00Z",
+          "DataFinal": "2025-05-07T00:00:00",
+          "PercentualSobreBenchmark": 0.8867866025188892,
+          "PercentualAcumuladoBenchmark": 26.53889778347063,
+          "PercentualAcumulado": 23.534339,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-05-08T00:00:00Z",
+          "DataFinal": "2025-05-08T00:00:00",
+          "PercentualSobreBenchmark": 0.8917318247911065,
+          "PercentualAcumuladoBenchmark": 26.60536984373939,
+          "PercentualAcumulado": 23.724855,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-05-09T00:00:00Z",
+          "DataFinal": "2025-05-09T00:00:00",
+          "PercentualSobreBenchmark": 0.8925734466864272,
+          "PercentualAcumuladoBenchmark": 26.674073812509754,
+          "PercentualAcumulado": 23.80857,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-05-12T00:00:00Z",
+          "DataFinal": "2025-05-12T00:00:00",
+          "PercentualSobreBenchmark": 0.8900907755123532,
+          "PercentualAcumuladoBenchmark": 26.742815064337943,
+          "PercentualAcumulado": 23.803533,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-05-13T00:00:00Z",
+          "DataFinal": "2025-05-13T00:00:00",
+          "PercentualSobreBenchmark": 0.8956084200297211,
+          "PercentualAcumuladoBenchmark": 26.81159361945607,
+          "PercentualAcumulado": 24.012689,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-05-14T00:00:00Z",
+          "DataFinal": "2025-05-14T00:00:00",
+          "PercentualSobreBenchmark": 0.8894189652015335,
+          "PercentualAcumuladoBenchmark": 26.880409498107223,
+          "PercentualAcumulado": 23.907946,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-05-15T00:00:00Z",
+          "DataFinal": "2025-05-15T00:00:00",
+          "PercentualSobreBenchmark": 0.8915426462365825,
+          "PercentualAcumuladoBenchmark": 26.94926272054548,
+          "PercentualAcumulado": 24.026417,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-05-16T00:00:00Z",
+          "DataFinal": "2025-05-16T00:00:00",
+          "PercentualSobreBenchmark": 0.9007477203729694,
+          "PercentualAcumuladoBenchmark": 27.018153307035913,
+          "PercentualAcumulado": 24.33654,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-05-19T00:00:00Z",
+          "DataFinal": "2025-05-19T00:00:00",
+          "PercentualSobreBenchmark": 0.9100277267655613,
+          "PercentualAcumuladoBenchmark": 27.08708127785458,
+          "PercentualAcumulado": 24.649995,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-05-20T00:00:00Z",
+          "DataFinal": "2025-05-20T00:00:00",
+          "PercentualSobreBenchmark": 0.9036173900160982,
+          "PercentualAcumuladoBenchmark": 27.156046653288552,
+          "PercentualAcumulado": 24.538676,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-05-21T00:00:00Z",
+          "DataFinal": "2025-05-21T00:00:00",
+          "PercentualSobreBenchmark": 0.8898141779780943,
+          "PercentualAcumuladoBenchmark": 27.225049453635908,
+          "PercentualAcumulado": 24.225235,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-05-22T00:00:00Z",
+          "DataFinal": "2025-05-22T00:00:00",
+          "PercentualSobreBenchmark": 0.8880496571646186,
+          "PercentualAcumuladoBenchmark": 27.294089699205735,
+          "PercentualAcumulado": 24.238507,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-05-23T00:00:00Z",
+          "DataFinal": "2025-05-23T00:00:00",
+          "PercentualSobreBenchmark": 0.8890833665267239,
+          "PercentualAcumuladoBenchmark": 27.363167410318148,
+          "PercentualAcumulado": 24.328137,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-05-26T00:00:00Z",
+          "DataFinal": "2025-05-26T00:00:00",
+          "PercentualSobreBenchmark": 0.8856980058061448,
+          "PercentualAcumuladoBenchmark": 27.43228260730429,
+          "PercentualAcumulado": 24.296718,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-05-27T00:00:00Z",
+          "DataFinal": "2025-05-27T00:00:00",
+          "PercentualSobreBenchmark": 0.8947355918765306,
+          "PercentualAcumuladoBenchmark": 27.501435310506327,
+          "PercentualAcumulado": 24.606513,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-05-28T00:00:00Z",
+          "DataFinal": "2025-05-28T00:00:00",
+          "PercentualSobreBenchmark": 0.8872545878316624,
+          "PercentualAcumuladoBenchmark": 27.57062554027748,
+          "PercentualAcumulado": 24.462164,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-05-29T00:00:00Z",
+          "DataFinal": "2025-05-29T00:00:00",
+          "PercentualSobreBenchmark": 0.8835388060831622,
+          "PercentualAcumuladoBenchmark": 27.639853316981995,
+          "PercentualAcumulado": 24.420883,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-05-30T00:00:00Z",
+          "DataFinal": "2025-05-30T00:00:00",
+          "PercentualSobreBenchmark": 0.8743292161833732,
+          "PercentualAcumuladoBenchmark": 27.709118660995184,
+          "PercentualAcumulado": 24.226892,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-06-02T00:00:00Z",
+          "DataFinal": "2025-06-02T00:00:00",
+          "PercentualSobreBenchmark": 0.8706031737365679,
+          "PercentualAcumuladoBenchmark": 27.778421592703413,
+          "PercentualAcumulado": 24.183982,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-06-03T00:00:00Z",
+          "DataFinal": "2025-06-03T00:00:00",
+          "PercentualSobreBenchmark": 0.864778752612625,
+          "PercentualAcumuladoBenchmark": 27.84776213250411,
+          "PercentualAcumulado": 24.082153,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-06-04T00:00:00Z",
+          "DataFinal": "2025-06-04T00:00:00",
+          "PercentualSobreBenchmark": 0.8610027295419737,
+          "PercentualAcumuladoBenchmark": 27.917140300805766,
+          "PercentualAcumulado": 24.036734,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-06-05T00:00:00Z",
+          "DataFinal": "2025-06-05T00:00:00",
+          "PercentualSobreBenchmark": 0.8468226279807796,
+          "PercentualAcumuladoBenchmark": 27.986556118027956,
+          "PercentualAcumulado": 23.699649,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-06-06T00:00:00Z",
+          "DataFinal": "2025-06-06T00:00:00",
+          "PercentualSobreBenchmark": 0.8519806393308246,
+          "PercentualAcumuladoBenchmark": 28.056009604601332,
+          "PercentualAcumulado": 23.903177,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-06-09T00:00:00Z",
+          "DataFinal": "2025-06-09T00:00:00",
+          "PercentualSobreBenchmark": 0.8609943050822675,
+          "PercentualAcumuladoBenchmark": 28.125500780967634,
+          "PercentualAcumulado": 24.215896,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-06-10T00:00:00Z",
+          "DataFinal": "2025-06-10T00:00:00",
+          "PercentualSobreBenchmark": 0.86060122248784,
+          "PercentualAcumuladoBenchmark": 28.19502966757969,
+          "PercentualAcumulado": 24.264677,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-06-11T00:00:00Z",
+          "DataFinal": "2025-06-11T00:00:00",
+          "PercentualSobreBenchmark": 0.8520854059700569,
+          "PercentualAcumuladoBenchmark": 28.264596284901437,
+          "PercentualAcumulado": 24.08385,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-06-12T00:00:00Z",
+          "DataFinal": "2025-06-12T00:00:00",
+          "PercentualSobreBenchmark": 0.8547114949963208,
+          "PercentualAcumuladoBenchmark": 28.3342006534079,
+          "PercentualAcumulado": 24.217567,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-06-13T00:00:00Z",
+          "DataFinal": "2025-06-13T00:00:00",
+          "PercentualSobreBenchmark": 0.8635748049394085,
+          "PercentualAcumuladoBenchmark": 28.40384279358524,
+          "PercentualAcumulado": 24.528843,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-06-16T00:00:00Z",
+          "DataFinal": "2025-06-16T00:00:00",
+          "PercentualSobreBenchmark": 0.8549245639293939,
+          "PercentualAcumuladoBenchmark": 28.473522725930714,
+          "PercentualAcumulado": 24.342714,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-06-17T00:00:00Z",
+          "DataFinal": "2025-06-17T00:00:00",
+          "PercentualSobreBenchmark": 0.8523563757506316,
+          "PercentualAcumuladoBenchmark": 28.543240470952707,
+          "PercentualAcumulado": 24.329013,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-06-18T00:00:00Z",
+          "DataFinal": "2025-06-18T00:00:00",
+          "PercentualSobreBenchmark": 0.8516300410528391,
+          "PercentualAcumuladoBenchmark": 28.61299604917074,
+          "PercentualAcumulado": 24.367687,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-06-20T00:00:00Z",
+          "DataFinal": "2025-06-20T00:00:00",
+          "PercentualSobreBenchmark": 0.8482616035661047,
+          "PercentualAcumuladoBenchmark": 28.68278948111546,
+          "PercentualAcumulado": 24.330509,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-06-23T00:00:00Z",
+          "DataFinal": "2025-06-23T00:00:00",
+          "PercentualSobreBenchmark": 0.8435193243558553,
+          "PercentualAcumuladoBenchmark": 28.753733672339475,
+          "PercentualAcumulado": 24.25433,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-06-24T00:00:00Z",
+          "DataFinal": "2025-06-24T00:00:00",
+          "PercentualSobreBenchmark": 0.8443568074021442,
+          "PercentualAcumuladoBenchmark": 28.824716975851068,
+          "PercentualAcumulado": 24.338346,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-06-25T00:00:00Z",
+          "DataFinal": "2025-06-25T00:00:00",
+          "PercentualSobreBenchmark": 0.8416927371956606,
+          "PercentualAcumuladoBenchmark": 28.89573941321326,
+          "PercentualAcumulado": 24.321334,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-06-26T00:00:00Z",
+          "DataFinal": "2025-06-26T00:00:00",
+          "PercentualSobreBenchmark": 0.848422336829968,
+          "PercentualAcumuladoBenchmark": 28.966801006000956,
+          "PercentualAcumulado": 24.576081,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-06-27T00:00:00Z",
+          "DataFinal": "2025-06-27T00:00:00",
+          "PercentualSobreBenchmark": 0.8480270782003071,
+          "PercentualAcumuladoBenchmark": 29.03790177580096,
+          "PercentualAcumulado": 24.624927,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-06-30T00:00:00Z",
+          "DataFinal": "2025-06-30T00:00:00",
+          "PercentualSobreBenchmark": 0.8590643491372326,
+          "PercentualAcumuladoBenchmark": 29.109041744211982,
+          "PercentualAcumulado": 25.00654,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-07-01T00:00:00Z",
+          "DataFinal": "2025-07-01T00:00:00",
+          "PercentualSobreBenchmark": 0.8602856043404471,
+          "PercentualAcumuladoBenchmark": 29.180220932844623,
+          "PercentualAcumulado": 25.103324,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-07-02T00:00:00Z",
+          "DataFinal": "2025-07-02T00:00:00",
+          "PercentualSobreBenchmark": 0.8628188748772129,
+          "PercentualAcumuladoBenchmark": 29.251439363321413,
+          "PercentualAcumulado": 25.238694,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-07-03T00:00:00Z",
+          "DataFinal": "2025-07-03T00:00:00",
+          "PercentualSobreBenchmark": 0.865102038548832,
+          "PercentualAcumuladoBenchmark": 29.3226970572768,
+          "PercentualAcumulado": 25.367125,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-07-04T00:00:00Z",
+          "DataFinal": "2025-07-04T00:00:00",
+          "PercentualSobreBenchmark": 0.8627543425583031,
+          "PercentualAcumuladoBenchmark": 29.393994036357157,
+          "PercentualAcumulado": 25.359796,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-07-07T00:00:00Z",
+          "DataFinal": "2025-07-07T00:00:00",
+          "PercentualSobreBenchmark": 0.8567006961725263,
+          "PercentualAcumuladoBenchmark": 29.46533032222079,
+          "PercentualAcumulado": 25.242969,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-07-08T00:00:00Z",
+          "DataFinal": "2025-07-08T00:00:00",
+          "PercentualSobreBenchmark": 0.8510873911942568,
+          "PercentualAcumuladoBenchmark": 29.53670593653795,
+          "PercentualAcumulado": 25.138318,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-07-09T00:00:00Z",
+          "DataFinal": "2025-07-09T00:00:00",
+          "PercentualSobreBenchmark": 0.8437413533786267,
+          "PercentualAcumuladoBenchmark": 29.608120900990826,
+          "PercentualAcumulado": 24.981596,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-07-10T00:00:00Z",
+          "DataFinal": "2025-07-10T00:00:00",
+          "PercentualSobreBenchmark": 0.835616945381805,
+          "PercentualAcumuladoBenchmark": 29.67957523727357,
+          "PercentualAcumulado": 24.800756,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-07-11T00:00:00Z",
+          "DataFinal": "2025-07-11T00:00:00",
+          "PercentualSobreBenchmark": 0.8283840835184854,
+          "PercentualAcumuladoBenchmark": 29.75106896709229,
+          "PercentualAcumulado": 24.645312,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-07-14T00:00:00Z",
+          "DataFinal": "2025-07-14T00:00:00",
+          "PercentualSobreBenchmark": 0.8308623743429989,
+          "PercentualAcumuladoBenchmark": 29.822602112165065,
+          "PercentualAcumulado": 24.778478,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-07-15T00:00:00Z",
+          "DataFinal": "2025-07-15T00:00:00",
+          "PercentualSobreBenchmark": 0.823738211604136,
+          "PercentualAcumuladoBenchmark": 29.89417469422194,
+          "PercentualAcumulado": 24.624974,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-07-16T00:00:00Z",
+          "DataFinal": "2025-07-16T00:00:00",
+          "PercentualSobreBenchmark": 0.8227155261437166,
+          "PercentualAcumuladoBenchmark": 29.965786735004947,
+          "PercentualAcumulado": 24.653318,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-07-17T00:00:00Z",
+          "DataFinal": "2025-07-17T00:00:00",
+          "PercentualSobreBenchmark": 0.8262868420485475,
+          "PercentualAcumuladoBenchmark": 30.0374382562681,
+          "PercentualAcumulado": 24.81954,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-07-18T00:00:00Z",
+          "DataFinal": "2025-07-18T00:00:00",
+          "PercentualSobreBenchmark": 0.8238926396540216,
+          "PercentualAcumuladoBenchmark": 30.10912927977741,
+          "PercentualAcumulado": 24.80669,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-07-21T00:00:00Z",
+          "DataFinal": "2025-07-21T00:00:00",
+          "PercentualSobreBenchmark": 0.8205883179507368,
+          "PercentualAcumuladoBenchmark": 30.18085982731088,
+          "PercentualAcumulado": 24.766061,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-07-22T00:00:00Z",
+          "DataFinal": "2025-07-22T00:00:00",
+          "PercentualSobreBenchmark": 0.8254898521383291,
+          "PercentualAcumuladoBenchmark": 30.252629920658528,
+          "PercentualAcumulado": 24.973239,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-07-23T00:00:00Z",
+          "DataFinal": "2025-07-23T00:00:00",
+          "PercentualSobreBenchmark": 0.8282296835988648,
+          "PercentualAcumuladoBenchmark": 30.324439581622386,
+          "PercentualAcumulado": 25.115601,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-07-24T00:00:00Z",
+          "DataFinal": "2025-07-24T00:00:00",
+          "PercentualSobreBenchmark": 0.8264339156279,
+          "PercentualAcumuladoBenchmark": 30.396288832016495,
+          "PercentualAcumulado": 25.120524,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-07-25T00:00:00Z",
+          "DataFinal": "2025-07-25T00:00:00",
+          "PercentualSobreBenchmark": 0.8277300091118369,
+          "PercentualAcumuladoBenchmark": 30.468177693666938,
+          "PercentualAcumulado": 25.219425,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-07-28T00:00:00Z",
+          "DataFinal": "2025-07-28T00:00:00",
+          "PercentualSobreBenchmark": 0.8322207147283571,
+          "PercentualAcumuladoBenchmark": 30.540106188411812,
+          "PercentualAcumulado": 25.416109,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-07-29T00:00:00Z",
+          "DataFinal": "2025-07-29T00:00:00",
+          "PercentualSobreBenchmark": 0.8371155027578394,
+          "PercentualAcumuladoBenchmark": 30.612074338101273,
+          "PercentualAcumulado": 25.625842,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-07-30T00:00:00Z",
+          "DataFinal": "2025-07-30T00:00:00",
+          "PercentualSobreBenchmark": 0.8318727887337745,
+          "PercentualAcumuladoBenchmark": 30.684082164597505,
+          "PercentualAcumulado": 25.525253,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-07-31T00:00:00Z",
+          "DataFinal": "2025-07-31T00:00:00",
+          "PercentualSobreBenchmark": 0.8236930412093579,
+          "PercentualAcumuladoBenchmark": 30.756129689774763,
+          "PercentualAcumulado": 25.33361,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-08-01T00:00:00Z",
+          "DataFinal": "2025-08-01T00:00:00",
+          "PercentualSobreBenchmark": 0.8302014369994843,
+          "PercentualAcumuladoBenchmark": 30.828216935519347,
+          "PercentualAcumulado": 25.59363,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-08-04T00:00:00Z",
+          "DataFinal": "2025-08-04T00:00:00",
+          "PercentualSobreBenchmark": 0.8385345827850765,
+          "PercentualAcumuladoBenchmark": 30.90034392372963,
+          "PercentualAcumulado": 25.911007,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-08-05T00:00:00Z",
+          "DataFinal": "2025-08-05T00:00:00",
+          "PercentualSobreBenchmark": 0.838637050494658,
+          "PercentualAcumuladoBenchmark": 30.972510676316052,
+          "PercentualAcumulado": 25.974695,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-08-06T00:00:00Z",
+          "DataFinal": "2025-08-06T00:00:00",
+          "PercentualSobreBenchmark": 0.8408120395832981,
+          "PercentualAcumuladoBenchmark": 31.044717215201143,
+          "PercentualAcumulado": 26.102772,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-08-07T00:00:00Z",
+          "DataFinal": "2025-08-07T00:00:00",
+          "PercentualSobreBenchmark": 0.8483947332177336,
+          "PercentualAcumuladoBenchmark": 31.11696356231951,
+          "PercentualAcumulado": 26.399468,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-08-08T00:00:00Z",
+          "DataFinal": "2025-08-08T00:00:00",
+          "PercentualSobreBenchmark": 0.8485557434355993,
+          "PercentualAcumuladoBenchmark": 31.189249739617853,
+          "PercentualAcumulado": 26.465817,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-08-11T00:00:00Z",
+          "DataFinal": "2025-08-11T00:00:00",
+          "PercentualSobreBenchmark": 0.8554900174441352,
+          "PercentualAcumuladoBenchmark": 31.261575769054982,
+          "PercentualAcumulado": 26.743966,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-08-12T00:00:00Z",
+          "DataFinal": "2025-08-12T00:00:00",
+          "PercentualSobreBenchmark": 0.861684855423364,
+          "PercentualAcumuladoBenchmark": 31.333941672601796,
+          "PercentualAcumulado": 26.999983,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-08-13T00:00:00Z",
+          "DataFinal": "2025-08-13T00:00:00",
+          "PercentualSobreBenchmark": 0.8662776218739451,
+          "PercentualAcumuladoBenchmark": 31.406347472241322,
+          "PercentualAcumulado": 27.206616,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-08-14T00:00:00Z",
+          "DataFinal": "2025-08-14T00:00:00",
+          "PercentualSobreBenchmark": 0.8659176937153449,
+          "PercentualAcumuladoBenchmark": 31.478793189968698,
+          "PercentualAcumulado": 27.258044,
+          "NominalAcumulado": 0.0
+        },
+        {
+          "DataInicial": "2025-08-15T00:00:00Z",
+          "DataFinal": "2025-08-15T00:00:00",
+          "PercentualSobreBenchmark": 0.86387091095384,
+          "PercentualAcumuladoBenchmark": 31.551278847791192,
+          "PercentualAcumulado": 27.256232,
+          "NominalAcumulado": 0.0
+        }
+      ]
+    },
+    "status_code": 200
+  }
+}
