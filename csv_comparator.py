@@ -1,11 +1,11 @@
 """
-Comparador de CSVs - compara rentabilidade da API com banco de dados
+Comparador de dados de rentabilidade entre API e banco de dados
 """
 
-import pandas as pd
 import logging
-from typing import Dict, List, Any
-from config import OUTPUT_FILENAME_API, OUTPUT_FILENAME_BANCO, PERIODO_DESCRICOES
+import pandas as pd
+from typing import Dict, List, Tuple, Optional
+from config import PERIODO_DESCRICOES, COMPARISON_TOLERANCE, OUTPUT_FILENAME_API, OUTPUT_FILENAME_BANCO
 from datetime import datetime
 
 logger = logging.getLogger(__name__)
@@ -15,7 +15,7 @@ class CSVComparator:
     """Compara dados de rentabilidade entre API e banco de dados"""
     
     def __init__(self):
-        self.tolerance = 0.01  # 1% de tolerância (0.01 em escala decimal)
+        self.tolerance = COMPARISON_TOLERANCE  # Tolerância configurada centralmente
     
     def load_csv_data(self, filename: str) -> pd.DataFrame:
         """
@@ -148,6 +148,8 @@ class CSVComparator:
         """
         try:
             logger.info("Iniciando comparação otimizada...")
+            logger.info(f"📊 Dados da API: {len(api_df)} registros")
+            logger.info(f"📊 Dados do banco: {len(bank_df)} registros")
             
             # Preparar dados para merge
             # Converter DataFinal da API para formato compatível com PositionDate do banco
@@ -200,7 +202,7 @@ class CSVComparator:
                 # Calcular diferença
                 diferenca = abs(api_value - bank_value)
                 
-                # Determinar status (tolerância de 1%)
+                # Determinar status (tolerância configurada em config.py)
                 status = 'OK' if diferenca < self.tolerance else 'ERRO'
                 
                 # Adicionar resultado
@@ -264,15 +266,23 @@ class CSVComparator:
             # Estatísticas
             total_ok = len(result_df[result_df['Status'] == 'OK'])
             total_erro = len(result_df[result_df['Status'] == 'ERRO'])
+            total_registros = len(result_df)
             
-            logger.info(f"Registros OK: {total_ok}")
-            logger.info(f"Registros com ERRO: {total_erro}")
-            logger.info(f"Taxa de sucesso: {(total_ok / len(result_df) * 100):.1f}%")
+            logger.info(f"📊 ESTATÍSTICAS DA COMPARAÇÃO:")
+            logger.info(f"  Total de registros: {total_registros}")
+            logger.info(f"  Registros OK: {total_ok}")
+            logger.info(f"  Registros com ERRO: {total_erro}")
+            if total_registros > 0:
+                taxa_sucesso = (total_ok / total_registros * 100)
+                logger.info(f"  Taxa de sucesso: {taxa_sucesso:.1f}%")
+            else:
+                logger.warning("  Taxa de sucesso: N/A (sem registros)")
             
             # Estatísticas por tipo de registro
+            logger.info(f"📋 DISTRIBUIÇÃO POR TIPO DE REGISTRO:")
             for tipo in result_df['TipoRegistro'].unique():
                 count = len(result_df[result_df['TipoRegistro'] == tipo])
-                logger.info(f"Tipo '{tipo}': {count} registros")
+                logger.info(f"  Tipo '{tipo}': {count} registros")
             
             return result_df
             
@@ -351,14 +361,23 @@ class CSVComparator:
                 return ""
             
             # Fazer comparação registro a registro
+            logger.info("🔄 Iniciando comparação dos dados...")
             comparison = self.compare_all_combinations(api_df, bank_df)
             
             if comparison.empty:
-                logger.error("Falha na comparação dos dados")
+                logger.error("❌ Falha na comparação dos dados - DataFrame vazio retornado")
                 return ""
             
+            logger.info(f"✅ Comparação concluída com sucesso: {len(comparison)} registros processados")
+            
             # Exportar resultado
+            logger.info("💾 Exportando resultado da comparação...")
             output_file = self.export_comparison(comparison)
+            
+            if output_file:
+                logger.info(f"✅ Comparação exportada com sucesso: {output_file}")
+            else:
+                logger.warning("⚠️ Falha na exportação da comparação")
             
             logger.info("=== COMPARAÇÃO CONCLUÍDA ===")
             return output_file

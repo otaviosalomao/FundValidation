@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-08-19T14:45:09.612711",
+  "created_at": "2025-08-19T22:39:30.385678",
   "ttl_hours": 24,
   "cache_key": "api_5fb6ce8afdbd82ddf8805acc26d6564b",
   "data": {
@@ -8,7 +8,7 @@
     "data": {
       "DataUltimaAtualizacao": "2025-08-19T14:10:02.888Z",
       "IsCache": true,
-      "DataInicial": "2024-08-18T00:00:00",
+      "DataInicial": "2024-08-18T00:00:00-03:00",
       "DataFinal": "2025-08-19T00:00:00-03:00",
       "Rentabilidades": [
         {

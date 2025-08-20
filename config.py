@@ -21,7 +21,7 @@ PERIODOS = list(range(1, 9))
 
 # Configurações de requisição
 REQUEST_TIMEOUT = 30
-MAX_RETRIES = 3
+MAX_RETRIES = 5
 RETRY_DELAY = 1  # segundos
 
 # Configurações de saída
@@ -49,6 +49,9 @@ PERIODO_MAPPING = {
     7: 6,  # DoisAnos
     8: 7,  # TrintaDias
 }
+
+# Configurações de comparação
+COMPARISON_TOLERANCE = 0.10  # 5% de tolerância para comparação de valores
 
 # Descrições dos períodos baseadas no enum EPeriodo
 PERIODO_DESCRICOES = {
